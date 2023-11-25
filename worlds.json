@@ -2,7 +2,7 @@
   {
     "worldName": "Lobby",
     "placeId": 7226813029,
-    "recommendedFps": 30,
+    "recommendedFps": 60,
     "builders": [
       "namireen"
     ],
