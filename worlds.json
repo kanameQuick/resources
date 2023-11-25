@@ -1,7 +1,9 @@
 [
   {
     "worldName": "Lobby",
+    "category": "2D Image Roleplay",
     "placeId": 7226813029,
+    "worldImageId": 15436865549,
     "recommendedFps": 60,
     "builders": [
       "namireen"
