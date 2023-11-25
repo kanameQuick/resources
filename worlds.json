@@ -10,5 +10,60 @@
 		"inspiration": null,
 		"copyright": null,
 		"credits": null
+	},
+	"The City": {
+		"category": "2D Image Roleplay",
+		"placeId": 0,
+		"worldImageId": 0,
+		"recommendedFps": 50,
+		"builders": [
+			"Nicolas77rrr",
+			"namireen"
+		],
+		"inspiration": null,
+		"copyright": null,
+		"credits": {
+			"Original builder": "Nicolas77rrr",
+			"Modified by": "namireen"
+		}
+	},
+	"The Beach": {
+		"category": "2D Image Roleplay",
+		"placeId": 0,
+		"worldImageId": 0,
+		"recommendedFps": 30,
+		"builders": [
+			"namireen"
+		],
+		"inspiration": null,
+		"copyright": null,
+		"credits": null
+	},
+	"The Forest": {
+		"category": "2D Image Roleplay",
+		"placeId": 0,
+		"worldImageId": 0,
+		"recommendedFps": 40,
+		"builders": [
+			"namireen"
+		],
+		"inspiration": null,
+		"copyright": null,
+		"credits": null
+	},
+	"The Backrooms": {
+		"category": "Famous Maps",
+		"placeId": 0,
+		"worldImageId": 0,
+		"recommendedFps": 20,
+		"builders": [
+			"<Unknown>",
+			"namireen"
+		],
+		"inspiration": "The Backrooms",
+		"copyright": "Anonymous",
+		"credits": {
+			"Concept by": "Anonymous"
+		}
 	}
 }
