@@ -1,15 +1,15 @@
 [
-  {
-    "worldName": "Lobby",
-    "category": "2D Image Roleplay",
-    "placeId": 7226813029,
-    "worldImageId": 15436865549,
-    "recommendedFps": 60,
-    "builders": [
-      "namireen"
-    ],
-    "inspiration": null,
-    "copyright": null,
-    "credits": null
-  }
+	{
+		"worldName": "Lobby",
+		"category": "2D Image Roleplay",
+		"placeId": 7226813029,
+		"worldImageId": 15436865549,
+		"recommendedFps": 10,
+		"builders": [
+			"namireen"
+		],
+		"inspiration": null,
+		"copyright": null,
+		"credits": null
+	}
 ]
