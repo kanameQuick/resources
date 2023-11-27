@@ -20,7 +20,6 @@
 		"recommendedFps": 50,
 		"builders": [
 			"Nicolas77rrr",
-			"namireen"
 		],
 		"inspiration": null,
 		"copyright": null,
@@ -62,12 +61,12 @@
 		"recommendedFps": 35,
 		"builders": [
 			"stormvader2006",
-			"namireen"
 		],
 		"inspiration": "The Backrooms",
 		"copyright": "Anonymous",
 		"credits": {
-			"Concept by": "Anonymous"
+			"Concept by": "Anonymous",
+			"Modified by": "namireen"
 		}
 	}
 }
