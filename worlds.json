@@ -25,7 +25,6 @@
 		"inspiration": null,
 		"copyright": null,
 		"credits": {
-			"Original builder": "Nicolas77rrr",
 			"Modified by": "namireen"
 		}
 	},
@@ -58,11 +57,11 @@
 	"The Backrooms": {
 		"category": "Famous Maps",
 		"description": "The Backrooms is a popular online fiction born from a creepypasta, exemplifies the internet aesthetic of liminal spaces.",
-		"placeId": 0,
-		"worldImageId": 0,
-		"recommendedFps": 20,
+		"placeId": 15479881470,
+		"worldImageId": 15480313251,
+		"recommendedFps": 35,
 		"builders": [
-			"<Unknown>",
+			"stormvader2006",
 			"namireen"
 		],
 		"inspiration": "The Backrooms",
