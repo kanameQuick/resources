@@ -15,8 +15,8 @@
 	"The City": {
 		"category": "2D Image Roleplay",
 		"description": "Explore the various places in the city, filled with buildings and drivable vehicles.",
-		"placeId": 0,
-		"worldImageId": 0,
+		"placeId": 15487441252,
+		"worldImageId": 15487708513,
 		"recommendedFps": 50,
 		"builders": [
 			"Nicolas77rrr"
@@ -24,7 +24,8 @@
 		"inspiration": null,
 		"copyright": null,
 		"credits": {
-			"Modified by": "namireen"
+			"Modified by": "namireen",
+			"Miko Borgar Model by": "Become Fumo"
 		}
 	},
 	"The Beach": {
