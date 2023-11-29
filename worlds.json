@@ -44,9 +44,9 @@
 	"The Forest": {
 		"category": "2D Image Roleplay",
 		"description": "A calming place filled with trees, a waterfall, and a shrine.",
-		"placeId": 0,
-		"worldImageId": 0,
-		"recommendedFps": 40,
+		"placeId": 15488012847,
+		"worldImageId": 15493612582,
+		"recommendedFps": 20,
 		"builders": [
 			"namireen"
 		],
