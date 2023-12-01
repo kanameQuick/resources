@@ -29,11 +29,11 @@
 		}
 	},
 	"The Beach": {
-		"category": "2D Image Roleplay",
+		"category": "UNDER CONSTRUCTION • 2D Image Roleplay",
 		"description": "A great place to hang out with your friends and chilling under the hot summer sun.",
-		"placeId": 0,
-		"worldImageId": 0,
-		"recommendedFps": 30,
+		"placeId": 15493876596,
+		"worldImageId": 15510435505,
+		"recommendedFps": 45,
 		"builders": [
 			"namireen"
 		],
@@ -52,7 +52,22 @@
 		],
 		"inspiration": null,
 		"copyright": null,
-		"credits": null
+		"credits": {
+			"Beach Umbrella with Sunchairs": "abisammy",
+			"Beach Umbrella": "NickLeBuilder",
+			"Beach Chair": "Planispheric",
+			"Beach Towels": "OneVeryRandomPerson",
+			"Beach Ball": "HGRIsSad",
+			"Patrick & Pineapple": "SpongeBob SquarePants",
+			"Working Boats": "KoromaruLlm",
+			"Dock with Boat": "rofamal",
+			"Volleyball Net": "Buddahflys",
+			"Wall Outlet": "camcool12354",
+			"Hanging Light Bulb": "DevGr8M8",
+			"Omori": "omocat",
+			"Public Bathroom": "Garrett52Moon",
+			"Coconut Palm Tree Set": "FutureKevHD"
+		}
 	},
 	"The Backrooms": {
 		"category": "Famous Maps",
