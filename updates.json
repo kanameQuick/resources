@@ -1,107 +1,110 @@
 {
-	"10000000": {
-		"updateType": "notice",
-		"title": "Beware of Imitators",
-		"bannerImage": 15478541056,
-		"content": [
-			[
-				"text",
-				"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
-			],
-			[
-				"text",
-				"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
-			],
-			[
-				"text",
-				"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
-			],
-			[
-				"text",
-				"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+	"latest": "23120100",
+	"listing": {
+		"10000000": {
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
 			]
-		]
-	},
-	"23112700": {
-		"updateType": "notice",
-		"title": "Information regarding to V2 shutdown",
-		"bannerImage": 15478849594,
-		"content": [
-			[
-				"text",
-				"People are waiting to get 2D Image Roleplay to be publicly available again, and some are catching up on the progress of V3. It's been a while since the experience has been closed, so here are the reasons why we have to shut down the old 2D Image Roleplay V2."
-			],
-			[
-				"text",
-				"The first is to maintain the safety of other people as this major update includes a new safety system and a couple of security updates. Second, we will use the public release to assess certain features such as teleporting to other Worlds. And third, we had to shut it down because of an issue with the anti-cheat."
-			],
-			[
-				"text",
-				"Do not worry, as all your data from V2 which includes your Favourites, Recent Morphs, etc. are moved over to the new V3, and people who were banned by the anti-cheat due to an issue have now been unbanned."
+		},
+		"23112700": {
+			"updateType": "notice",
+			"title": "Information regarding to V2 shutdown",
+			"bannerImage": 15478849594,
+			"content": [
+				[
+					"text",
+					"People are waiting to get 2D Image Roleplay to be publicly available again, and some are catching up on the progress of V3. It's been a while since the experience has been closed, so here are the reasons why we have to shut down the old 2D Image Roleplay V2."
+				],
+				[
+					"text",
+					"The first is to maintain the safety of other people as this major update includes a new safety system and a couple of security updates. Second, we will use the public release to assess certain features such as teleporting to other Worlds. And third, we had to shut it down because of an issue with the anti-cheat."
+				],
+				[
+					"text",
+					"Do not worry, as all your data from V2 which includes your Favourites, Recent Morphs, etc. are moved over to the new V3, and people who were banned by the anti-cheat due to an issue have now been unbanned."
+				]
 			]
-		]
-	},
-	"23120100": {
-		"updateType": "event",
-		"title": "Introducing 2D Image Roleplay V3",
-		"bannerImage": 15479322104,
-		"content": [
-			[
-				"text",
-				"We have finally released the new major update of 2D Image Roleplay: Version 3. Now with a new look, new features, and a lot yet to come!"
-			],
-			[
-				"text",
-				"Here are some things that we've done in this major release:"
-			],
-			[
-				"add",
-				"Added Back Image",
-				"This feature allows you to set an image on the back side of your morph. Simply go to the Morph screen, click the arrow beside the 'Back' field, and select an image from the Library. You can also type it in manually if you want."
-			],
-			[
-				"add",
-				"Added Mori and an EXP system",
-				"We have added a feature that lets you earn Mori (a virtual currency) and EXP by visiting this experience. This will also help combat against abuse which means if people use an alt, they won't use intrusive props such as Boomboxes and Signs once they newly join."
-			],
-			[
-				"add",
-				"Added a custom Inventory feature",
-				"It allows you to show or hide the hotbar, move props by holding down their respective button and clicking to somewhere in the hotbar or hide it in the Inventory window, and search for props using the search bar at the top right corner."
-			],
-			[
-				"add",
-				"Added Worlds",
-				"To improve performance, we have split certain maps into 'Worlds'. This feature allows you to go to certain Worlds by entering one of the portals (in the Lobby), or by clicking on the 'Worlds' button on the menu."
-			],
-			[
-				"critical",
-				"Added some new safety features",
-				"This includes custom chat filtering, which blocks certain words that some people might find offensive, and improvements with Amburn, our proprietary anti-cheat engine built specifically for 2D Image Roleplay."
-			],
-			[
-				"fix",
-				"Quality of life improvements",
-				"We improved how everything in the interface behaves when being interacted. This includes collapsible panels in the Morph screen on mobile to fit more items more easily."
-			],
-			[
-				"fix",
-				"Improvements in performance",
-				"We have managed to optimise this experience to make it more accessible on lower-end devices, including devices before 2018."
-			],
-			[
-				"add",
-				"Added Emu Otori to the Lobby",
-				"Say 'Wonderhoy'."
-			],
-			[
-				"remove",
-				"Removed Herobrine"
-			],
-			[
-				"text",
-				"More features are yet to come in the near future!"
+		},
+		"23120100": {
+			"updateType": "event",
+			"title": "Introducing 2D Image Roleplay V3",
+			"bannerImage": 15479322104,
+			"content": [
+				[
+					"text",
+					"We have finally released the new major update of 2D Image Roleplay: Version 3. Now with a new look, new features, and a lot yet to come!"
+				],
+				[
+					"text",
+					"Here are some things that we've done in this major release:"
+				],
+				[
+					"add",
+					"Added Back Image",
+					"This feature allows you to set an image on the back side of your morph. Simply go to the Morph screen, click the arrow beside the 'Back' field, and select an image from the Library. You can also type it in manually if you want."
+				],
+				[
+					"add",
+					"Added Mori and an EXP system",
+					"We have added a feature that lets you earn Mori (a virtual currency) and EXP by visiting this experience. This will also help combat against abuse which means if people use an alt, they won't use intrusive props such as Boomboxes and Signs once they newly join."
+				],
+				[
+					"add",
+					"Added a custom Inventory feature",
+					"It allows you to show or hide the hotbar, move props by holding down their respective button and clicking to somewhere in the hotbar or hide it in the Inventory window, and search for props using the search bar at the top right corner."
+				],
+				[
+					"add",
+					"Added Worlds",
+					"To improve performance, we have split certain maps into 'Worlds'. This feature allows you to go to certain Worlds by entering one of the portals (in the Lobby), or by clicking on the 'Worlds' button on the menu."
+				],
+				[
+					"critical",
+					"Added some new safety features",
+					"This includes custom chat filtering, which blocks certain words that some people might find offensive, and improvements with Amburn, our proprietary anti-cheat engine built specifically for 2D Image Roleplay."
+				],
+				[
+					"fix",
+					"Quality of life improvements",
+					"We improved how everything in the interface behaves when being interacted. This includes collapsible panels in the Morph screen on mobile to fit more items more easily."
+				],
+				[
+					"fix",
+					"Improvements in performance",
+					"We have managed to optimise this experience to make it more accessible on lower-end devices, including devices before 2018."
+				],
+				[
+					"add",
+					"Added Emu Otori to the Lobby",
+					"Say 'Wonderhoy'."
+				],
+				[
+					"remove",
+					"Removed Herobrine"
+				],
+				[
+					"text",
+					"More features are yet to come in the near future!"
+				]
 			]
-		]
+		}
 	}
 }
