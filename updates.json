@@ -1,6 +1,44 @@
 {
-	"latest": 23120100,
+	"latest": 23120600,
 	"listing": [
+		{
+			"id": 23120600,
+			"updateType": "update",
+			"title": "V3.2.0 Release Notes (6 Dec 2023)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Done some changes to group blacklist."
+				],
+				[
+					"fix",
+					"Fixed an issue where some words were unintentionally blocked in the chat by the filter."
+				],
+				[
+					"fix",
+					"Fixed some issues with validating images.",
+					"There was an issue where some images in the Image Library failed to validate, especially ones made by Roblox groups."
+				],
+				[
+					"fix",
+					"Fixed an issue where staff members and Special people can be reported.",
+					"We saw that staff members and Special people were shown in the dropdown when opening the Report prompt. That issue has now been resolved."
+				],
+				[
+					"fix",
+					"Fixed issues with the banning system."
+				],
+				[
+					"fix",
+					"Fixed an issue where the World Teleport prompt and the Worlds selection screen can be scrolled simultaneously by dragging with a mouse."
+				],
+				[
+					"add",
+					"Added a safety component to The Beach."
+				]
+			]
+		},
 		{
 			"id": 23120100,
 			"updateType": "event",
