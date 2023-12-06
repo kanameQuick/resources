@@ -1,7 +1,8 @@
 {
-	"latest": "23120100",
+	"latest": 23120100,
 	"listing": [
 		{
+			"id": 23120100,
 			"updateType": "event",
 			"title": "Introducing 2D Image Roleplay V3",
 			"bannerImage": 15479322104,
@@ -65,6 +66,7 @@
 			]
 		},
 		{
+			"id": 23112700,
 			"updateType": "notice",
 			"title": "Information regarding to V2 shutdown",
 			"bannerImage": 15478849594,
@@ -84,6 +86,7 @@
 			]
 		},
 		{
+			"id": 10000000,
 			"updateType": "notice",
 			"title": "Beware of Imitators",
 			"bannerImage": 15478541056,
