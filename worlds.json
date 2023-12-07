@@ -10,7 +10,9 @@
 		],
 		"inspiration": null,
 		"copyright": null,
-		"credits": null
+		"credits": {
+			"FNF Cardboard Stage": "Funky Friday"
+		}
 	},
 	"The City": {
 		"category": "2D Image Roleplay",
