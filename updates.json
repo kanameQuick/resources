@@ -1,6 +1,69 @@
 {
-	"latest": 23120600,
+	"latest": 23121300,
 	"listing": [
+		{
+			"id": 23121300,
+			"updateType": "update",
+			"title": "V3.3.0 Release Notes (13 Dec 2023)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Updated the Audio Search keyword blacklist."
+				],
+				[
+					"add",
+					"Added 'TADC' to the Featured Searches in the Image Library."
+				],
+				[
+					"fix",
+					"Made the 'Development Build' text not visible on release builds."
+				],
+				[
+					"add",
+					"Added custom text filtering to roleplay names, bios, and Text Signs."
+				],
+				[
+					"fix",
+					"Fixed some formatting issues with the people list."
+				],
+				[
+					"fix",
+					"Fixed an issue where the Menu can still be drag-scrolled with a mouse while the Updates dialogue is open."
+				],
+				[
+					"critical",
+					"Fixed a serious issue where Amburn refuses to work.",
+					"We didn't see this issue happening until we realised that a person who's not a staff member can fly without triggering the anti-cheat."
+				],
+				[
+					"add",
+					"Made use of the keyword blacklist when selecting an image that's not from the Marketplace."
+				],
+				[
+					"fix",
+					"Fixed some issues about searching for people whose roleplay name is changed after joining."
+				],
+				[
+					"fix",
+					"Improved the custom chat filter.",
+					"It may not block words that the chat filter thinks it's offensive anymore, but that doesn't guarantee that it'll not block certain non-blacklisted words."
+				],
+				[
+					"fix",
+					"Fixed some issues about searching for people whose roleplay name is changed after joining."
+				],
+				[
+					"add",
+					"Added the V2 Lobby map as a World.",
+					"You can now visit the lobby from the previous major release of 2D Image Roleplay. To visit it, go to Menu > Worlds > V2 Lobby and click 'Teleport'."
+				],
+				[
+					"fix",
+					"Fixed other miscellaneous issues."
+				]
+			]
+		},
 		{
 			"id": 23120600,
 			"updateType": "update",
