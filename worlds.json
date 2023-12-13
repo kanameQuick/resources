@@ -88,5 +88,20 @@
 			"Concept by": "Anonymous",
 			"Modified by": "namireen"
 		}
+	},
+	"V2 Lobby": {
+		"category": "2D Image Roleplay (V2)",
+		"description": "Explore the old Lobby from 2D Image Roleplay V2, with unique buildings and structures. You will never forget the nostalgia and the legacy this map has.",
+		"placeId": 15622443061,
+		"worldImageId": 10410534531,
+		"recommendedFps": 40,
+		"builders": [
+			"namireen"
+		],
+		"inspiration": null,
+		"copyright": null,
+		"credits": {
+			"Miko Borger": "Become Fumo, Funky Friday"
+		}
 	}
 }
