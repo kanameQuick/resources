@@ -50,10 +50,6 @@
 					"It may not block words that the chat filter thinks it's offensive anymore, but that doesn't guarantee that it'll not block certain non-blacklisted words."
 				],
 				[
-					"fix",
-					"Fixed some issues about searching for people whose roleplay name is changed after joining."
-				],
-				[
 					"add",
 					"Added the V2 Lobby map as a World.",
 					"You can now visit the lobby from the previous major release of 2D Image Roleplay. To visit it, go to Menu > Worlds > V2 Lobby and click 'Teleport'."
