@@ -1,6 +1,65 @@
 {
-	"latest": 23121300,
+	"latest": 23121600,
 	"listing": [
+		{
+			"id": 23121600,
+			"updateType": "update",
+			"title": "V3.4.0 Release Notes (17 Dec 2023)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where the Market sometimes doesn't load indefinitely."
+				],
+				[
+					"fix",
+					"Added text labels to the expand/collapse buttons of the Morph panels for easy access."
+				],
+				[
+					"fix",
+					"Fixed scaling issues with the Updates dialogue."
+				],
+				[
+					"fix",
+					"Fixed an issue where the screenshot sound effect does not play.",
+					"Pressing the 'Print Screen' key on your keyboard when inside certain screens does not play a sound. This issue has now been resolved."
+				],
+				[
+					"add",
+					"Added a Portal Advertisement to the lobby."
+				],
+				[
+					"add",
+					"Added system message for when a person has been banned by Amburn."
+				],
+				[
+					"fix",
+					"Fixed an issue where when a character dies, the corresponding people list item doesn't reset."
+				],
+				[
+					"remove",
+					"Removed the automatic removal of Layered Clothing.",
+					"Since exploits regarding Layered Clothing are infrequent nowadays, we have decided that we now removed a safety feature that has been added since V2 as we found that some people are complaining and showing their frustrations about the mentioned safety feature."
+				],
+				[
+					"critical",
+					"Fixed an issue where consumable props could be duped by resetting the character before they are loaded into the backpack."
+				],
+				[
+					"add",
+					"Added a piano to the Lobby."
+				],
+				[
+					"add",
+					"Added the Harp prop.",
+					"To avoid the possibility of being banned, ensure that you either create an original piece or possess the appropriate rights to use the soundtrack you intend to play on the Harp."
+				],
+				[
+					"fix",
+					"Fixed additional issues."
+				]
+			]
+		},
 		{
 			"id": 23121300,
 			"updateType": "update",
