@@ -1,6 +1,67 @@
 {
-	"latest": 23121600,
+	"latest": 23122300,
 	"listing": [
+		{
+			"id": 23122300,
+			"updateType": "update",
+			"title": "V3.5 Release Notes (23 Dec 2023)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where Special group members don't have Gold Membership automatically."
+				],
+				[
+					"fix",
+					"Done some rewording on the Selfie screen and Favourites removal messages."
+				],
+				[
+					"fix",
+					"Updated search keyword blacklist for the Audio Library."
+				],
+				[
+					"fix",
+					"Fixed an issue where characters start colliding with each other."
+				],
+				[
+					"add",
+					"Added a sign beside the Portal Ad in the Lobby."
+				],
+				[
+					"fix",
+					"Prevent new items from getting added to the people list when searching for a person."
+				],
+				[
+					"fix",
+					"Fixed an issue with the in-experience chat system."
+				],
+				[
+					"fix",
+					"Fixed an issue with saving purchased props."
+				],
+				[
+					"fix",
+					"Fixed issues with the custom chat filter."
+				],
+				[
+					"fix",
+					"Updated the icon for Owner and Co-owner.",
+					"Some people think that the cloud icon (which refers to the Team Teriffic logo back then), does not mean anything to some people, so we have changed it."
+				],
+				[
+					"image",
+					15721215066
+				],
+				[
+					"fix",
+					"Made some improvements to the chat filter."
+				],
+				[
+					"add",
+					"Added Christmas decorations to the Lobby."
+				]
+			]
+		},
 		{
 			"id": 23121600,
 			"updateType": "update",
