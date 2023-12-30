@@ -1,6 +1,56 @@
 {
 	"latest": 23122300,
+	"template": [
+		{
+			"id": 23,
+			"updateType": "update",
+			"title": "V3. Release Notes ()",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					""
+				],
+				[
+					"add",
+					""
+				],
+				[
+					"remove",
+					""
+				],
+				[
+					"critical",
+					""
+				]
+			]
+		}
+	],
 	"listing": [
+		{
+			"id": 23123000,
+			"updateType": "update",
+			"title": "V3.6 Release Notes (30 Dec 2023)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed the sound distance for the Piano in the Lobby."
+				],
+				[
+					"fix",
+					"Fixed writing issue in the About section of the Settings."
+				],
+				[
+					"add",
+					"Added buttons that allows you to restore certain properties to their defaults on the Morph customisation."
+				],
+				[
+					"fix",
+					"Fixed additional issues."
+				]
+			]
+		},
 		{
 			"id": 23122300,
 			"updateType": "update",
