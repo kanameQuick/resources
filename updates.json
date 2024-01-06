@@ -1,8 +1,8 @@
 {
-	"latest": 23123000,
+	"latest": 24010600,
 	"template": [
 		{
-			"id": 23,
+			"id": 24,
 			"updateType": "update",
 			"title": "V3. Release Notes ()",
 			"bannerImage": null,
@@ -27,6 +27,52 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24010600,
+			"updateType": "update",
+			"title": "V3.7 Release Notes (6 Jan 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue regarding the sound for the Airhorn prop.",
+					"Sounds coming from the Airhorn prop cannot be heard from farther away anymore."
+				],
+				[
+					"fix",
+					"Fixed sound distance for the Drums prop."
+				],
+				[
+					"fix",
+					"Made sure that cropping resets when restoring defaults for the scaling in the Morph screen."
+				],
+				[
+					"remove",
+					"Removed 'amongusred3223' from the Special Thanks section in the Settings.",
+					"This is due to a breach of contract with the mentioned user, and other reasons that we should rather not disclose."
+				],
+				[
+					"add",
+					"Added an option to use the system time as the time of day in the Settings."
+				],
+				[
+					"critical",
+					"Added improvements to Amburn anti-cheat."
+				],
+				[
+					"fix",
+					"Fixed issues with the chat filter."
+				],
+				[
+					"fix",
+					"Updated role icon for people whose chatting features are disabled."
+				],
+				[
+					"fix",
+					"Fixed additional issues."
+				]
+			]
+		},
 		{
 			"id": 23123000,
 			"updateType": "update",
