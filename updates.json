@@ -28,6 +28,47 @@
 	],
 	"listing": [
 		{
+			"id": 24011400,
+			"updateType": "update",
+			"title": "V3.8 Release Notes (14 Jan 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where the anti-cheat sometimes kicks players when jumping off of a seat."
+				],
+				[
+					"fix",
+					"Added some improvements to the anti-cheat."
+				],
+				[
+					"fix",
+					"Fixed an issue where tapping and holding certain elements (like a prop item) doesn't work properly on mobile.",
+					"We have this issue since the release of V3. We tried fixing this issue once, but failed."
+				],
+				[
+					"fix",
+					"Made improvements for the Report feature."
+				],
+				[
+					"fix",
+					"Made sure that the loading screen is skipped immediately when clicking on 'Skip loading'."
+				],
+				[
+					"add",
+					"Added more teleport points in V2 Lobby."
+				],
+				[
+					"add",
+					"Added a minimap for the Beach."
+				],
+				[
+					"fix",
+					"Fixed additional issues."
+				]
+			]
+		},
+		{
 			"id": 24010600,
 			"updateType": "update",
 			"title": "V3.7 Release Notes (6 Jan 2024)",
