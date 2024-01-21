@@ -1,5 +1,5 @@
 {
-	"latest": 24011400,
+	"latest": 24012100,
 	"template": [
 		{
 			"id": 24,
@@ -27,6 +27,56 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24012100,
+			"updateType": "update",
+			"title": "V3.9 Release Notes (21 Jan 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed a problem where people get banned by the anti-cheat for having certain props that are outside the Market."
+				],
+				[
+					"fix",
+					"Fixed an issue where two of the same character sounds were playing simultaneously."
+				],
+				[
+					"fix",
+					"[Market] Made the Props items section not scrollable while the 'Confirm purchase' dialogue is open."
+				],
+				[
+					"fix",
+					"Fixed an issue where people did not claim the 'Met the Creator' badge immediately when joining a server with the creator already in it."
+				],
+				[
+					"add",
+					"Added a badge for playing the game for 30 minutes straight.",
+					"Because why not? :trollface:"
+				],
+				[
+					"fix",
+					"Fixed Bottle prop clipping through images."
+				],
+				[
+					"add",
+					"[Morph] Added size and position fields for the Image Crop screen."
+				],
+				[
+					"add",
+					"Added Graphics settings.",
+					"These new settings allow you to enable or disable textures or meshes, as well as lighting such as atmosphere, bloom, and shadows."
+				],
+				[
+					"fix",
+					"Made most props affect loudness when changing the Props Volume."
+				],
+				[
+					"fix",
+					"Fixed additional issues."
+				]
+			]
+		},
 		{
 			"id": 24011400,
 			"updateType": "update",
