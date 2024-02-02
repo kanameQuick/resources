@@ -1,5 +1,5 @@
 {
-	"latest": 24020200,
+	"latest": 24020201,
 	"template": [
 		{
 			"id": 24,
@@ -28,6 +28,26 @@
 	],
 	"listing": [
 		{
+			"id": 24020201,
+			"updateType": "notice",
+			"title": "Information regarding to February shutdown",
+			"bannerImage": 7790184392,
+			"content": [
+				[
+					"text",
+					"It's been a while since the last shutdown of 2D Image Roleplay, but we did it again for the first time ever this year. Here is a story as to what happened and why the experience has shut down in the first place."
+				],
+				[
+					"text",
+					"There has been a recent admin abuse that happened a few days ago in which a now-blacklisted former staff member gave almost every person flying, causing the anti-cheat to ban them in an instant. Because of this tragic scenario, we have no choice but to unrank the person who is potentially responsible and shut down the experience to prevent further damage."
+				],
+				[
+					"text",
+					"If you have seen another (probably undercover) staff member who does this kind of behaviour, don't hesitate to report to us immediately by sending a message to @namireen via Roblox's Message feature, or on our official Discord server."
+				]
+			]
+		},
+		{
 			"id": 24020200,
 			"updateType": "update",
 			"title": "V3.10 Release Notes (2 Feb 2024)",
@@ -48,7 +68,7 @@
 				[
 					"fix",
 					"Fixed the intensity of sun rays as it was too bright when looked directly at the sun."
-				],
+				]
 				[
 					"critical",
 					"Fixed an issue where certain props outside the Market falsely triggers the anti-cheat."
