@@ -1,5 +1,5 @@
 {
-	"latest": 24020100,
+	"latest": 24020200,
 	"template": [
 		{
 			"id": 24,
@@ -28,9 +28,9 @@
 	],
 	"listing": [
 		{
-			"id": 24020100,
+			"id": 24020200,
 			"updateType": "update",
-			"title": "V3.10 Release Notes (1 Feb 2024)",
+			"title": "V3.10 Release Notes (2 Feb 2024)",
 			"bannerImage": null,
 			"content": [
 				[
@@ -50,9 +50,13 @@
 					"Fixed the intensity of sun rays as it was too bright when looked directly at the sun."
 				],
 				[
+					"critical",
+					"Fixed an issue where certain props outside the Market falsely triggers the anti-cheat."
+				],
+				[
 					"fix",
 					"Fixed additional issues."
-				],
+				]
 			]
 		},
 		{
