@@ -31,7 +31,7 @@
 			"id": 24020201,
 			"updateType": "notice",
 			"title": "Information regarding to February shutdown",
-			"bannerImage": 7790184392,
+			"bannerImage": 14797490206,
 			"content": [
 				[
 					"text",
@@ -68,7 +68,7 @@
 				[
 					"fix",
 					"Fixed the intensity of sun rays as it was too bright when looked directly at the sun."
-				]
+				],
 				[
 					"critical",
 					"Fixed an issue where certain props outside the Market falsely triggers the anti-cheat."
