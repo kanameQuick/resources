@@ -10,7 +10,6 @@
 			["fatherless", "insult"],
 			["i dont care", "insult"],
 			["i don car", "insult"],
-			["cry about it", "insult"],
 			["adoll hitter", "vulgar"]
 		],
 		"exactMatch": [
@@ -30,6 +29,7 @@
 			["team terriffic", "brand"],
 			["eww genshin", "insult"],
 			["ew genshin", "insult"],
+			["cry about it", "insult"],
 			["ion car", "insult"]
 		]
 	},
