@@ -103,5 +103,22 @@
 		"credits": {
 			"Miko Borgar": "Become Fumo, Funky Friday"
 		}
+	},
+	"Friday Night Maps": {
+		"category": "Video Game Maps",
+		"description": "This World contains maps based on the top 3 mods from the hit rhythm game 'FNF': \"Vs. Kapi\", \"Mid-fight Masses\", and \"Sonic.EXE\".",
+		"placeId": 16402236072,
+		"worldImageId": 16416268535,
+		"recommendedFps": 20,
+		"builders": [
+			"mintyconfetticake"
+		],
+		"inspiration": "Friday Night Funkin'",
+		"copyright": null,
+		"credits": {
+			"Vs. Kapi": "paperkitty",
+			"Mid-fight Masses": "Mike Geno",
+			"Sonic.EXE": "RightBurstUltra"
+		}
 	}
 }
