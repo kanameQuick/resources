@@ -1,5 +1,5 @@
 {
-	"latest": 24020201,
+	"latest": 24021600,
 	"template": [
 		{
 			"id": 24,
@@ -27,6 +27,42 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24021600,
+			"updateType": "update",
+			"title": "V3.11: New props, new maps! (18 Feb 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where an error mostly occurs when selecting a saved item from the Morph library.",
+					"This happens to both the Favourites and the Recents. This issue has been fixed and most images can be used now."
+				],
+				[
+					"add",
+					"Added a new system where people can now be banned for 3 days after sending too many filtered messages."
+				],
+				[
+					"add",
+					"Fixed an issue where people get banned by the anti-cheat unexpectedly due to localisation problems."
+				],
+				[
+					"add",
+					"Added 2 new props to the experience.",
+					"This includes <b>Dice</b> and <b>Dice D20</b>."
+				],
+				[
+					"fix",
+					"Improved the thumbnail for some maps in the Map selector.",
+					"The thumbnail for some maps now shows an image of one specific place instead of showing the entire map, making it clear what is actually inside."
+				],
+				[
+					"add",
+					"Added new maps to the experience!",
+					"With help from <i>@mintyconfetticake</i>, we have added new maps based on the popular action rhythm game, \"Friday Night Funkin'\". These maps are based on the top 3 popular mods: <b>Vs. Kapi</b>, <b>Mid-fight masses</b>, and <b>Sonic.EXE</b>. To access the World containing these maps, go to Menu > Worlds, and select 'Friday Night Maps'."
+				]
+			]
+		},
 		{
 			"id": 24020201,
 			"updateType": "notice",
