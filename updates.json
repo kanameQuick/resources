@@ -31,7 +31,7 @@
 		{
 			"id": 24030200,
 			"updateType": "update",
-			"title": "V3.13: New Settings (3 Mar 2024)",
+			"title": "V3.13: New Settings and World People Counts (3 Mar 2024)",
 			"bannerImage": null,
 			"content": [
 				[
@@ -74,6 +74,10 @@
 				[
 					"fix",
 					"Fixed issue where some keywords return no results."
+				],
+				[
+					"add",
+					"Added a player count to the Worlds list."
 				]
 			]
 		},
