@@ -1,5 +1,5 @@
 {
-	"latest": 24022400,
+	"latest": 24030200,
 	"template": [
 		{
 			"id": 24,
@@ -27,6 +27,60 @@
 		}
 	],
 	"listing": [
+		
+		{
+			"id": 24030200,
+			"updateType": "update",
+			"title": "V3.13: New Settings and World People Counts (3 Mar 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Updated thumbnail for the Lobby map in Map Selector."
+				],
+				[
+					"fix",
+					"Made changes to the credits in Settings."
+				],
+				[
+					"fix",
+					"Updated the Report prompt.",
+					"We have changed the size of the Report prompt, and this also fixes the issue where sometimes the contents of the window don't appear as it opens."
+				],
+				[
+					"add",
+					"Added info text showing location information.",
+					"This shows your current location on the map, based on the zone you last visited. You can turn this off in the Settings."
+				],
+				[
+					"fix",
+					"Improved the Roleplay Name filter whitelist.",
+					"This list will now get frequent updates without updating the entire experience."
+				],
+				[
+					"add",
+					"Added settings to hide or change the behaviour of the Minimap.",
+					"For new users, the minimap rotation behaviour will be set to 'Fixed' by default but can be changed to rotate automatically with the camera in Settings."
+				],
+				[
+					"add",
+					"Added options to toggle the visibility of specific information in the status bar.",
+					"These settings can be found in the Miscellaneous category."
+				],
+				[
+					"fix",
+					"Improved drag-scrolling for desktop."
+				],
+				[
+					"fix",
+					"Fixed issue where some keywords return no results."
+				],
+				[
+					"add",
+					"Added a player count to the Worlds list."
+				]
+			]
+		},
 		{
 			"id": 24022400,
 			"updateType": "update",
