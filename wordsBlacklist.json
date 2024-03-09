@@ -1,0 +1,68 @@
+{
+	"basic": {
+		"fluffyMatch": [
+			["pony project", "experience"],
+			["ripoff", "experience"],
+			["nobody cares", "insult"],
+			["no one cares", "insult"],
+			["skill issue", "insult"],
+			["skil issue", "insult"],
+			["fatherless", "insult"],
+			["i dont care", "insult"],
+			["i don car", "insult"],
+			["adoll hitter", "vulgar"]
+		],
+		"exactMatch": [
+			["tpp", "experience"],
+			["fujick", "vulgar"],
+			["negar", "vulgar"],
+			["idc", "insult"],
+			["dnc", "insult"],
+			["shut up", "insult"],
+			["bigot", "insult"],
+			["cring", "insult"],
+			["crign", "insult"],
+			["crin", "insult"],
+			["crn", "insult"],
+			["gay", "insult"],
+			["gey", "insult"],
+			["team terrific", "brand"],
+			["team terriffic", "brand"],
+			["eww genshin", "insult"],
+			["ew genshin", "insult"],
+			["cry about it", "insult"],
+			["ion car", "insult"]
+		]
+	},
+	"critical": {
+		"fluffyMatch": [
+			["yYJGwiNVbqVjl3/oyewpNQ==", "OhG+rWv0D2KPZUpHA46BIw=="],
+			["uZQRSyDThoC0gcZ9sSZxHA==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["vHwkH4HhqW7ykCR6JwsTUg==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["gRmrW0itLdIqDAazkvI8tw==", "fb3n5wLE4hPfEpXoZiN50w=="],
+			["uDcrDE5LGywsX0IDE4SWUQ==", "fb3n5wLE4hPfEpXoZiN50w=="],
+			["twSRg9XioTGzBEndaBugzg==", "FdTew9gWQy1Utt1EI+HOAQ=="],
+			["s9gfLri3j3kzjKvY1xQIdw==", "UDokl2B8POccHDkwJdiyYA=="],
+			["qUUfpIBYnR+tFRKcdg76iQ==", "UDokl2B8POccHDkwJdiyYA=="],
+			["mphQ0AoHunA6qbYQiKK3jA==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["M8IB+EqVKSxc9DydeC4rAg==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["dpf98SdLtm4KQ7mgNEXMoA==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["qpXh6skz/IgcB0pUQpV9hA==", "S7LWa6L2K9PAW/3brbzEag=="],
+			["lomnqBG/wXjfXbKOR0AAagbqJShbMuy9lv1NaHp3Xy8=", "S7LWa6L2K9PAW/3brbzEag=="]
+		],
+		"exactMatch": [
+			["jZTbBca7ricnrRcAkiekAQ==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["cs5nTFennSYJN0I3cY+CuQ==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["CrJ5uqjnJjzDE1XJhE8UoA==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["cctdeHmx9o70uust299QMA==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["BXUZj4mksTe0tLueaTpVYg==", "/hVPxE94kIAsQMAdVBW8NQ=="],
+			["0DWJZ8iWpFEMtRJ26zQK1Q==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["cH1D+YqGnkYPkNn/aEltaQ==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["QN9ZUGbkOsyuPss5W5vGJw==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["1pxme0jGsfAOUyKG1+W13A==", "XGIZu/nuLBK2xWDKf9+4MA=="],
+			["kQcuZvdErqVeiZJPRaVgOw==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["8cU2nxyRdJZL8IuwAfmPAA==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["NlJULqZIr1cjVZYu0z46GA==", "tdMxjBC0lYGsyq/Q5jVnQg=="]
+		]
+	}
+}
