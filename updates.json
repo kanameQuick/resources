@@ -1,5 +1,5 @@
 {
-	"latest": 24030200,
+	"latest": 24030900,
 	"template": [
 		{
 			"id": 24,
@@ -27,7 +27,34 @@
 		}
 	],
 	"listing": [
-		
+		{
+			"id": 24030900,
+			"updateType": "update",
+			"title": "Important Information Regarding to Former Developer",
+			"bannerImage": null,
+			"content": [
+				[
+					"text",
+					"To those who may be concerned, we had temporarily shut down 2D Image Roleplay regarding a recent unexpected scenario that occurred during this time."
+				],
+				[
+					"text",
+					"As it turns out, a now-former Developer of WonderStars, <b>@mintyconfetticake</b>, has been suspected of manipulating the owner to gather intelligence, as well as downloading a copy of 2D Image Roleplay (version 3.11.1) without proper authorisation."
+				],
+				[
+					"text",
+					"A document about this incident has been made and posted on the WonderStars Discord server with all the submitted evidence. If you want to learn more about this, you can read it yourself."
+				],
+				[
+					"text",
+					"This experience has now been reinstated after certain security patches have been made to ensure the safety of our users."
+				],
+				[
+					"text",
+					"<i>Notice: You must be at least 13 years old to use Discord.<i>"
+				]
+			]
+		},
 		{
 			"id": 24030200,
 			"updateType": "update",
@@ -176,10 +203,6 @@
 				[
 					"fix",
 					"Renamed the map from 'Sonic EXE' to 'Sonic.EXE'."
-				],
-				[
-					"text",
-					"P.S: In a future update, a new world with maps will be added to the experience, which is based on the Sonic franchise! Credits to @mintyconfetticake for making these possible."
 				]
 			]
 		},
@@ -215,7 +238,7 @@
 				[
 					"add",
 					"Added new maps to the experience!",
-					"With help from <i>@mintyconfetticake</i>, we have added new maps based on the popular action rhythm game, \"Friday Night Funkin'\". These maps are based on the top 3 popular mods: <b>Vs. Kapi</b>, <b>Mid-fight masses</b>, and <b>Sonic.EXE</b>. To access the World containing these maps, go to Menu > Worlds, and select 'Friday Night Maps'."
+					"We have added new maps based on the popular action rhythm game, \"Friday Night Funkin'\". These maps are based on the top 3 popular mods: <b>Vs. Kapi</b>, <b>Mid-fight masses</b>, and <b>Sonic.EXE</b>. To access the World containing these maps, go to Menu > Worlds, and select 'Friday Night Maps'."
 				]
 			]
 		},
