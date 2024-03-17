@@ -1,5 +1,5 @@
 {
-	"latest": 24031000,
+	"latest": 24031700,
 	"template": [
 		{
 			"id": 24,
@@ -31,6 +31,71 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24031700,
+			"updateType": "update",
+			"title": "2D Image Roleplay: Version π (17 March 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Made the chat box larger on mobile phones."
+				],
+				[
+					"fix",
+					"Made improvements to the Worlds select screen."
+				],
+				[
+					"fix",
+					"Made the dot for the Menu button will now disappear if <b>all</b> items in the Menu also have their dots disappeared."
+				],
+				[
+					"add",
+					"Added a notice dot to the Worlds button in the Menu.",
+					"This points visitors to the World select screen before they can start roleplaying."
+				],
+				[
+					"fix",
+					"Prevented the Server Location from showing fictional locations (or placeholders), when possible.",
+					"This does not guarantee that the Server Location won't as one of the placeholders due to certain errors on that cannot be fixed in the experience-side."
+				],
+				[
+					"add",
+					"<font color='#ffff80'>Added the Pie prop.</font>",
+					"To celebrate an event that happened 3 days ago, we have added a new consumable, which is the 'Pie'. It is available to all users regardless of Roleplay rank."
+				],
+				[
+					"fix",
+					"Made improvements to the chat filter."
+				],
+				[
+					"fix",
+					"Made the images for the Updates have different scaling insteadead of having just one.",
+					"This makes the some text more readable, especially if the size is small."
+				],
+				[
+					"fix",
+					"Prevented people from morphing while not in normal state (e.g. Swimming, Climbing, etc.)"
+				],
+				[
+					"add",
+					"Added the number of people who are inside the World on portals."
+				],
+				[
+					"critical",
+					"Made members of the 'Galaxiidae Games' Roblox group get automatically kicked from this experience.",
+					"In response to a recent boycott situation happening in their Discord server, we have made a decision to permanently <b>block</b> any members of their Roblox group from joining 2D Image Roleplay."
+				],
+				[
+					"add",
+					"Added Portal text for the V2 Lobby."
+				],
+				[
+					"add",
+					"Added more zones to the Beach map."
+				]
+			]
+		},
 		{
 		"id": 24031000,
 		"updateType": "notice",
