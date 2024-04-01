@@ -1,8 +1,7 @@
 {
 	"basic": {
 		"fluffyMatch": [
-			["pony project", "experience"],
-			["ripoff", "experience"],
+			["pony project", "tpp"],
 			["nobody cares", "insult"],
 			["no one cares", "insult"],
 			["skill issue", "insult"],
@@ -13,7 +12,7 @@
 			["adoll hitter", "vulgar"]
 		],
 		"exactMatch": [
-			["tpp", "experience"],
+			["tpp", "tpp"],
 			["fujick", "vulgar"],
 			["negar", "vulgar"],
 			["idc", "insult"],
@@ -28,8 +27,8 @@
 			["gey", "insult"],
 			["team terrific", "brand"],
 			["team terriffic", "brand"],
-			["eww genshin", "insult"],
-			["ew genshin", "insult"],
+			["eww genshin", "community"],
+			["ew genshin", "community"],
 			["cry about it", "insult"],
 			["ion car", "insult"]
 		]
@@ -71,7 +70,14 @@
 			["jmKmsEGrDaejWrwAEKgs2g==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
  			["4hstPySzNJ089S7t67J3rQ==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
   			["E0luq0x+ocD1Vl+ggAHwwg==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
-  			["GzQ6zOaosQYJyZwZCcH8bA==", "tdMxjBC0lYGsyq/Q5jVnQg=="]
+  			["GzQ6zOaosQYJyZwZCcH8bA==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["N9u5yqoByqaBo2ufSakAiw==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["eJ2frYB0YVKTszq9v6zGpQ==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["rOkf55959YJoKc+zEB+z5A==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["YmwPiDpGs2hsNUrlp01XCg==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["YuBVFzLvKKKMbBNwkE5JBA==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["A2ufKGcK12va5/OX0JjQxw==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			["xv+MPd8xi6+BkO/T9gf1oQ==", "tdMxjBC0lYGsyq/Q5jVnQg=="]
 		]
 	}
 }
