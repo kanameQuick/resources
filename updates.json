@@ -32,9 +32,81 @@
 	],
 	"listing": [
 		{
+			"id": 24032400,
+			"updateType": "update",
+			"title": "V3.15: Revived Songs by Nuskit (24 Mar 24)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"<font color='#ffff80'>Successfully revived the Songs by Nuskit audio library.</font>",
+					"You can now play your favourite video game music/OSTs uploaded by Nuskit on your Boombox, thanks to a simple technique that we should rather not disclose how it works. Currently, only audios before 8 March 2024 are available to play in 2D Image Roleplay."
+				],
+				[
+					"fix",
+					"Fixed an issue with user bans."
+				],
+				[
+					"fix",
+					"Fixed an issue with the Portals system."
+				],
+				[
+					"fix",
+					"Made the toast notification for Props being added to your Inventory show the icon for the Prop itself.",
+					"Also added toast notification icons for Mori and Memberships being purchased as well."
+				],
+				[
+					"fix",
+					"Fixed an issue where the icon for Friends or Props toast notifications are tinted."
+				],
+				[
+					"add",
+					"Added Roblox's 'Builder' family to the font selection dropdowns."
+				],
+				[
+					"fix",
+					"Prevented people from earning playtime rewards during Idle/AFK."
+				],
+				[
+					"fix",
+					"Made the mouse cursor free in first-person mode by holding the Left Alt key (or Option for Mac users.)."
+				],
+				[
+					"add",
+					"Made the cursor switch to a crosshair while in first-person or with shift-lock on.",
+					"It is useful for users who don't want to get distracted by the default cursor while in first-person."
+				],
+				[
+					"fix",
+					"Made some changes to the instructions on how to get Gift Codes in the Market."
+				],
+				[
+					"add",
+					"Added warnings for sending specific types of filtered words in the chat.",
+					"Do not even try this or you may get yourself banned from this experience. Do this at your own risk. Here are some examples:"
+				],
+				[
+					"image",
+					16980622415
+				],
+				[
+					"add",
+					"Added new badges to the experience."
+				],
+				[
+					"add",
+					"Added a notification for when the mouse cursor is locked."
+				],
+				[
+					"fix",
+					"Fixed an issue where equipping the Robux prop in the City causes a permanent ban by the anti-cheat."
+				]
+			]
+		},
+		{
 			"id": 24031700,
 			"updateType": "update",
-			"title": "2D Image Roleplay: Version π (17 March 2024)",
+			"title": "2D Image Roleplay: Version π (17 Mar 2024)",
 			"bannerImage": null,
 			"content": [
 				[
