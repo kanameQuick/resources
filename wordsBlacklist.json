@@ -1,7 +1,6 @@
 {
 	"basic": {
 		"fluffyMatch": [
-			["pony project", "tpp"],
 			["nobody cares", "insult"],
 			["no one cares", "insult"],
 			["skill issue", "insult"],
