@@ -1,17 +1,19 @@
 {
 	"Lobby": {
 		"category": "2D Image Roleplay",
-		"description": "The starting place for 2D Image Roleplay.",
+		"description": "The starting place for 2D Image Roleplay. A great place to chill and hang out with your friends.",
 		"placeId": 7226813029,
-		"worldImageId": 15479165184,
-		"recommendedFps": 10,
+		"worldImageId": 17215019032,
+		"recommendedFps": 20,
 		"builders": [
 			"namireen"
 		],
 		"inspiration": null,
 		"copyright": null,
 		"credits": {
-			"FNF Cardboard Stage": "Funky Friday"
+			"FNF cardboard stage (Chill Zone)": "Funky Friday",
+			"Emu Otori statue": "Project Sekai: Colorful Stage!",
+			"Pom-Pom plush": "Honkai: Star Rail"
 		}
 	},
 	"The City": {
