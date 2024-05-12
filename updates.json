@@ -44,6 +44,85 @@
 	],
 	"listing": [
 		{
+			"id": 24,
+			"updateType": "update",
+			"title": "V3.17: Lobby improvements and optimisations (12 May 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"<b>Made additional optimisation changes to the Lobby.</b>",
+					"Because of this, changes to texture/mesh settings now require rejoing because of objects not loaded from far away, leading to only the pre-loaded ones to apply changes."
+				],
+				[
+					"fix",
+					"Updated the Image Library search keyword blacklist."
+				],
+				[
+					"fix",
+					"Made improvements to Amburn anti-cheat."
+				],
+				[
+					"fix",
+					"Made searching for Images even better.",
+					"What this means is that searching for names of certain characters that are innocent (which are typically filtered by Roblox for some reason) can now show results in the Image Library. This does not guarantee that ALL names of characters aren't going to be filtered, and it may still return no results."
+				],
+				[
+					"fix",
+					"Fixed an issue where, in some Worlds, the layout for the items in the 'Redeem' section is not in order."
+				],
+				[
+					"add",
+					"Added icons beside the text for Membership benifits in the Market."
+				],
+				[
+					"add",
+					"Added a minimap image for the Chill Zone."
+				],
+				[
+					"fix",
+					"Recovered the Emu Otori model in the Lobby."
+				],
+				[
+					"fix",
+					"Made sure that the Calculator prop wasn't checking for user inputs while unequipped."
+				],
+				[
+					"fix",
+					"Fixed an issue where certain numpad keys don't respond to the Calculator prop."
+				],
+				[
+					"add",
+					"Added a new decoration to the Lobby."
+				],
+				[
+					"fix",
+					"Made some fixes to the chat filter."
+				],
+				[
+					"add",
+					"Fixed the Lobby fountain banners not showing up."
+				],
+				[
+					"fix",
+					"Fixed an issue where the minimap incorrectly shows the character's position on mobile phones."
+				],
+				[
+					"fix",
+					"Fixed an issue under certain circumstances where Membership data fails to load, causing certain features to misbehave."
+				],
+				[
+					"fix",
+					"Fixed an issue where graphics options don't save upon closing the Settings screen.",
+					"This is what causes the graphics settings to undo changes when rejoining the experience."
+				],
+				[
+					"fix",
+					"Fixed the Backrooms wallpaper texture not being loaded."
+				]
+			]
+		},
+		{
 			"id": 24042000,
 			"updateType": "update",
 			"title": "V3.16: Introducing the New Lobby + Additional Changes (20 Apr 2024)",
@@ -611,7 +690,7 @@
 		{
 			"id": 24020201,
 			"updateType": "notice",
-			"title": "Information regarding to February shutdown",
+			"title": "Information regarding to February 2024 shutdown",
 			"bannerImage": 14797490206,
 			"content": [
 				[
