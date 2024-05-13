@@ -1,5 +1,5 @@
 {
-	"latest": 24051200,
+	"latest": 24051300,
 	"template": [
 		{
 			"id": 24,
@@ -43,6 +43,18 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24051300,
+			"updateType": "update",
+			"title": "V3.17.1: Anti-cheat hotfix (13 May 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"critical",
+					"Fixed an issue where people most often got kicked by Amburn anti-cheat in other Worlds."
+				]
+			]
+		},
 		{
 			"id": 24051200,
 			"updateType": "update",
