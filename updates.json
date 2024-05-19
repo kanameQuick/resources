@@ -1,5 +1,5 @@
 {
-	"latest": 24051300,
+	"latest": 24051900,
 	"template": [
 		{
 			"id": 24,
@@ -43,6 +43,47 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24051900,
+			"updateType": "update",
+			"title": "V3.18: Serious problem fixes (19 May 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Made falling into the void in the Lobby causes the character to teleport back to the spawn area instead of killing and then respawning."
+				],
+				[
+					"fix",
+					"Fixed an issue where the Map screen refuses to open."
+				],
+				[
+					"fix",
+					"Fixed a problem where starter Props and purchased consumables did not load at spawn."
+				],
+				[
+					"critical",
+					"Fixed some critical issues with Amburn anti-cheat."
+				],
+				[
+					"fix",
+					"Fixed a problem where the clouds in the lobby have a red tint at the bottom."
+				],
+				[
+					"fix",
+					"Fixed an issue under certain circumstances where the player falls off the map while teleporting.",
+					"This issue occurs when the 'Gameplay Paused' screen finishes showing too early, causing the character to let go while some parts of the map are still being streamed in."
+				],
+				[
+					"fix",
+					"Done some more fixes to the Advanced Image search system."
+				],
+				[
+					"fix",
+					"Fixed an issue where having a set Morph Transparency caused the morphed image to go completely invisible regardless of the amount of transparency or zoom distance."
+				]
+			]
+		},
 		{
 			"id": 24051300,
 			"updateType": "update",
