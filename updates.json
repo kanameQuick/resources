@@ -44,6 +44,42 @@
 	],
 	"listing": [
 		{
+			"id": 24052100,
+			"updateType": "notice",
+			"title": "Important: About the recent 2DIRP takedown",
+			"bannerImage": 17565016451,
+			"content": [
+				[
+					"text",
+					"There was recently an Intellectual Property (IP) takedown that happened in this experience."
+				],
+				[
+					"text",
+					"We've found out that it was <b>Nuskiterra/Nora who</b> submitted the requests according to the notice provided to us by Roblox."
+				],
+				[
+					"text",
+					"She has been actively sending false IP takedown requests to Roblox to gain an unfair advantage and potentially lose this Experience's daily active users, assuming that she has a dark past such as manipulating the Owner and gaining unauthorised access to this experience in its entirety."
+				],
+				[
+					"text",
+					"As a consequence, we have removed 'Songs by Nuskit' from the Audio Library indefinitely, as well as crediting her for the 'Friday Night Maps' world, despite her dark past."
+				],
+				[
+					"text",
+					"We are currently finding ways to stop these false requests from happening, for those who want to request audio from a specific game/show, feel free '#🎼〉song-request' channel in our Discord server."
+				],
+				[
+					"text",
+					"We will also be updating the exposure document about Nora, mentioning this scenario along with others not already mentioned."
+				],
+				[
+					"text",
+					"If there are any questions or feedback, feel free to send a message on the Discord server."
+				]
+			]
+		},
+		{
 			"id": 24051900,
 			"updateType": "update",
 			"title": "V3.18: Serious problem fixes (19 May 2024)",
