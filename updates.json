@@ -1,5 +1,5 @@
 {
-	"latest": 24052700,
+	"latest": 24061700,
 	"template": [
 		{
 			"id": 24,
@@ -43,6 +43,54 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24061700,
+			"updateType": "update",
+			"title": "V3.20: Toggle Walk and Markdowns (17 Jun 2024)",
+			"bannerImage": 17891086618,
+			"content": [
+				[
+					"fix",
+					"💬🚀 Optimised chat filter",
+					"We have made changes to the toxicity filter for all Worlds, which helped increase server performance by around 70 percent."
+				],
+				[
+					"fix",
+					"🍞 Renamed the 'Bread Loaf' prop to 'Bread Slice'."
+				],
+				[
+					"fix",
+					"✨ Made some small changes to the Membership benefits section in the Market."
+				],
+				[
+					"add",
+					"✨ Added a comparison table to the Memberships page in the Market."
+				],
+				[
+					"fix",
+					"🛡️⚠️ Fixed an issue where people occasionally get banned by Amburn due to a Roblox error.",
+					"For those who were affected by the ban, we sincerely apologise and unban the accounts as needed."
+				],
+				[
+					"fix",
+					"🖥️ Made some improvements to the UI system."
+				],
+				[
+					"add",
+					"🚶 Added 'Toggle Walk' functionality.",
+					"This lets your character slow down and walk by pressing the <b>Left Ctrl</b> key on your keyboard. Mobile users can also walk by dragging the thumbstick a few pixels away from the origin point."
+				],
+				[
+					"fix",
+					"🖱️🔒 Rebound 'Mouse Lock' action to the <b>Right Ctrl</b> key in favour of utilising the 'Toggle Walk' function."
+				],
+				[
+					"add",
+					"🔠🖌️ Added <b>Markdown Formatting</b> to the chat!",
+					"This allows you to make your text <b>**bold**</b>, <i>*italic*</i>, <u>__underline__</u>, <s>~~striketrough~~</s>, and more in the chat, just like you would on other chat platforms. As a bonus, you can also <font color='#FFFF80'>==highlight==</font> your text to make it appear yellow, which is useful for pointing things out, for example."
+				]
+			]
+		},
 		{
 			"id": 24052700,
 			"updateType": "update",
@@ -307,143 +355,6 @@
 					"fix",
 					"Added 3 new Props.",
 					"Ruler, Calculator, and Lantern."
-				]
-			]
-		},
-		{
-			"id": 24040200,
-			"updateType": "update",
-			"title": "V3.15: Revived Songs by Nuskit (2 Apr 24)",
-			"bannerImage": null,
-			"content": [
-				[
-					"fix",
-					"<font color='#ffff80'>Successfully revived the Songs by Nuskit audio library.</font>",
-					"You can now play your favourite video game music/OSTs uploaded by Nuskit on your Boombox, thanks to a simple technique that we should rather not disclose how it works. Currently, only audios before 8 March 2024 are available to play in 2D Image Roleplay."
-				],
-				[
-					"fix",
-					"Fixed an issue with user bans."
-				],
-				[
-					"fix",
-					"Fixed an issue with the Portals system."
-				],
-				[
-					"fix",
-					"Made the toast notification for Props being added to your Inventory show the icon for the Prop itself.",
-					"Also added toast notification icons for Mori and Memberships being purchased as well."
-				],
-				[
-					"fix",
-					"Fixed an issue where the icon for Friends or Props toast notifications are tinted."
-				],
-				[
-					"add",
-					"Added Roblox's 'Builder' family to the font selection dropdowns."
-				],
-				[
-					"fix",
-					"Prevented people from earning playtime rewards during Idle/AFK."
-				],
-				[
-					"fix",
-					"Made the mouse cursor free in first-person mode by holding the Left Alt key (or Option for Mac users)."
-				],
-				[
-					"add",
-					"Made the cursor switch to a crosshair while in first-person or with shift-lock on.",
-					"It is useful for users who don't want to get distracted by the default cursor while in first-person."
-				],
-				[
-					"fix",
-					"Made some changes to the instructions on how to get Gift Codes in the Market."
-				],
-				[
-					"add",
-					"Added warnings for sending specific types of filtered words in the chat.",
-					"Do not even try this or you may get yourself banned from this experience. Do this at your own risk. Here are some examples:"
-				],
-				[
-					"image",
-					16980622415
-				],
-				[
-					"add",
-					"Added new badges to the experience."
-				],
-				[
-					"add",
-					"Added a notification for when the mouse cursor is locked."
-				],
-				[
-					"fix",
-					"Fixed an issue where equipping the Robux prop in the City causes a permanent ban by the anti-cheat."
-				]
-			]
-		},
-		{
-			"id": 24031700,
-			"updateType": "update",
-			"title": "2D Image Roleplay: Version π (17 Mar 2024)",
-			"bannerImage": null,
-			"content": [
-				[
-					"fix",
-					"Made the chat box larger on mobile phones."
-				],
-				[
-					"fix",
-					"Made improvements to the Worlds select screen."
-				],
-				[
-					"fix",
-					"Made the dot for the Menu button will now disappear if <b>all</b> items in the Menu also have their dots disappeared."
-				],
-				[
-					"add",
-					"Added a notice dot to the Worlds button in the Menu.",
-					"This points visitors to the World select screen before they can start roleplaying."
-				],
-				[
-					"fix",
-					"Prevented the Server Location from showing fictional locations (or placeholders), when possible.",
-					"This does not guarantee that the Server Location won't as one of the placeholders due to certain errors on that cannot be fixed in the experience-side."
-				],
-				[
-					"add",
-					"<font color='#ffff80'>Added the Pie prop.</font>",
-					"To celebrate an event that happened 3 days ago, we have added a new consumable, which is the 'Pie'. It is available to all users regardless of Roleplay rank."
-				],
-				[
-					"fix",
-					"Made improvements to the chat filter."
-				],
-				[
-					"fix",
-					"Made the images for the Updates have different scaling insteadead of having just one.",
-					"This makes the some text more readable, especially if the size is small."
-				],
-				[
-					"fix",
-					"Prevented people from morphing while not in normal state (e.g. Swimming, Climbing, etc.)"
-				],
-				[
-					"add",
-					"Added the number of people who are inside the World on portals."
-				],
-				[
-					"critical",
-					"Made members of the 'Galaxiidae Games' Roblox group get automatically kicked from this experience.",
-					"In response to a recent boycott situation happening in their Discord server, we have made a decision to permanently <b>block</b> any members of their Roblox group from joining 2D Image Roleplay."
-				],
-				[
-					"add",
-					"Added Portal text for the V2 Lobby."
-				],
-				[
-					"add",
-					"Added more zones to the Beach map."
 				]
 			]
 		},
@@ -745,6 +656,143 @@
 	],
 	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
 	"archive": [
+		{
+			"id": 24040200,
+			"updateType": "update",
+			"title": "V3.15: Revived Songs by Nuskit (2 Apr 24)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"<font color='#ffff80'>Successfully revived the Songs by Nuskit audio library.</font>",
+					"You can now play your favourite video game music/OSTs uploaded by Nuskit on your Boombox, thanks to a simple technique that we should rather not disclose how it works. Currently, only audios before 8 March 2024 are available to play in 2D Image Roleplay."
+				],
+				[
+					"fix",
+					"Fixed an issue with user bans."
+				],
+				[
+					"fix",
+					"Fixed an issue with the Portals system."
+				],
+				[
+					"fix",
+					"Made the toast notification for Props being added to your Inventory show the icon for the Prop itself.",
+					"Also added toast notification icons for Mori and Memberships being purchased as well."
+				],
+				[
+					"fix",
+					"Fixed an issue where the icon for Friends or Props toast notifications are tinted."
+				],
+				[
+					"add",
+					"Added Roblox's 'Builder' family to the font selection dropdowns."
+				],
+				[
+					"fix",
+					"Prevented people from earning playtime rewards during Idle/AFK."
+				],
+				[
+					"fix",
+					"Made the mouse cursor free in first-person mode by holding the Left Alt key (or Option for Mac users)."
+				],
+				[
+					"add",
+					"Made the cursor switch to a crosshair while in first-person or with shift-lock on.",
+					"It is useful for users who don't want to get distracted by the default cursor while in first-person."
+				],
+				[
+					"fix",
+					"Made some changes to the instructions on how to get Gift Codes in the Market."
+				],
+				[
+					"add",
+					"Added warnings for sending specific types of filtered words in the chat.",
+					"Do not even try this or you may get yourself banned from this experience. Do this at your own risk. Here are some examples:"
+				],
+				[
+					"image",
+					16980622415
+				],
+				[
+					"add",
+					"Added new badges to the experience."
+				],
+				[
+					"add",
+					"Added a notification for when the mouse cursor is locked."
+				],
+				[
+					"fix",
+					"Fixed an issue where equipping the Robux prop in the City causes a permanent ban by the anti-cheat."
+				]
+			]
+		},
+		{
+			"id": 24031700,
+			"updateType": "update",
+			"title": "2D Image Roleplay: Version π (17 Mar 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Made the chat box larger on mobile phones."
+				],
+				[
+					"fix",
+					"Made improvements to the Worlds select screen."
+				],
+				[
+					"fix",
+					"Made the dot for the Menu button will now disappear if <b>all</b> items in the Menu also have their dots disappeared."
+				],
+				[
+					"add",
+					"Added a notice dot to the Worlds button in the Menu.",
+					"This points visitors to the World select screen before they can start roleplaying."
+				],
+				[
+					"fix",
+					"Prevented the Server Location from showing fictional locations (or placeholders), when possible.",
+					"This does not guarantee that the Server Location won't as one of the placeholders due to certain errors on that cannot be fixed in the experience-side."
+				],
+				[
+					"add",
+					"<font color='#ffff80'>Added the Pie prop.</font>",
+					"To celebrate an event that happened 3 days ago, we have added a new consumable, which is the 'Pie'. It is available to all users regardless of Roleplay rank."
+				],
+				[
+					"fix",
+					"Made improvements to the chat filter."
+				],
+				[
+					"fix",
+					"Made the images for the Updates have different scaling insteadead of having just one.",
+					"This makes the some text more readable, especially if the size is small."
+				],
+				[
+					"fix",
+					"Prevented people from morphing while not in normal state (e.g. Swimming, Climbing, etc.)"
+				],
+				[
+					"add",
+					"Added the number of people who are inside the World on portals."
+				],
+				[
+					"critical",
+					"Made members of the 'Galaxiidae Games' Roblox group get automatically kicked from this experience.",
+					"In response to a recent boycott situation happening in their Discord server, we have made a decision to permanently <b>block</b> any members of their Roblox group from joining 2D Image Roleplay."
+				],
+				[
+					"add",
+					"Added Portal text for the V2 Lobby."
+				],
+				[
+					"add",
+					"Added more zones to the Beach map."
+				]
+			]
+		},
 		{
 			"id": 24030200,
 			"updateType": "update",
