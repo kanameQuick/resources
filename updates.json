@@ -44,6 +44,19 @@
 	],
 	"listing": [
 		{
+			"id": 24061701,
+			"updateType": "update",
+			"title": "Espresso Cookie",
+			"bannerImage": null,
+			"content": [
+
+				[
+					"fix",
+					"Espresso Cookie is an Epic cookie available since launch. He is of the Magic type and his position is prioritized to the Middle. Espresso Cookie is esteemed pioneer and proponent of coffee magic, researching and experimenting through many sleepless nights to constantly refine his craft. This mage occasionally teaches classes on coffee magic at the Parfaedia Institute. He plays a major role in his and Madeleine Cookie's Cookie Story \"Couldn't Care Less, and Yet\" questline co-starring alongside Madeleine Cookie, Snow Sugar Cookie, and Alchemist Cookie."
+				]
+			]
+		},
+		{
 			"id": 24061700,
 			"updateType": "update",
 			"title": "V3.20: Toggle Walk and Markdowns (17 Jun 2024)",
@@ -210,97 +223,6 @@
 				[
 					"fix",
 					"Fixed an issue where having a set Morph Transparency caused the morphed image to go completely invisible regardless of the amount of transparency or zoom distance."
-				]
-			]
-		},
-		{
-			"id": 24051300,
-			"updateType": "update",
-			"title": "V3.17.1: Anti-cheat hotfix (13 May 2024)",
-			"bannerImage": null,
-			"content": [
-				[
-					"critical",
-					"Fixed an issue where people most often got kicked by Amburn anti-cheat in other Worlds."
-				]
-			]
-		},
-		{
-			"id": 24051200,
-			"updateType": "update",
-			"title": "V3.17: Lobby improvements and optimisations (12 May 2024)",
-			"bannerImage": null,
-			"content": [
-				[
-					"fix",
-					"<b>Made additional optimisation changes to the Lobby.</b>",
-					"Because of this, changes to texture/mesh settings now require rejoing because of objects not loaded from far away, leading to only the pre-loaded ones to apply changes."
-				],
-				[
-					"fix",
-					"Updated the Image Library search keyword blacklist."
-				],
-				[
-					"fix",
-					"Made improvements to Amburn anti-cheat."
-				],
-				[
-					"fix",
-					"Made searching for Images even better.",
-					"What this means is that searching for names of certain characters that are innocent (which are typically filtered by Roblox for some reason) can now show results in the Image Library. This does not guarantee that ALL names of characters aren't going to be filtered, and it may still return no results."
-				],
-				[
-					"fix",
-					"Fixed an issue where, in some Worlds, the layout for the items in the 'Redeem' section is not in order."
-				],
-				[
-					"add",
-					"Added icons beside the text for Membership benifits in the Market."
-				],
-				[
-					"add",
-					"Added a minimap image for the Chill Zone."
-				],
-				[
-					"fix",
-					"Recovered the Emu Otori model in the Lobby."
-				],
-				[
-					"fix",
-					"Made sure that the Calculator prop wasn't checking for user inputs while unequipped."
-				],
-				[
-					"fix",
-					"Fixed an issue where certain numpad keys don't respond to the Calculator prop."
-				],
-				[
-					"add",
-					"Added a new decoration to the Lobby."
-				],
-				[
-					"fix",
-					"Made some fixes to the chat filter."
-				],
-				[
-					"add",
-					"Fixed the Lobby fountain banners not showing up."
-				],
-				[
-					"fix",
-					"Fixed an issue where the minimap incorrectly shows the character's position on mobile phones."
-				],
-				[
-					"fix",
-					"Fixed an issue under certain circumstances where Membership data fails to load, causing certain features to misbehave."
-				],
-				[
-					"fix",
-					"Fixed an issue where graphics options don't save upon closing the Settings screen.",
-					"This is what causes the graphics settings to undo changes when rejoining the experience."
-				],
-				[
-					"fix",
-					"Fixed the Backrooms wallpaper texture not being loaded."
 				]
 			]
 		},
@@ -656,6 +578,97 @@
 	],
 	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
 	"archive": [
+		{
+			"id": 24051300,
+			"updateType": "update",
+			"title": "V3.17.1: Anti-cheat hotfix (13 May 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"critical",
+					"Fixed an issue where people most often got kicked by Amburn anti-cheat in other Worlds."
+				]
+			]
+		},
+		{
+			"id": 24051200,
+			"updateType": "update",
+			"title": "V3.17: Lobby improvements and optimisations (12 May 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"<b>Made additional optimisation changes to the Lobby.</b>",
+					"Because of this, changes to texture/mesh settings now require rejoing because of objects not loaded from far away, leading to only the pre-loaded ones to apply changes."
+				],
+				[
+					"fix",
+					"Updated the Image Library search keyword blacklist."
+				],
+				[
+					"fix",
+					"Made improvements to Amburn anti-cheat."
+				],
+				[
+					"fix",
+					"Made searching for Images even better.",
+					"What this means is that searching for names of certain characters that are innocent (which are typically filtered by Roblox for some reason) can now show results in the Image Library. This does not guarantee that ALL names of characters aren't going to be filtered, and it may still return no results."
+				],
+				[
+					"fix",
+					"Fixed an issue where, in some Worlds, the layout for the items in the 'Redeem' section is not in order."
+				],
+				[
+					"add",
+					"Added icons beside the text for Membership benifits in the Market."
+				],
+				[
+					"add",
+					"Added a minimap image for the Chill Zone."
+				],
+				[
+					"fix",
+					"Recovered the Emu Otori model in the Lobby."
+				],
+				[
+					"fix",
+					"Made sure that the Calculator prop wasn't checking for user inputs while unequipped."
+				],
+				[
+					"fix",
+					"Fixed an issue where certain numpad keys don't respond to the Calculator prop."
+				],
+				[
+					"add",
+					"Added a new decoration to the Lobby."
+				],
+				[
+					"fix",
+					"Made some fixes to the chat filter."
+				],
+				[
+					"add",
+					"Fixed the Lobby fountain banners not showing up."
+				],
+				[
+					"fix",
+					"Fixed an issue where the minimap incorrectly shows the character's position on mobile phones."
+				],
+				[
+					"fix",
+					"Fixed an issue under certain circumstances where Membership data fails to load, causing certain features to misbehave."
+				],
+				[
+					"fix",
+					"Fixed an issue where graphics options don't save upon closing the Settings screen.",
+					"This is what causes the graphics settings to undo changes when rejoining the experience."
+				],
+				[
+					"fix",
+					"Fixed the Backrooms wallpaper texture not being loaded."
+				]
+			]
+		},
 		{
 			"id": 24040200,
 			"updateType": "update",
