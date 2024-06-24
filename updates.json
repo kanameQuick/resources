@@ -1,5 +1,5 @@
 {
-	"latest": 24061701,
+	"latest": 24062400,
 	"template": [
 		{
 			"id": 24,
@@ -44,15 +44,34 @@
 	],
 	"listing": [
 		{
-			"id": 24061701,
+			"id": 24062400,
 			"updateType": "update",
-			"title": "Espresso Cookie",
-			"bannerImage": null,
+			"title": "V3.21: Prop and Inventory updates (24 Jun 2024)",
+			"bannerImage": 18186766146,
 			"content": [
-
+				[
+					"add",
+					"🔧🗑️ Added a way to remove Props from the Inventory.",
+					"To remove a Prop, just hold down the item you want to remove on the hotbar or the Inventory panel and click on the 'REMOVE' button located in the options bar above the hotbar. Note that starter props cannot be permanently removed and will be re-added upon rejoining."
+				],
+				["image", 18158974311, 696, 137],
+				[
+					"add",
+					"💨 Added a <b>Portable Fan</b> prop.",
+					"As requested by a fellow visitor in 2D Image Roleplay."
+				],
 				[
 					"fix",
-					"Espresso Cookie is an Epic cookie available since launch. He is of the Magic type and his position is prioritized to the Middle. Espresso Cookie is esteemed pioneer and proponent of coffee magic, researching and experimenting through many sleepless nights to constantly refine his craft. This mage occasionally teaches classes on coffee magic at the Parfaedia Institute. He plays a major role in his and Madeleine Cookie's Cookie Story \"Couldn't Care Less, and Yet\" questline co-starring alongside Madeleine Cookie, Snow Sugar Cookie, and Alchemist Cookie."
+					"Fixed an issue where a non-existing prop prevents users from obtaining new or purchased Props.",
+					"This issue only affects people who once purchased the 'Bread Loaf' prop, now known as 'Bread Slice'. The renaming caused the Inventory system to have problems, resulting in an 'Inventory is being loaded' error. This issue has now been resolved."
+				],
+				[
+					"fix",
+					"Made some minor fixes to the Memberships screen of the Market."
+				],
+				[
+					"fix",
+					"Fixed some additional issues."
 				]
 			]
 		},
@@ -599,7 +618,7 @@
 				[
 					"fix",
 					"<b>Made additional optimisation changes to the Lobby.</b>",
-					"Because of this, changes to texture/mesh settings now require rejoing because of objects not loaded from far away, leading to only the pre-loaded ones to apply changes."
+					"Because of this, changes to texture/mesh settings now require rejoining because of objects not loaded from far away, leading to only the pre-loaded ones to apply changes."
 				],
 				[
 					"fix",
