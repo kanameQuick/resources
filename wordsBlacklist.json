@@ -1,6 +1,7 @@
 {
 	"basic": {
 		"fluffyMatch": [
+			["asscheeks", "vulgar"],
 			["nobody cares", "insult"],
 			["no one cares", "insult"],
 			["skill issue", "insult"],
@@ -11,7 +12,7 @@
 			["adoll hitter", "vulgar"]
 		],
 		"exactMatch": [
-			["asscheeks", "vulgar"],
+			["bish", "vulgar"],
 			["fujick", "vulgar"],
 			["negar", "vulgar"],
 			["idc", "insult"],
