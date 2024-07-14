@@ -1,5 +1,5 @@
 {
-	"latest": 24062400,
+	"latest": 24071400,
 	"template": [
 		{
 			"id": 24,
@@ -43,6 +43,44 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24071400,
+			"updateType": "update",
+			"title": "V3.22: Improved Anti-Cheat and Additional Fixes (14 Jul 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"🛡 Made some improvements to Amburn anti-cheat."
+				],
+				[
+					"add",
+					"🚩 Added a new report reason: 'Spreading misinformation'.",
+					"Use this if you believe that the person is sharing false or non-factual information about an individual, a group of people, or an organisation, whether it's in the chat, a text sign, an image sign, or a morphed image. If we believe that the report submitted with this reason is true, we will take enforcement steps against the perpetrator, such as a 30-day up to a permanent ban."
+				],
+				[
+					"fix",
+					"Prevented toggle to walk when equipping some props.",
+					"This now prevents characters from walking if they are equipped with a prop that requires them to not walk in the first place."
+				],
+				[
+					"fix",
+					"Fixed an issue where a prop's HUD doesn't disappear when removed from the inventory while equipped."
+				],
+				[
+					"fix",
+					"Ensured that consumables do not get re-added to the inventory upon respawning once they are removed."
+				],
+				[
+					"fix",
+					"Fixed an issue regarding saving of data containing invalid Unicode characters."
+				],
+				[
+					"fix",
+					"Fixed some additional issues."
+				]
+			]
+		},
 		{
 			"id": 24062400,
 			"updateType": "update",
@@ -459,34 +497,6 @@
 		]
 	},
 		{
-			"id": 24030900,
-			"updateType": "notice",
-			"title": "Important Information Regarding to Former Developer",
-			"bannerImage": 16679330529,
-			"content": [
-				[
-					"text",
-					"To those who may be concerned, we had temporarily shut down 2D Image Roleplay regarding a recent unexpected scenario that occurred during this time."
-				],
-				[
-					"text",
-					"As it turns out, a now-former Developer of WonderStars, <b>@nora_univers3</b>, has been suspected of manipulating the owner to gather intelligence, as well as downloading a copy of 2D Image Roleplay (version 3.11.1) without proper authorisation."
-				],
-				[
-					"text",
-					"A document about this incident has been made and posted on the WonderStars Discord server with all the submitted evidence. If you want to learn more about this, you can read it yourself."
-				],
-				[
-					"text",
-					"This experience has now been reinstated after certain security patches have been made to ensure the safety of our users."
-				],
-				[
-					"text",
-					"<i>Notice: You must be at least 13 years old to use Discord.</i>"
-				]
-			]
-		},
-		{
 			"id": 23120100,
 			"updateType": "event",
 			"title": "Introducing 2D Image Roleplay V3",
@@ -597,6 +607,34 @@
 	],
 	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
 	"archive": [
+		{
+			"id": 24030900,
+			"updateType": "notice",
+			"title": "Important Information Regarding to Former Developer",
+			"bannerImage": 16679330529,
+			"content": [
+				[
+					"text",
+					"To those who may be concerned, we had temporarily shut down 2D Image Roleplay regarding a recent unexpected scenario that occurred during this time."
+				],
+				[
+					"text",
+					"As it turns out, a now-former Developer of WonderStars, <b>@nora_univers3</b>, has been suspected of manipulating the owner to gather intelligence, as well as downloading a copy of 2D Image Roleplay (version 3.11.1) without proper authorisation."
+				],
+				[
+					"text",
+					"A document about this incident has been made and posted on the WonderStars Discord server with all the submitted evidence. If you want to learn more about this, you can read it yourself."
+				],
+				[
+					"text",
+					"This experience has now been reinstated after certain security patches have been made to ensure the safety of our users."
+				],
+				[
+					"text",
+					"<i>Notice: You must be at least 13 years old to use Discord.</i>"
+				]
+			]
+		},
 		{
 			"id": 24051300,
 			"updateType": "update",
