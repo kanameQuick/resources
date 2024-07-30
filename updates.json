@@ -1,5 +1,5 @@
 {
-	"latest": 24071400,
+	"latest": 24073000,
 	"template": [
 		{
 			"id": 24,
@@ -43,6 +43,62 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24073000,
+			"updateType": "update",
+			"title": "V3.23: More customisation + Improvements (30 Jul 2024)",
+			"bannerImage": 18719673944,
+			"content": [
+				[
+					"add",
+					"👤🔎 Added a 'quick search by creator' function.",
+					"This allows you to quickly search for images from the creator of the image you are viewing by clicking on the username in the Details panel. A feature that has been added back in V2."
+				],
+				[
+					"add",
+					"🖼🔧 Added vertical offset and rotation options to the image morph properties.",
+					"You can also invert the rotation for the back side if you have set a backwards-facing version of your character to the back side of your image to morph. However, image rotation is currently not supported for cropped images."
+				],
+				["image", 18719441952],
+				[
+					"fix",
+					"💾 Privacy and advanced options are now saved upon morphing or saving to Favourites."
+				],
+				[
+					"fix",
+					"🔎✨ Made improvements to the Image Search system.",
+					"We have fixed an issue where any keywords searched in the Image Library returned no results."
+				],
+				[
+					"fix",
+					"🧪 Made early-access to Beta Feature available to all Silver Members (except in Canada, Kuwait, and Sigapore)."
+				],
+				[
+					"add",
+					"🎨🔤 [BETA] Added a feature that lets you change the theme and the font for the user interface.",
+					"This lets you change how 2D Image Roleplay looks however you like. Note that only buttons and other UI elements are able to change colour. Available to eligible beta testers only. Check the Memberships page in the Market to learn more."
+				],
+				["image", 18719445789],
+				[
+					"fix",
+					"Improved animation for loading results to the Image Library."
+				],
+				[
+					"fix",
+					"Changed the text that shows up when searching for images containing blacklisted keywords.",
+					"Before: <i>You are not allowed to search for <b>[blacklisted keyword]</b>.</i>\nAfter: <i>Results for <b>[blacklisted keyword]</b> are blocked as they violate the experience rules.</i>"
+				],
+				["image", 18719444322],
+				[
+					"fix",
+					"Prevented searching for images created by groups as there is currently no possible method for it."
+				],
+				[
+					"fix",
+					"Made improvements to the Image Library panel."
+				]
+			]
+		},
 		{
 			"id": 24071400,
 			"updateType": "update",
@@ -497,6 +553,33 @@
 		]
 	},
 		{
+			"id": 10000000,
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
+			]
+		}
+	],
+	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"archive": [
+		{
 			"id": 23120100,
 			"updateType": "event",
 			"title": "Introducing 2D Image Roleplay V3",
@@ -580,33 +663,6 @@
 				]
 			]
 		},
-		{
-			"id": 10000000,
-			"updateType": "notice",
-			"title": "Beware of Imitators",
-			"bannerImage": 15478541056,
-			"content": [
-				[
-					"text",
-					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
-				],
-				[
-					"text",
-					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
-				],
-				[
-					"text",
-					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
-				],
-				[
-					"text",
-					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
-				]
-			]
-		}
-	],
-	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"archive": [
 		{
 			"id": 24030900,
 			"updateType": "notice",
