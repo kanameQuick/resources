@@ -1,5 +1,5 @@
 {
-	"latest": 24073000,
+	"latest": 24080100,
 	"template": [
 		{
 			"id": 24,
@@ -43,6 +43,19 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24080100,
+			"updateType": "update",
+			"title": "V3.23.1: Urgent hotfix for v3.23 (1 Aug 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where the user interface does not set up properly.",
+					"This only affects to people who were not eligible for beta testing. People who were eligible wasn't affected."
+				]
+			]
+		},
 		{
 			"id": 24073000,
 			"updateType": "update",
