@@ -1,5 +1,5 @@
 {
-	"latest": 24080100,
+	"latest": 24101200,
 	"template": [
 		{
 			"id": 24,
@@ -43,6 +43,86 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24101200,
+			"updateType": "update",
+			"title": "V3.24: Winter update + big changes and improvements (12 Oct 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"text",
+					"It has been a while since we've made any updates to 2D Image Roleplay, until now. After this month-long hiatus, we have decided to go ahead and make some big changes to improve the user experience."
+				],
+				[
+					"fix",
+					"Changed the Lobby's theme to winter.",
+					"As Christmas is right around the corner, we have decided that we add decorations and other objects to the Lobby as part of this upcoming season."
+				],
+				[
+					"add",
+					"<font color='#ffff80'>Songs by Nuskit is back!</font>",
+					"Finally, after an agreement with the uploader for the library, Songs by Nuskit has been returned and can now be played on the Boombox."
+				],
+				[
+					"fix",
+					"Made some improvements to the user interface.",
+					"These include adding drop shadows to the prompts, as well as a blurred background effect for the Rules screen to let users focus on the rules first."
+				],
+				[
+					"fix",
+					"Fixed an issue where some background music is loud in other Worlds."
+				],
+				[
+					"fix",
+					"Made some improvements to the Updates window.",
+					"Dates are now shown below the titles and have a smaller text size."
+				],
+				[
+					"fix",
+					"Made some improvements to the Lobby map.",
+					"Lounges now have umbrellas to protect the tables from rain and especially snowfall, as well as adding speakers to the stage as it was missing since the new Lobby was released."
+				],
+				[
+					"add",
+					"Added a <b>Soda</b> prop.",
+					"A new prop to pair with your mouldy Bread Slice prop."
+				],
+				[
+					"fix",
+					"Made improvements to Amburn anti-cheat.",
+					"The anti-cheat now has a less chance of falsely kicking a person for exploiting, especially after resetting their character."
+				],
+				[
+					"add",
+					"Added an indicator for when a message has been filtered",
+					"Messages that you are trying to send that got filtered will now have a strikethrough and be highlighted in red, indicating your message has not been sent."
+				],
+				[
+					"add",
+					"Added the Feedback feature.",
+					"This feature allows players to submit feedback about the experience, report issues, and more. Although it is recommended to join our community servers to get a response from moderators and the development team."
+				],
+				[
+					"add",
+					"Added some Generation Alpha (aka “brainrot”) words to the chat filter.",
+					"This is currently experimental and will be removed if enough complaints are sent via the Feedback feature."
+				],
+				[
+					"fix",
+					"Made some improvements to the chat filter."
+				],
+				[
+					"fix",
+					"Made some updates to the statues at the Infomation Centre.",
+					"The statue for @TwistedLen has now been replaced with @Nadoshy12, and added a statue for @douwantsus."
+				],
+				[
+					"add",
+					"Added a zoom function to the Morph preview.",
+					"Useful if you want to see a closer look at your character before proceeding to morph."
+				]
+			]
+		},
 		{
 			"id": 24080100,
 			"updateType": "update",
@@ -276,6 +356,33 @@
 			]
 		},
 		{
+			"id": 10000000,
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
+			]
+		}
+	],
+	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"archive": [
+		{
 			"id": 24052100,
 			"updateType": "notice",
 			"title": "Important: About the recent 2DIRP takedown",
@@ -407,191 +514,164 @@
 			]
 		},
 		{
-		"id": 24031000,
-		"updateType": "notice",
-		"title": "Special: Minty/Nora Exposure Document",
-		"bannerImage": 16679330529,
-		"content": [
-			[
-				"text",
-				"<i>This entry has been made for people who can't use Discord.</i>"
-			],
-			[
-				"text",
-				"Good Morning/Evening Galaxiidae Games Fans. We have made this document due to certain events that have transpired about her."
-			],
-			[
-				"text",
-				"Evidence has been submitted to me, Nami, through a private group chat with former staff members of “Galaxiidae Games”. We shall not disclose any of the persons who were involved."
-			],
-			[
-				"text",
-				"Minty/Nora, The owner of “Galaxiidae Games”, has used WonderStars to gain intelligence about the owner, the staff team and future plans for updates of 2D Image Roleplay, as well as <b>obtaining a local copy of the game without authorisation.</b>"
-			],
-			[
-				"text",
-				"<h1>Evidence</h1>"
-			],
-			[
-				"text",
-				"Here are some evidence submitted to me as follows:"
-			],
-			[
-				"text",
-				"<i>Due to Roblox moderation, all censor bars in <font color='#ff00dc'>magenta</font> refers to <b>Nami</b>, the owner himself, and <font color='#0094FF'>blue</font> refers to <b>Minty/Nora</b>, the perpetrator behind the story.</i>"
-			],
-			[
-				"text",
-				"<h2>Gathering information about me</h2>"
-			],
-			[
-				"text",
-				"These evidences show that Minty/Nora is in fact, using me for her personal gain. This includes gathering as much info from me as much as possible, and she admitted that she’s the type of person to do so."
-			],
-			[
-				"image",
-				16695792211,
-				864, 556
-			],
-			[
-				"image",
-				16695828818,
-				381, 244
-			],
-			[
-				"image",
-				16695843911,
-				846, 112
-			],
-			[
-				"text",
-				"<h2>Having a downloaded copy of 2DIRP</h2>"
-			],
-			[
-				"text",
-				"The next one right here shows that Minty/Nora is <b>copying 2D Image Roleplay</b> and its source code, and <b>she does this while I am away or offline</b>. She is not authorised to obtain or download any of the game’s files, and <u>I only gave her Developer perms to make changes to her maps and make her audios playable in 2DIRP.</u>"
-			],
-			[
-				"text",
-				"This shows that Minty/Nora has given the files for 2DIRP to certain people she knows."
-			],
-			[
-				"image",
-				16695880330,
-				578, 85
-			],
-			[
-				"image",
-				16695939536,
-				575, 376
-			],
-			[
-				"text",
-				"The following message below is in Japanese but will have a translation under it."
-			],
-			[
-				"image",
-				16695955618,
-				792, 271
-			],
-			[
-				"text",
-				"<i><b>Anonymous:</b> Yes. You can find more evidence if you wish. I put this in Japanese so you can understand me better. I don't know on which server she posted the v3 file, but I remember him saying that, and she said, \"I accidentally opened it. \"I lost it,\" he said.</i>"
-			],
-			[
-				"text",
-				"<i><b>Nami:</b> Yes, please.</i>"
-			],
-			[
-				"text",
-				"Here are some more evidence that she has a copy of 2DIRP:"
-			],
-			[
-				"image",
-				16696064492,
-				541, 695
-			],
-			[
-				"text",
-				"This image shows that the file has been opened just recently."
-			],
-			[
-				"image",
-				16696087120,
-				919, 540
-			],
-			[
-				"image",
-				16696106090,
-				615, 126
-			],
-			[
-				"image",
-				16696126792,
-				750, 253
-			],
-			[
-				"text",
-				"<i>Side note: The version of 2DIRP she downloaded is 3.11.1, which was released on February 18, 2024.</i>"
-			],
-			[
-				"text",
-				"<h1>Document about her plans</h1>"
-			],
-			[
-				"text",
-				"This image shows a document she made about her plans to manipulate me"
-			],
-			[
-				"image",
-				16696199992,
-				740, 381
-			],
-			[
-				"text",
-				"<h1>Conclusion</h1>"
-			],
-			[
-				"text",
-				"Overall, Minty/Nora is in fact a <b>manipulative</b> person, and I regret being partners with her. We suggest blocking communications with her and any members who are on her server are advised to <b>leave</b> immediately."
-			],
-			[
-				"text",
-				"Also, players of \"Universal Interactions RP\" are advised to <b>stop playing</b> the game, and leave the group."
-			],
-			[
-				"text",
-				"That's all what I have in the document as of this moment. If you want to know more, please join our community server (13+ only)."
-			]
-		]
-	},
-		{
-			"id": 10000000,
+			"id": 24031000,
 			"updateType": "notice",
-			"title": "Beware of Imitators",
-			"bannerImage": 15478541056,
+			"title": "Special: Minty/Nora Exposure Document",
+			"bannerImage": 16679330529,
 			"content": [
 				[
 					"text",
-					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+					"<i>This entry has been made for people who can't use Discord.</i>"
 				],
 				[
 					"text",
-					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+					"Good Morning/Evening Galaxiidae Games Fans. We have made this document due to certain events that have transpired about her."
 				],
 				[
 					"text",
-					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+					"Evidence has been submitted to me, Nami, through a private group chat with former staff members of “Galaxiidae Games”. We shall not disclose any of the persons who were involved."
 				],
 				[
 					"text",
-					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+					"Minty/Nora, The owner of “Galaxiidae Games”, has used WonderStars to gain intelligence about the owner, the staff team and future plans for updates of 2D Image Roleplay, as well as <b>obtaining a local copy of the game without authorisation.</b>"
+				],
+				[
+					"text",
+					"<h1>Evidence</h1>"
+				],
+				[
+					"text",
+					"Here are some evidence submitted to me as follows:"
+				],
+				[
+					"text",
+					"<i>Due to Roblox moderation, all censor bars in <font color='#ff00dc'>magenta</font> refers to <b>Nami</b>, the owner himself, and <font color='#0094FF'>blue</font> refers to <b>Minty/Nora</b>, the perpetrator behind the story.</i>"
+				],
+				[
+					"text",
+					"<h2>Gathering information about me</h2>"
+				],
+				[
+					"text",
+					"These evidences show that Minty/Nora is in fact, using me for her personal gain. This includes gathering as much info from me as much as possible, and she admitted that she’s the type of person to do so."
+				],
+				[
+					"image",
+					16695792211,
+					864, 556
+				],
+				[
+					"image",
+					16695828818,
+					381, 244
+				],
+				[
+					"image",
+					16695843911,
+					846, 112
+				],
+				[
+					"text",
+					"<h2>Having a downloaded copy of 2DIRP</h2>"
+				],
+				[
+					"text",
+					"The next one right here shows that Minty/Nora is <b>copying 2D Image Roleplay</b> and its source code, and <b>she does this while I am away or offline</b>. She is not authorised to obtain or download any of the game’s files, and <u>I only gave her Developer perms to make changes to her maps and make her audios playable in 2DIRP.</u>"
+				],
+				[
+					"text",
+					"This shows that Minty/Nora has given the files for 2DIRP to certain people she knows."
+				],
+				[
+					"image",
+					16695880330,
+					578, 85
+				],
+				[
+					"image",
+					16695939536,
+					575, 376
+				],
+				[
+					"text",
+					"The following message below is in Japanese but will have a translation under it."
+				],
+				[
+					"image",
+					16695955618,
+					792, 271
+				],
+				[
+					"text",
+					"<i><b>Anonymous:</b> Yes. You can find more evidence if you wish. I put this in Japanese so you can understand me better. I don't know on which server she posted the v3 file, but I remember him saying that, and she said, \"I accidentally opened it. \"I lost it,\" he said.</i>"
+				],
+				[
+					"text",
+					"<i><b>Nami:</b> Yes, please.</i>"
+				],
+				[
+					"text",
+					"Here are some more evidence that she has a copy of 2DIRP:"
+				],
+				[
+					"image",
+					16696064492,
+					541, 695
+				],
+				[
+					"text",
+					"This image shows that the file has been opened just recently."
+				],
+				[
+					"image",
+					16696087120,
+					919, 540
+				],
+				[
+					"image",
+					16696106090,
+					615, 126
+				],
+				[
+					"image",
+					16696126792,
+					750, 253
+				],
+				[
+					"text",
+					"<i>Side note: The version of 2DIRP she downloaded is 3.11.1, which was released on February 18, 2024.</i>"
+				],
+				[
+					"text",
+					"<h1>Document about her plans</h1>"
+				],
+				[
+					"text",
+					"This image shows a document she made about her plans to manipulate me"
+				],
+				[
+					"image",
+					16696199992,
+					740, 381
+				],
+				[
+					"text",
+					"<h1>Conclusion</h1>"
+				],
+				[
+					"text",
+					"Overall, Minty/Nora is in fact a <b>manipulative</b> person, and I regret being partners with her. We suggest blocking communications with her and any members who are on her server are advised to <b>leave</b> immediately."
+				],
+				[
+					"text",
+					"Also, players of \"Universal Interactions RP\" are advised to <b>stop playing</b> the game, and leave the group."
+				],
+				[
+					"text",
+					"That's all what I have in the document as of this moment. If you want to know more, please join our community server (13+ only)."
 				]
 			]
-		}
-	],
-	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"archive": [
+		},
 		{
 			"id": 23120100,
 			"updateType": "event",
