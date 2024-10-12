@@ -9,7 +9,11 @@
 			["fatherless", "insult"],
 			["i dont care", "insult"],
 			["i don car", "insult"],
-			["adoll hitter", "vulgar"]
+			["adoll hitter", "vulgar"],
+			
+			["fanum tax", "skibidi"],
+			["maxxing", "skibidi"],
+			["rizzler", "skibidi"]
 		],
 		"exactMatch": [
 			["bish", "vulgar"],
@@ -30,7 +34,12 @@
 			["eww genshin", "community"],
 			["ew genshin", "community"],
 			["cry about it", "insult"],
-			["ion car", "insult"]
+			["ion car", "insult"],
+
+			["gyatt", "skibidi"],
+			["rizz", "skibidi"],
+			["sigma", "skibidi"],
+			["mewing", "skibidi"]
 		]
 	},
 	"critical": {
