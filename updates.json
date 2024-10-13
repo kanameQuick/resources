@@ -1,5 +1,5 @@
 {
-	"latest": 24101200,
+	"latest": 24101300,
 	"template": [
 		{
 			"id": 24,
@@ -44,6 +44,27 @@
 	],
 	"listing": [
 		{
+			"id": 24101300,
+			"updateType": "update",
+			"title": "V3.24.1: Winter update hotfix (13 Oct 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed issue where the purchasing prompt in the Market refuses to open in other worlds when trying to purchase a consumable or a new item."
+				],
+				[
+					"fix",
+					"Fixed an issue where the Morph screen does not open in other worlds."
+				],
+				[
+					"fix",
+					"Made some changes to the Special Thanks section in the Settings.",
+					"These include removing “deej_lan” and “QiQiEr”, as well as adding “Nadoshy12” to the section."
+				]
+			]
+		},
+		{
 			"id": 24101200,
 			"updateType": "update",
 			"title": "V3.24: Winter update + big changes and improvements (12 Oct 2024)",
@@ -55,13 +76,28 @@
 				],
 				[
 					"fix",
-					"Changed the Lobby's theme to winter.",
+					"❄ Changed the Lobby's theme to winter.",
 					"As Christmas is right around the corner, we have decided that we add decorations and other objects to the Lobby as part of this upcoming season."
 				],
 				[
 					"add",
-					"<font color='#ffff80'>Songs by Nuskit is back!</font>",
+					"🎶 <font color='#ffff80'>Songs by Nuskit is back!</font>",
 					"Finally, after an agreement with the uploader for the library, Songs by Nuskit has been returned and can now be played on the Boombox."
+				],
+				[
+					"add",
+					"🥤 Added a <b>Soda</b> prop.",
+					"A new prop to pair with your mouldy Bread Slice prop."
+				],
+				[
+					"add",
+					"🗣 Added the Feedback feature.",
+					"This feature allows players to submit feedback about the experience, report issues, and more. Although it is recommended to join our community servers to get a response from moderators and the development team."
+				],
+				[
+					"add",
+					"🔍 Added a zoom function to the Morph preview.",
+					"Useful if you want to see a closer look at your character before proceeding to morph."
 				],
 				[
 					"fix",
@@ -83,11 +119,6 @@
 					"Lounges now have umbrellas to protect the tables from rain and especially snowfall, as well as adding speakers to the stage as it was missing since the new Lobby was released."
 				],
 				[
-					"add",
-					"Added a <b>Soda</b> prop.",
-					"A new prop to pair with your mouldy Bread Slice prop."
-				],
-				[
 					"fix",
 					"Made improvements to Amburn anti-cheat.",
 					"The anti-cheat now has a less chance of falsely kicking a person for exploiting, especially after resetting their character."
@@ -96,11 +127,6 @@
 					"add",
 					"Added an indicator for when a message has been filtered",
 					"Messages that you are trying to send that got filtered will now have a strikethrough and be highlighted in red, indicating your message has not been sent."
-				],
-				[
-					"add",
-					"Added the Feedback feature.",
-					"This feature allows players to submit feedback about the experience, report issues, and more. Although it is recommended to join our community servers to get a response from moderators and the development team."
 				],
 				[
 					"add",
@@ -115,11 +141,6 @@
 					"fix",
 					"Made some updates to the statues at the Infomation Centre.",
 					"The statue for @TwistedLen has now been replaced with @Nadoshy12, and added a statue for @douwantsus."
-				],
-				[
-					"add",
-					"Added a zoom function to the Morph preview.",
-					"Useful if you want to see a closer look at your character before proceeding to morph."
 				]
 			]
 		},
