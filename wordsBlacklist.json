@@ -16,6 +16,9 @@
 			["rizzler", "skibidi"]
 		],
 		"exactMatch": [
+			["&lt;", "vulgar"],
+			["&gt;", "vulgar"],
+			
 			["bish", "vulgar"],
 			["fujick", "vulgar"],
 			["negar", "vulgar"],
