@@ -1,5 +1,5 @@
 {
-	"latest": 24111600,
+	"latest": 24112400,
 	"template": [
 		{
 			"id": 24,
@@ -43,6 +43,37 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24112400,
+			"updateType": "update",
+			"title": "V3.25: A big change to the Image and Audio libraries (24 Nov 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"text",
+					"Greetings everyone! As you all might know at this time, we have made a significant improvement to our image and audio libraries in 2D Image Roleplay. Here are some things that you might notice after the change:"
+				],
+				[
+					"fix",
+					"More search results",
+					"Searching will now return <b>100</b> results instead of 30. This makes looking for images more convenient rather than spending time clicking the Next Page button and waiting for the results to load again."
+				],
+				[
+					"fix",
+					"Search from more users",
+					"You can now search for images from some users that were initially not available in the old system. Useful if you want to search for an image from your friend whose images are not visible in the normal libraries."
+				],
+				[
+					"fix",
+					"No more junk results",
+					"Searching for names of characters that are not usual or commonly known does not return irrelevant results anymore (e.g., ‘Luo Tianyi’). Because of this, searching for images is now accurate and concise."
+				],
+				[
+					"text",
+					"All these changes help ensure a better search experience for everyone. Note that this is just one update; expect additional changes and improvements in a future update."
+				]
+			]
+		},
 		{
 			"id": 24111600,
 			"updateType": "update",
@@ -281,6 +312,33 @@
 			]
 		},
 		{
+			"id": 10000000,
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
+			]
+		}
+	],
+	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"archive": [
+		{
 			"id": 24062400,
 			"updateType": "update",
 			"title": "V3.21: Prop and Inventory updates (24 Jun 2024)",
@@ -360,33 +418,6 @@
 				]
 			]
 		},
-		{
-			"id": 10000000,
-			"updateType": "notice",
-			"title": "Beware of Imitators",
-			"bannerImage": 15478541056,
-			"content": [
-				[
-					"text",
-					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
-				],
-				[
-					"text",
-					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
-				],
-				[
-					"text",
-					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
-				],
-				[
-					"text",
-					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
-				]
-			]
-		}
-	],
-	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"archive": [
 		{
 			"id": 24052700,
 			"updateType": "update",
