@@ -1,5 +1,5 @@
 {
-	"latest": 24112400,
+	"latest": 24121500,
 	"template": [
 		{
 			"id": 24,
@@ -43,6 +43,62 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24121500,
+			"updateType": "update",
+			"title": "V3.26: Prop Qualities and Library Improvements (15 Dec 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"🌟 Added a quality indication to props.",
+					"This information for the props is here for aesthetics."
+				],
+				[
+					"fix",
+					"🔊 Made the speakers on the countdown screen affect by the Props volume."
+				],
+				[
+					"fix",
+					"🔍 <font color='#ffff80'>Fixed an issue where the Image/Audio libraries become unavailable due to high demand.</font>"
+				],
+				[
+					"fix",
+					"🛡 Made a fix to Amburn anti-cheat."
+				],
+				[
+					"fix",
+					"Fixed an issue where the icon for Admin/Head Admin shows the Community Manager’s instead."
+				],
+				[
+					"fix",
+					"Renamed Featured Images to <b>Suggested</b> in the Image Library."
+				],
+				[
+					"fix",
+					"Made improvements to the chat filter.",
+					"We have decided to decrease the ban duration for repeated chat filter violations to <b>1 day</b>, as well as increasing the threshold of filtered messages before a ban to <b>10 messages</b>."
+				],
+				[
+					"add",
+					"Added a safety measure where messages containing certain symbols will get blocked.",
+					"This may be removed if Roblox fixes the issue of bypassing inappropriate words using these symbols."
+				],
+				[
+					"fix",
+					"Made an improvement to the drag scroll for desktop."
+				],
+				[
+					"fix",
+					"Prevented the showing of filtered (“tagged”) chat messages to other people to reduce mess.",
+					"When you send a message that was entirely filtered by Roblox, a note will show up in your message saying that your message was not shown to other people."
+				],
+				[
+					"fix",
+					"Fixed an issue where the graphics settings do not load upon rejoining."
+				]
+			]
+		},
 		{
 			"id": 24112400,
 			"updateType": "update",
