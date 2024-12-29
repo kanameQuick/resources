@@ -1,5 +1,5 @@
 {
-	"latest": 24122500,
+	"latest": 24122900,
 	"template": [
 		{
 			"id": 24,
@@ -26,6 +26,14 @@
 				[
 					"text",
 					""
+				],
+				[
+					"image",
+					""
+				],
+				[
+					"yoimiya",
+					""
 				]
 			]
 		},
@@ -43,6 +51,23 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24122900,
+			"updateType": "update",
+			"title": "V3.28: New Limited-Time Prop (29 Dec 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"🎺 Added the <b>Toy Trumpet</b> prop for use in New Year’s Eve (Lobby only).",
+					"The item is typically used to make a loud noise during special occasions, including New Year’s Eve. This prop will be a limited-time item and is available until the end of New Year’s Day. Please note that this is not obtainable in Worlds other than the Lobby."
+				],
+				[
+					"fix",
+					"Improved drag scrolling for Desktop."
+				]
+			]
+		},
 		{
 			"id": 24122500,
 			"updateType": "update",
