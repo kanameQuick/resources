@@ -1,8 +1,8 @@
 {
-	"latest": 24122900,
+	"latest": 25011200,
 	"template": [
 		{
-			"id": 24,
+			"id": 25,
 			"updateType": "update",
 			"title": "V3.X: Untitled (D M Y)",
 			"bannerImage": null,
@@ -51,6 +51,51 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25011200,
+			"updateType": "update",
+			"title": "V3.29: Streaks and New Menu! (12 Jan 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"📃 Revamped the 2DIRP menu.",
+					"This redesign of the menu now includes your user ID (UID) and the streaks count, along with a new background.",
+					true
+				],
+				[
+					"add",
+					"🔥 Added the streaks system",
+					"This new system lets you see how many days you visited 2D Roleplay without missing a single day. It can be shown either in the menu, the people list or on your name tag.",
+					true
+				],
+				[
+					"fix",
+					"🏃‍♂️ Made loading experience data a bit more faster.", 
+					"Thanks to the improved loading system, waiting times are a bit shorter now."
+				],
+				[
+					"add",
+					"📇 Added Roleplay Rank, Mori and Streak counts to the people list item card."
+				],
+				[
+					"add",
+					"🏆 Added a leaderboard for Streaks and Mori to the Lobby."
+				],
+				[
+					"fix",
+					"Changed the placeholder banner for the Release Notes."
+				],
+				[
+					"fix",
+					"Changed the formatting of the version numbers."
+				],
+				[
+					"fix",
+					"Made some additional improvements and fixed issues."
+				]
+			]
+		},
 		{
 			"id": 24122900,
 			"updateType": "update",
@@ -130,7 +175,8 @@
 				],
 				[
 					"fix",
-					"🔍 <font color='#ffff80'>Fixed an issue where the Image/Audio libraries become unavailable due to high demand.</font>"
+					"🔍 Fixed an issue where the Image/Audio libraries become unavailable due to high demand.",
+					null, true
 				],
 				[
 					"fix",
@@ -267,8 +313,9 @@
 				],
 				[
 					"add",
-					"🎶 <font color='#ffff80'>Songs by Nuskit is back!</font>",
-					"Finally, after an agreement with the uploader for the library, Songs by Nuskit has been returned and can now be played on the Boombox."
+					"🎶 Songs by Nuskit is back!",
+					"Finally, after an agreement with the uploader for the library, Songs by Nuskit has been returned and can now be played on the Boombox.",
+					true
 				],
 				[
 					"add",
