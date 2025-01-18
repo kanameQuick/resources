@@ -6,30 +6,16 @@
 		"worldImageId": 17215019032,
 		"recommendedFps": 20,
 		"builders": [
-			"namireen"
+			"namireen", "et. al."
 		],
 		"inspiration": null,
 		"copyright": null,
 		"credits": {
 			"FNF cardboard stage (Chill Zone)": "Funky Friday",
 			"Emu Otori statue": "Project Sekai: Colorful Stage!",
-			"Pom-Pom plush": "Honkai: Star Rail"
-		}
-	},
-	"The City": {
-		"category": "2D Image Roleplay",
-		"description": "Explore the various places in the city, filled with buildings and drivable vehicles.",
-		"placeId": 15487441252,
-		"worldImageId": 15487708513,
-		"recommendedFps": 50,
-		"builders": [
-			"Nicolas77rrr"
-		],
-		"inspiration": null,
-		"copyright": null,
-		"credits": {
-			"Modified by": "namireen",
-			"Miko Borgar Model by": "Become Fumo"
+			"Pom-Pom plush": "Honkai: Star Rail",
+			"City Map": "Nicolas77rrr",
+			"Miko Borgar (V2 Lobby)": "Become Fumo, Funky Friday"
 		}
 	},
 	"The Beach": {
@@ -62,19 +48,6 @@
 			"Ice Cream Freezer": "EndorsedModel"
 		}
 	},
-	"The Forest": {
-		"category": "2D Image Roleplay",
-		"description": "A calming place filled with trees, a waterfall, and a shrine.",
-		"placeId": 15488012847,
-		"worldImageId": 15493612582,
-		"recommendedFps": 20,
-		"builders": [
-			"namireen"
-		],
-		"inspiration": null,
-		"copyright": null,
-		"credits": null
-	},
 	"The Backrooms": {
 		"category": "Famous Maps",
 		"description": "The Backrooms is a popular online fiction born from a creepypasta, exemplifies the internet aesthetic of liminal spaces.",
@@ -89,21 +62,6 @@
 		"credits": {
 			"Concept by": "Anonymous",
 			"Modified by": "namireen"
-		}
-	},
-	"V2 Lobby": {
-		"category": "2D Image Roleplay (V2)",
-		"description": "Explore the old Lobby from 2D Image Roleplay V2, with unique buildings and structures. You will never forget the nostalgia and the legacy this map has.",
-		"placeId": 15622443061,
-		"worldImageId": 10410534531,
-		"recommendedFps": 40,
-		"builders": [
-			"namireen"
-		],
-		"inspiration": null,
-		"copyright": null,
-		"credits": {
-			"Miko Borgar": "Become Fumo, Funky Friday"
 		}
 	},
 	"Friday Night Maps": {
