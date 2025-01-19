@@ -1,5 +1,5 @@
 {
-	"latest": 25011200,
+	"latest": 25011900,
 	"template": [
 		{
 			"id": 25,
@@ -38,7 +38,7 @@
 			]
 		},
 		{
-			"id": 24,
+			"id": 25,
 			"updateType": "notice",
 			"title": "",
 			"bannerImage": 0,
@@ -51,6 +51,63 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25011900,
+			"updateType": "update",
+			"title": "V3.30: Consolidation of certain maps + Teleportation improvements (19 Jan 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"🗺️ Migrated 3 different maps to the Main World (Lobby).",
+					"Thanks to asset streaming, putting additional parts in one place no longer negatively impacts performance. You can now roleplay in these maps on private servers!",
+					true
+				],
+				[
+					"fix",
+					"🌏 Updated the World teleportation screen.",
+					"It now includes the category for the world you are being teleported into."
+				],
+				[
+					"add",
+					"💡 Added protips to the menu panel.",
+					"You can learn the fundamentals of 2D Image Roleplay and how to use specific features from the Menu."
+				],
+				[
+					"add",
+					"🔥 Added a badge for having at least 7 streaks in the experience.",
+					"People who already have 7 streaks or more should get this badge."
+				],
+				[
+					"add",
+					"Added a transition for teleporting between areas/maps."
+				],
+				[
+					"add",
+					"A banner was added to the Worlds screen indicating the maps' migration."
+				],
+				[
+					"fix",
+					"Renamed the starting World’s name from “Lobby” to “Main World”."
+				],
+				[
+					"fix",
+					"Fixed textual errors in one of the documentation signs at the Information Centre."
+				],
+				[
+					"fix",
+					"Updated the minimap for the Lobby."
+				],
+				[
+					"fix",
+					"Fixed an issue where the text for the Image IDs overlapped with the Streaks count."
+				],
+				[
+					"text",
+					"In future updates, we may add additional worlds and build new maps in collaboration with RelicMelody."
+				]
+			]
+		},
 		{
 			"id": 25011200,
 			"updateType": "update",
@@ -378,6 +435,33 @@
 			]
 		},
 		{
+			"id": 10000000,
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
+			]
+		}
+	],
+	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"archive": [
+		{
 			"id": 24080100,
 			"updateType": "update",
 			"title": "V3.23.1: Urgent hotfix for v3.23 (1 Aug 2024)",
@@ -484,33 +568,6 @@
 				]
 			]
 		},
-		{
-			"id": 10000000,
-			"updateType": "notice",
-			"title": "Beware of Imitators",
-			"bannerImage": 15478541056,
-			"content": [
-				[
-					"text",
-					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
-				],
-				[
-					"text",
-					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
-				],
-				[
-					"text",
-					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
-				],
-				[
-					"text",
-					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
-				]
-			]
-		}
-	],
-	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"archive": [
 		{
 			"id": 24062400,
 			"updateType": "update",
