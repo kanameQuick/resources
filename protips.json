@@ -46,5 +46,9 @@
     [
         "Community Server",
         "Want to discuss 2D Image Roleplay, and learn what comes next? Join our official Discord server!"
+    ],
+    [
+        "Restricted Images",
+        "If you are about to morph into an image that is unsafe for children, be sure to enable <b>Restrict from users &lt;13</b> in the Properties panel."
     ]
 ]
