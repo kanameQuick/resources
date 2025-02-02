@@ -1,5 +1,5 @@
 {
-	"latest": 25011900,
+	"latest": 25020200,
 	"template": [
 		{
 			"id": 25,
@@ -51,6 +51,56 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25020200,
+			"updateType": "update",
+			"title": "V3.31: New safety setting for morphing + New props (2 Feb 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"🛡️ Added a setting that lets you hide your image from people under 13.",
+					"To ensure a safer and fair environment for people of all ages, we have added an option that lets you hide your image from people under the age of 13. Note that failing or forgetting to turn on this setting when morphing into an image unsuitable for all ages, such as blood, horror or violence, may result in a warning up to a ban from this experience. Also, off-sale images will never be shown to people 13 and below.",
+					true
+				],
+				[
+					"add",
+					"📃 Added a new rule regarding the restriction of unsafe images."
+				],
+				[
+					"add",
+					"⛏️ Added the <b>Pickaxe</b> prop."
+				],
+				[
+					"add",
+					"💳 Added the <b>$19 Fortnite Card</b> prop."
+				],
+				[
+					"add",
+					"🪙 Added the <b>V-Buck</b> prop."
+				],
+				[
+					"fix",
+					"Fixed an error when selecting images that have an image colour set from the Favourites."
+				],
+				[
+					"fix",
+					"Fixed an issue under certain circumstances where Maps selector in the Map screen refuses to open."
+				],
+				[
+					"fix",
+					"Updated the platform for the Morph image preview."
+				],
+				[
+					"fix",
+					"Fixed a minor issue with the Menu panel."
+				],
+				[
+					"fix",
+					"Fixed some additional issues."
+				]
+			]
+		},
 		{
 			"id": 25011900,
 			"updateType": "update",
