@@ -1,5 +1,5 @@
 {
-	"latest": 25020200,
+	"latest": 25020900,
 	"template": [
 		{
 			"id": 25,
@@ -51,6 +51,35 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25020900,
+			"updateType": "update",
+			"title": "V3.31.1: More buildings to V2 Lobby (9 Feb 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"🏢 Added 4 new places in V2 lobby.",
+					"These include the following: \n• Cathedral \n• Internet Cafe \n• House 4 \n• Clock Tower", true
+				],
+				[
+					"fix",
+					"🗺️ Updated the map image for the V2 Lobby."
+				],
+				[
+					"add",
+					"Added the leaderboards to V2 Lobby."
+				],
+				[
+					"remove",
+					"Temporarily removed spawn locations from the Main Lobby."
+				],
+				[
+					"text",
+					"🏗️ At this point, we will now start focussing on building new places for the V2 Lobby, and less on feature updates/improvements. Feel free to use the Feedback feature if you have any further suggestions."
+				]
+			]
+		},
 		{
 			"id": 25020200,
 			"updateType": "update",
