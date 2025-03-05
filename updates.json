@@ -1,5 +1,5 @@
 {
-	"latest": 25020900,
+	"latest": 25030500,
 	"template": [
 		{
 			"id": 25,
@@ -51,6 +51,70 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25030500,
+			"updateType": "update",
+			"title": "V3.32: Profiles, banners, and more! (5 Mar 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"📇 Added Profiles",
+					"This shows additional information about a specific person in 2D Image Roleplay, such as playtime, streaks, and other stats. You can also tell more about yourself using the Personal Bio section.", true
+				],
+				[
+					"add",
+					"🖼️ Added banner image customisation",
+					"This feature lets you change your profile’s banner image with one of the images provided in the list or use your own if you have an active Gold Membership or higher."
+				],
+				[
+					"add",
+					"🎶 Added a BGM system that you can toggle on/off depending on the scenario.",
+					"Background music is only available on certain Maps and Worlds right now, and we will provide support for them in the coming days."
+				],
+				[
+					"add",
+					"🚉 Added train stations to V2 Lobby.",
+					"Before entering the train, please be sure that you have read the signs properly."
+				],
+				[
+					"fix",
+					"Prevented the Drum Kit prop from being equipped at a fixed position in Worlds with Maps containing vehicles (such as the Main World)."
+				],
+				[
+					"fix",
+					"Made improvements to the user interface."
+				],
+				[
+					"fix",
+					"Updated the report reason dropdown to make the descriptions shorter."
+				],
+				[
+					"fix",
+					"Fixed an issue where the World loading screen looks abnormal upon entering."
+				],
+				[
+					"fix",
+					"Made the bottom panel of the menu info card shorter to cover less of the banner image."
+				],
+				[
+					"fix",
+					"Updated the benefits list for the Gold Membership in the Market."
+				],
+				[
+					"fix",
+					"Made all props non-collidable with other objects/players."
+				],
+				[
+					"fix",
+					"Updated the minimap of V2 Lobby."
+				],
+				[
+					"critical",
+					"Updated the minimap of V2 Lobby."
+				]
+			]
+		},
 		{
 			"id": 25020900,
 			"updateType": "update",
