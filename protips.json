@@ -50,5 +50,9 @@
     [
         "Restricted Images",
         "If you are about to morph into an image that is unsafe for children, be sure to enable <b>Restrict from users &lt;13</b> in the Properties panel."
+    ],
+    [
+        "Restricted Images",
+        "If you forget to restrict your image containing content that’s unsafe for children, you will have a chance of getting banned permanently."
     ]
 ]
