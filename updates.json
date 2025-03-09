@@ -1,5 +1,5 @@
 {
-	"latest": 25030500,
+	"latest": 25030900,
 	"template": [
 		{
 			"id": 25,
@@ -51,6 +51,23 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25030900,
+			"updateType": "update",
+			"title": "Leek Day 2025",
+			"bannerImage": 112470199235124,
+			"content": [
+				[
+					"text",
+					"Celebrate the day full of fun and music in Leek Day 2025! This event features music from our favourite virtual pop star herself, Hatsune Miku. Enjoy a lot of food from the food stalls that we prepared during the event! So, are you ready for one of the best events of the year?"
+				],
+				[
+					"fix",
+					"Use the gift code “leekday2025” to get 3,939 Mori and 100 EXP. The event will run for 3 days, and the code will expire after the event.",
+					"Disclaimer: Music used during the event is for entertainment purposes only. We do not intend to infringe the rights of the artists or producers of the music."
+				]
+			]
+		},
 		{
 			"id": 25030500,
 			"updateType": "update",
