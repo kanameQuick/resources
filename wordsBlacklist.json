@@ -13,9 +13,14 @@
 			
 			["fanum tax", "skibidi"],
 			["maxxing", "skibidi"],
-			["rizzler", "skibidi"]
+			["rizzler", "skibidi"],
+			["skibidi", "skibidi"],
+			["hawk tuah", "skibidi"]
 		],
 		"exactMatch": [
+			["&lt;", "vulgar"],
+			["&gt;", "vulgar"],
+			
 			["bish", "vulgar"],
 			["fujick", "vulgar"],
 			["negar", "vulgar"],
@@ -36,9 +41,9 @@
 			["cry about it", "insult"],
 			["ion car", "insult"],
 
+			["gyat", "skibidi"],
 			["gyatt", "skibidi"],
 			["rizz", "skibidi"],
-			["riz", "skibidi"],
 			["sigma", "skibidi"],
 			["mewing", "skibidi"]
 		]
@@ -87,7 +92,10 @@
 			["aDq7e4q7+0L4sbWIMqI7TDDLCU2MSZU9l/bHXLSLKLc=", "tdMxjBC0lYGsyq/Q5jVnQg=="],
 			["peXm4tJZWbBgFKBnX3HUIP6z+dbLj72NRBaHi26vduE=", "tdMxjBC0lYGsyq/Q5jVnQg=="],
 			["aGcW0EQ8kjHygwu9N1eOAnzpKEY3q+4QhMmutc7XGFE=", "tdMxjBC0lYGsyq/Q5jVnQg=="],
-			["WWoVBQCxDY6YiLsdeIiWYFGQHcAKHglVkt7qYYnTKJk=", "tdMxjBC0lYGsyq/Q5jVnQg=="]
+			["WWoVBQCxDY6YiLsdeIiWYFGQHcAKHglVkt7qYYnTKJk=", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			
+			["G3XnrNk7rXrqmJIONCDs2zh3v9ZPfSe0N366gr+sx/8=", "S7LWa6L2K9PAW/3brbzEag=="],
+  			["hjqbXUjN/Iqow1WlQ8xUwA==", "S7LWa6L2K9PAW/3brbzEag=="]
 		],
 		"exactMatch": [
 			["jZTbBca7ricnrRcAkiekAQ==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
@@ -118,7 +126,11 @@
 			["bbRwrlt+9kpxCCUvaDnhFA==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
 			["Bu1+7UcJHo+WX5EVmYLAFw==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
 			["4sD5jjSC+zgshL4vApBfVA==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
-			["NC9njrQd8ewBbg+qrkSRxg==", "tdMxjBC0lYGsyq/Q5jVnQg=="]
+			["NC9njrQd8ewBbg+qrkSRxg==", "tdMxjBC0lYGsyq/Q5jVnQg=="],
+			
+			["0WLw8CuQDT4ZrkfIIrTWRA==", "S7LWa6L2K9PAW/3brbzEag=="],
+			["Q3S4h7D9vcozU4QnJHSOxw==", "S7LWa6L2K9PAW/3brbzEag=="],
+			["klAIp/y/NocBOJxH/Q3gNQ==", "S7LWa6L2K9PAW/3brbzEag=="]
 		]
 	}
 }
