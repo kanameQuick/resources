@@ -1,5 +1,5 @@
 {
-	"latest": 25030900,
+	"latest": 25032900,
 	"template": [
 		{
 			"id": 25,
@@ -51,6 +51,71 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25032900,
+			"updateType": "update",
+			"title": "V3.33: Tutorial Update (29 Mar 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"🔰 Added the tutorial screen.",
+					"This is one of the most requested features in 2DIRP. We made this as a way to help new people unfamiliar with image roleplay games navigate to the Morph screen and apply certain settings to their morph.", true
+				],
+				[
+					"add",
+					"📇 Added a function to open your profile by clicking on your avatar in the Menu."
+				],
+				[
+					"fix",
+					"Fixed a wrapping issue with the bio text in the Current Morph section of the Profile."
+				],
+				[
+					"fix",
+					"Fixed the positioning of the Front and Back image labels in the Current Morph section of the Profile."
+				],
+				[
+					"fix",
+					"Fixed an issue where exiting the Profile while editing the Personal Bio causes the Personal Bio in other people’s Profiles to go invisible."
+				],
+				[
+					"fix",
+					"Made changes to regions in which beta features are not available."
+				],
+				[
+					"fix",
+					"Fixed an issue with the Profile where people without any ranks/memberships will have an empty box beside their username."
+				],
+				[
+					"fix",
+					"Fixed an issue where interacting with the buttons of existing People List items causes the sound effects to get louder."
+				],
+				[
+					"fix",
+					"Fixed a problem where daytime music sometimes plays during nighttime, and vice-versa."
+				],
+				[
+					"fix",
+					"Updated the nighttime music for the Lobby and V2 Lobby."
+				],
+				[
+					"fix",
+					"Fixed an issue where some people have “1970/01/01” as their Joined Since date in their Profile."
+				],
+				[
+					"fix",
+					"Made an improvement to the People List."
+				],
+				[
+					"fix",
+					"Made an improvement to Amburn anti-cheat."
+				],
+				[
+					"text",
+					"You may also notice that buildings are being added or changed in the V2 Lobby. We did this as part of a map revamp that was planned last week. Take note that the map will be subject to change, even when no release notes are released."
+				]
+			]
+		},
 		{
 			"id": 25030900,
 			"updateType": "update",
@@ -376,6 +441,33 @@
 			]
 		},
 		{
+			"id": 10000000,
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
+			]
+		}
+	],
+	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"archive": [
+		{
 			"id": 24121500,
 			"updateType": "update",
 			"title": "V3.26: Prop Qualities and Library Improvements (15 Dec 2024)",
@@ -594,33 +686,6 @@
 				]
 			]
 		},
-		{
-			"id": 10000000,
-			"updateType": "notice",
-			"title": "Beware of Imitators",
-			"bannerImage": 15478541056,
-			"content": [
-				[
-					"text",
-					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
-				],
-				[
-					"text",
-					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
-				],
-				[
-					"text",
-					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
-				],
-				[
-					"text",
-					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
-				]
-			]
-		}
-	],
-	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"archive": [
 		{
 			"id": 24080100,
 			"updateType": "update",
