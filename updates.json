@@ -1,5 +1,5 @@
 {
-	"latest": 25032900,
+	"latest": 25040600,
 	"template": [
 		{
 			"id": 25,
@@ -51,6 +51,29 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25040600,
+			"updateType": "update",
+			"title": "V3.34: Enhanced Profiles (06 Apr 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"Added automatic theming to Profiles.",
+					"This function will make a colour theme on your profile based on the colours of your set banner image, using our proprietary colour selection algorithm. This also works on preset images, too (except for the “Scattered Squares (default)” banner)."
+				],
+				[
+					"add",
+					"dded a ‘Skip’ button to the tutorial.",
+					"After numerous complaints from existing users about the tutorial being unskippable, we have decided to add a button that skips the tutorial entirely. If you change your mind, you can open Menu > Settings > Miscellaneous > Restart tutorial."
+				],
+				[
+					"fix",
+					"Upgraded Morph and Profile Banner Image resolutions.",
+					"Instead of rendering a morphed image as <b>420x420px</b>, it can now render at <b>700x700px</b>. Along with that, Profile Banners can now render at <b>768x432</b>px, which is a MASSIVE improvement! This only applies to morphed images, Image Signs and Profile banners, not to thumbnails on the Image Library and the People list."
+				]
+			]
+		},
 		{
 			"id": 25032900,
 			"updateType": "update",
@@ -379,6 +402,42 @@
 			]
 		},
 		{
+			"id": 10000000,
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
+			]
+		}
+	],
+	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"---------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"--------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"-------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"-----------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"----------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"---------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"--------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"-------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"archive": [
+		{
 			"id": 24122900,
 			"updateType": "update",
 			"title": "V3.28: New Limited-Time Prop (29 Dec 2024)",
@@ -440,33 +499,6 @@
 				]
 			]
 		},
-		{
-			"id": 10000000,
-			"updateType": "notice",
-			"title": "Beware of Imitators",
-			"bannerImage": 15478541056,
-			"content": [
-				[
-					"text",
-					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
-				],
-				[
-					"text",
-					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
-				],
-				[
-					"text",
-					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
-				],
-				[
-					"text",
-					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
-				]
-			]
-		}
-	],
-	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"archive": [
 		{
 			"id": 24121500,
 			"updateType": "update",
