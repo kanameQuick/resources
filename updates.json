@@ -1,5 +1,5 @@
 {
-	"latest": 25040600,
+	"latest": 25042601,
 	"template": [
 		{
 			"id": 25,
@@ -51,6 +51,73 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25042601,
+			"updateType": "notice",
+			"title": "Enhancing moderation in 2D Image Roleplay",
+			"bannerImage": 132059973981370,
+			"content": [
+				[
+					"text",
+					"We at WonderStars have reached a new era of content and behavioural moderation, and safety in 2D Image Roleplay. This post showcases the advances that we make, and the techniques we use to ensure the safety of everyone of all ages in the experience."
+				],
+				[
+					"text",
+					"Every time you send a message or morph into an image, those activities will be logged and viewed by moderators to ensure no inappropriate content stays within our experience’s servers. Due to this, you will consent that by sending a message to the chat or morphing into an image, your activity will be recorded for safety and compliance with the rules and Roblox’s policies."
+				],
+				[
+					"text",
+					"We have also made a new integration for our Discord bot, Nenerobo, that allows moderators to take immediate action, such as banning people, blacklisting images and audio, and so on remotely by executing a command on the WonderStars Staff Discord server. This integration is called the ‘Easy Moderation Utilities for 2D Image Roleplay’, and makes it so that even when no staff member is inside an experience server, they will still be able to ban people without them knowing that they are being banned. These commands are not visible on the bot at the main WonderStars Discord server, and trying to execute one of those will have no effect."
+				],
+				[
+					"text",
+					"By utilising these features, we can make moderation in 2D Image Roleplay way easier and quicker than ever before, without the hassle of opening Roblox, getting into the experience and banning a person, or staring at the screen for any rule breakers that might happen in the experience itself."
+				]
+			]
+		},
+		{
+			"id": 25042600,
+			"updateType": "update",
+			"title": "v3.35: More UI improvements (26 Apr 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"🛡️ Added improvements to moderation.",
+					"This includes morph and chat logging, as well as remote banning from the staff Discord server via the EasyModUtils Nenerobo integration."
+				],
+				[
+					"fix",
+					"🪄 Improved UI image effects engine (PC only).",
+					"Transparency effects, such as blurs in the menu and profile, appear smoother now."
+				],
+				[
+					"add",
+					"🖼️ Added a blurred banner image on expanded people list cards (PC only).",
+					"Mobile users will see an unblurred version of the background to save performance."
+				],
+				[
+					"fix",
+					"Prevented the cursor from locking whilst the Profile is visible in first-person mode."
+				],
+				[
+					"fix",
+					"Changed the text colour for the username in the expanded people list cards due to contrast issues on certain background images."
+				],
+				[
+					"add",
+					"Added a cooldown of 1 minute after morphing into an image."
+				],
+				[
+					"add",
+					"Added a function where the status will automatically set as “Idle/AFK” when the Roblox client window is unfocussed or minimised."
+				],
+				[
+					"fix",
+					"Updated the items for the Suggested searches in the Image Library to use the automatic colour selection algorithm."
+				]
+			]
+		},
 		{
 			"id": 25040600,
 			"updateType": "update",
@@ -300,6 +367,42 @@
 			]
 		},
 		{
+			"id": 10000000,
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
+			]
+		}
+	],
+	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"---------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"--------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"-------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"-----------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"----------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"---------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"--------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"-------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"archive": [
+		{
 			"id": 25011900,
 			"updateType": "update",
 			"title": "V3.30: Consolidation of certain maps + Teleportation improvements (19 Jan 2025)",
@@ -401,42 +504,6 @@
 				]
 			]
 		},
-		{
-			"id": 10000000,
-			"updateType": "notice",
-			"title": "Beware of Imitators",
-			"bannerImage": 15478541056,
-			"content": [
-				[
-					"text",
-					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
-				],
-				[
-					"text",
-					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
-				],
-				[
-					"text",
-					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
-				],
-				[
-					"text",
-					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
-				]
-			]
-		}
-	],
-	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"---------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"--------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"-------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"-----------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"----------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"---------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"--------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"-------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"archive": [
 		{
 			"id": 24122900,
 			"updateType": "update",
