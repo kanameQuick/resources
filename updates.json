@@ -1,5 +1,5 @@
 {
-	"latest": 25042601,
+	"latest": 25052400,
 	"template": [
 		{
 			"id": 25,
@@ -51,6 +51,30 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25052400,
+			"updateType": "notice",
+			"title": "A New Lobby is in The Works (by namireen • 24 May 2025)",
+			"bannerImage": 92703833221661,
+			"content": [
+				[
+					"text",
+					"Greetings everyone, after a long hiatus in game development, I am excited to announce that a brand new Lobby map for 2D Image Roleplay is in the works! This will feature existing structures from the current lobby, including improved versions of them, as well as new structures and houses. These structures are inspired by various places in real life and in certain video games. Some buildings, on the other hand, need additional time to finish."
+				],
+				[
+					"text",
+					"What does this mean to everyone? With this update, everyone can enjoy a more immersive and clutter-free experience, different from the current lobby."
+				],
+				[
+					"text",
+					"If you have any questions or concerns about this upcoming change or want to see the current progress of this map, feel free to check out our community server. The link is on the WonderStars Community page."
+				],
+				[
+					"text",
+					"You can suggest new buildings while I work as well!"
+				]
+			]
+		},
 		{
 			"id": 25042601,
 			"updateType": "notice",
