@@ -1,8 +1,8 @@
 {
-	"latest": 25052400,
+	"latest": 24121500,
 	"template": [
 		{
-			"id": 25,
+			"id": 24,
 			"updateType": "update",
 			"title": "V3.X: Untitled (D M Y)",
 			"bannerImage": null,
@@ -26,19 +26,11 @@
 				[
 					"text",
 					""
-				],
-				[
-					"image",
-					""
-				],
-				[
-					"yoimiya",
-					""
 				]
 			]
 		},
 		{
-			"id": 25,
+			"id": 24,
 			"updateType": "notice",
 			"title": "",
 			"bannerImage": 0,
@@ -52,541 +44,47 @@
 	],
 	"listing": [
 		{
-			"id": 25052400,
-			"updateType": "notice",
-			"title": "A New Lobby is in The Works (by namireen • 24 May 2025)",
-			"bannerImage": 92703833221661,
-			"content": [
-				[
-					"text",
-					"Greetings everyone, after a long hiatus in game development, I am excited to announce that a brand new Lobby map for 2D Image Roleplay is in the works! This will feature existing structures from the current lobby, including improved versions of them, as well as new structures and houses. These structures are inspired by various places in real life and in certain video games. Some buildings, on the other hand, need additional time to finish."
-				],
-				[
-					"text",
-					"What does this mean to everyone? With this update, everyone can enjoy a more immersive and clutter-free experience, different from the current lobby."
-				],
-				[
-					"text",
-					"If you have any questions or concerns about this upcoming change or want to see the current progress of this map, feel free to check out our community server. The link is on the WonderStars Community page."
-				],
-				[
-					"text",
-					"You can suggest new buildings while I work as well!"
-				]
-			]
-		},
-		{
-			"id": 25042601,
-			"updateType": "notice",
-			"title": "Enhancing moderation in 2D Image Roleplay",
-			"bannerImage": 132059973981370,
-			"content": [
-				[
-					"text",
-					"We at WonderStars have reached a new era of content and behavioural moderation, and safety in 2D Image Roleplay. This post showcases the advances that we make, and the techniques we use to ensure the safety of everyone of all ages in the experience."
-				],
-				[
-					"text",
-					"Every time you send a message or morph into an image, those activities will be logged and viewed by moderators to ensure no inappropriate content stays within our experience’s servers. Due to this, you will consent that by sending a message to the chat or morphing into an image, your activity will be recorded for safety and compliance with the rules and Roblox’s policies."
-				],
-				[
-					"text",
-					"We have also made a new integration for our Discord bot, Nenerobo, that allows moderators to take immediate action, such as banning people, blacklisting images and audio, and so on remotely by executing a command on the WonderStars Staff Discord server. This integration is called the ‘Easy Moderation Utilities for 2D Image Roleplay’, and makes it so that even when no staff member is inside an experience server, they will still be able to ban people without them knowing that they are being banned. These commands are not visible on the bot at the main WonderStars Discord server, and trying to execute one of those will have no effect."
-				],
-				[
-					"text",
-					"By utilising these features, we can make moderation in 2D Image Roleplay way easier and quicker than ever before, without the hassle of opening Roblox, getting into the experience and banning a person, or staring at the screen for any rule breakers that might happen in the experience itself."
-				]
-			]
-		},
-		{
-			"id": 25042600,
+			"id": 24121500,
 			"updateType": "update",
-			"title": "v3.35: More UI improvements (26 Apr 2025)",
+			"title": "V3.37: A New Start (29 Jun 2025)",
 			"bannerImage": null,
 			"content": [
 				[
 					"fix",
-					"🛡️ Added improvements to moderation.",
-					"This includes morph and chat logging, as well as remote banning from the staff Discord server via the EasyModUtils Nenerobo integration."
+					"Made some improvements to the Menu and Profile interface."
 				],
 				[
 					"fix",
-					"🪄 Improved UI image effects engine (PC only).",
-					"Transparency effects, such as blurs in the menu and profile, appear smoother now."
+					"Made an improvement to the anti-cheat."
 				],
 				[
 					"add",
-					"🖼️ Added a blurred banner image on expanded people list cards (PC only).",
-					"Mobile users will see an unblurred version of the background to save performance."
-				],
-				[
-					"fix",
-					"Prevented the cursor from locking whilst the Profile is visible in first-person mode."
-				],
-				[
-					"fix",
-					"Changed the text colour for the username in the expanded people list cards due to contrast issues on certain background images."
-				],
-				[
-					"add",
-					"Added a cooldown of 1 minute after morphing into an image."
-				],
-				[
-					"add",
-					"Added a function where the status will automatically set as “Idle/AFK” when the Roblox client window is unfocussed or minimised."
-				],
-				[
-					"fix",
-					"Updated the items for the Suggested searches in the Image Library to use the automatic colour selection algorithm."
-				]
-			]
-		},
-		{
-			"id": 25040600,
-			"updateType": "update",
-			"title": "V3.34: Enhanced Profiles (06 Apr 2025)",
-			"bannerImage": null,
-			"content": [
-				[
-					"add",
-					"Added automatic theming to Profiles.",
-					"This function will make a colour theme on your profile based on the colours of your set banner image, using our proprietary colour selection algorithm. This also works on preset images, too (except for the “Scattered Squares (default)” banner)."
-				],
-				[
-					"add",
-					"dded a ‘Skip’ button to the tutorial.",
-					"After numerous complaints from existing users about the tutorial being unskippable, we have decided to add a button that skips the tutorial entirely. If you change your mind, you can open Menu > Settings > Miscellaneous > Restart tutorial."
-				],
-				[
-					"fix",
-					"Upgraded Morph and Profile Banner Image resolutions.",
-					"Instead of rendering a morphed image as <b>420x420px</b>, it can now render at <b>700x700px</b>. Along with that, Profile Banners can now render at <b>768x432</b>px, which is a MASSIVE improvement! This only applies to morphed images, Image Signs and Profile banners, not to thumbnails on the Image Library and the People list."
-				]
-			]
-		},
-		{
-			"id": 25032900,
-			"updateType": "update",
-			"title": "V3.33: Tutorial Update (29 Mar 2025)",
-			"bannerImage": null,
-			"content": [
-				[
-					"add",
-					"🔰 Added the tutorial screen.",
-					"This is one of the most requested features in 2DIRP. We made this as a way to help new people unfamiliar with image roleplay games navigate to the Morph screen and apply certain settings to their morph.", true
-				],
-				[
-					"add",
-					"📇 Added a function to open your profile by clicking on your avatar in the Menu."
-				],
-				[
-					"fix",
-					"Fixed a wrapping issue with the bio text in the Current Morph section of the Profile."
-				],
-				[
-					"fix",
-					"Fixed the positioning of the Front and Back image labels in the Current Morph section of the Profile."
-				],
-				[
-					"fix",
-					"Fixed an issue where exiting the Profile while editing the Personal Bio causes the Personal Bio in other people’s Profiles to go invisible."
-				],
-				[
-					"fix",
-					"Made changes to regions in which beta features are not available."
-				],
-				[
-					"fix",
-					"Fixed an issue with the Profile where people without any ranks/memberships will have an empty box beside their username."
-				],
-				[
-					"fix",
-					"Fixed an issue where interacting with the buttons of existing People List items causes the sound effects to get louder."
-				],
-				[
-					"fix",
-					"Fixed a problem where daytime music sometimes plays during nighttime, and vice-versa."
-				],
-				[
-					"fix",
-					"Updated the nighttime music for the Lobby and V2 Lobby."
-				],
-				[
-					"fix",
-					"Fixed an issue where some people have “1970/01/01” as their Joined Since date in their Profile."
-				],
-				[
-					"fix",
-					"Made an improvement to the People List."
-				],
-				[
-					"fix",
-					"Made an improvement to Amburn anti-cheat."
-				],
-				[
-					"text",
-					"You may also notice that buildings are being added or changed in the V2 Lobby. We did this as part of a map revamp that was planned last week. Take note that the map will be subject to change, even when no release notes are released."
-				]
-			]
-		},
-		{
-			"id": 25030900,
-			"updateType": "update",
-			"title": "Leek Day 2025",
-			"bannerImage": 112470199235124,
-			"content": [
-				[
-					"text",
-					"🌟🥬 Celebrate the day full of fun and music in Leek Day 2025! This event features music from our favourite virtual pop star herself, Hatsune Miku. Enjoy a lot of food from the food stalls that we prepared during the event! So, are you ready for one of the best events of the year?"
-				],
-				[
-					"fix",
-					"🪙 Use the gift code “leekday2025” to get 3,939 Mori and 100 EXP. The event will run for 3 days, and the code will expire after the event.\n📅 Event duration: 9 Mar - 11 Mar 2025.",
-					"Disclaimer: Music used during the event is for entertainment purposes only. We do not intend to infringe the rights of the artists or producers of the music."
-				]
-			]
-		},
-		{
-			"id": 25030500,
-			"updateType": "update",
-			"title": "V3.32: Profiles, banners, and more! (5 Mar 2025)",
-			"bannerImage": null,
-			"content": [
-				[
-					"add",
-					"📇 Added Profiles",
-					"This shows additional information about a specific person in 2D Image Roleplay, such as playtime, streaks, and other stats. You can also tell more about yourself using the Personal Bio section.", true
-				],
-				[
-					"add",
-					"🖼️ Added banner image customisation",
-					"This feature lets you change your profile’s banner image with one of the images provided in the list or use your own if you have an active Gold Membership or higher."
-				],
-				[
-					"add",
-					"🎶 Added a BGM system that you can toggle on/off depending on the scenario.",
-					"Background music is only available on certain Maps and Worlds right now, and we will provide support for them in the coming days."
-				],
-				[
-					"add",
-					"🚉 Added train stations to V2 Lobby.",
-					"Before entering the train, please be sure that you have read the signs properly."
-				],
-				[
-					"fix",
-					"Prevented the Drum Kit prop from being equipped at a fixed position in Worlds with Maps containing vehicles (such as the Main World)."
-				],
-				[
-					"fix",
-					"Made improvements to the user interface."
-				],
-				[
-					"fix",
-					"Updated the report reason dropdown to make the descriptions shorter."
-				],
-				[
-					"fix",
-					"Fixed an issue where the World loading screen looks abnormal upon entering."
-				],
-				[
-					"fix",
-					"Made the bottom panel of the menu info card shorter to cover less of the banner image."
-				],
-				[
-					"fix",
-					"Updated the benefits list for the Gold Membership in the Market."
-				],
-				[
-					"fix",
-					"Made all props non-collidable with other objects/players."
-				],
-				[
-					"fix",
-					"Updated the minimap of V2 Lobby."
-				],
-				[
-					"critical",
-					"Updated the minimap of V2 Lobby."
-				]
-			]
-		},
-		{
-			"id": 25020900,
-			"updateType": "update",
-			"title": "V3.31.1: More buildings to V2 Lobby (9 Feb 2025)",
-			"bannerImage": null,
-			"content": [
-				[
-					"add",
-					"🏢 Added 4 new places in V2 lobby.",
-					"These include the following: \n• Cathedral \n• Internet Cafe \n• House 4 \n• Clock Tower", true
-				],
-				[
-					"fix",
-					"🗺️ Updated the map image for the V2 Lobby."
-				],
-				[
-					"add",
-					"Added the leaderboards to V2 Lobby."
+					"Added new buildings to V4 Lobby."
 				],
 				[
 					"remove",
-					"Temporarily removed spawn locations from the Main Lobby."
+					"Removed the V2 Lobby from the Main World."
 				],
 				[
-					"text",
-					"🏗️ At this point, we will now start focussing on building new places for the V2 Lobby, and less on feature updates/improvements. Feel free to use the Feedback feature if you have any further suggestions."
-				]
-			]
-		},
-		{
-			"id": 25020200,
-			"updateType": "update",
-			"title": "V3.31: New safety setting for morphing + New props (2 Feb 2025)",
-			"bannerImage": null,
-			"content": [
-				[
-					"add",
-					"🛡️ Added a setting that lets you hide your image from people under 13.",
-					"To ensure a safer and fair environment for people of all ages, we have added an option that lets you hide your image from people under the age of 13. Note that failing or forgetting to turn on this setting when morphing into an image unsuitable for all ages, such as blood, horror or violence, may result in a warning up to a ban from this experience. Also, off-sale images will never be shown to people 13 and below.",
-					true
+					"fix",
+					"Made some improvements to the tutorial.",
+					"The delay between each pop-up in the tutorial should be quicker now."
 				],
 				[
 					"add",
-					"📃 Added a new rule regarding the restriction of unsafe images."
+					"Added a respawning screen upon character death."
 				],
 				[
 					"add",
-					"⛏️ Added the <b>Pickaxe</b> prop."
+					"Added the <b>New Lobby</b> banner image."
 				],
 				[
-					"add",
-					"💳 Added the <b>$19 Fortnite Card</b> prop."
-				],
-				[
-					"add",
-					"🪙 Added the <b>V-Buck</b> prop."
+					"remove",
+					"Removed some words from the chat filter."
 				],
 				[
 					"fix",
-					"Fixed an error when selecting images that have an image colour set from the Favourites."
-				],
-				[
-					"fix",
-					"Fixed an issue under certain circumstances where Maps selector in the Map screen refuses to open."
-				],
-				[
-					"fix",
-					"Updated the platform for the Morph image preview."
-				],
-				[
-					"fix",
-					"Fixed a minor issue with the Menu panel."
-				],
-				[
-					"fix",
-					"Fixed some additional issues."
-				]
-			]
-		},
-		{
-			"id": 10000000,
-			"updateType": "notice",
-			"title": "Beware of Imitators",
-			"bannerImage": 15478541056,
-			"content": [
-				[
-					"text",
-					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
-				],
-				[
-					"text",
-					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
-				],
-				[
-					"text",
-					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
-				],
-				[
-					"text",
-					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
-				]
-			]
-		}
-	],
-	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"---------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"--------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"-------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"-----------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"----------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"---------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"--------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"-------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"archive": [
-		{
-			"id": 25011900,
-			"updateType": "update",
-			"title": "V3.30: Consolidation of certain maps + Teleportation improvements (19 Jan 2025)",
-			"bannerImage": null,
-			"content": [
-				[
-					"fix",
-					"🗺️ Migrated 3 different maps to the Main World (Lobby).",
-					"Thanks to asset streaming, putting additional parts in one place no longer negatively impacts performance. You can now roleplay in these maps on private servers!",
-					true
-				],
-				[
-					"fix",
-					"🌏 Updated the World teleportation screen.",
-					"It now includes the category for the world you are being teleported into."
-				],
-				[
-					"add",
-					"💡 Added protips to the menu panel.",
-					"You can learn the fundamentals of 2D Image Roleplay and how to use specific features from the Menu."
-				],
-				[
-					"add",
-					"🔥 Added a badge for having at least 7 streaks in the experience.",
-					"People who already have 7 streaks or more should get this badge."
-				],
-				[
-					"add",
-					"Added a transition for teleporting between areas/maps."
-				],
-				[
-					"add",
-					"A banner was added to the Worlds screen indicating the maps' migration."
-				],
-				[
-					"fix",
-					"Renamed the starting World’s name from “Lobby” to “Main World”."
-				],
-				[
-					"fix",
-					"Fixed textual errors in one of the documentation signs at the Information Centre."
-				],
-				[
-					"fix",
-					"Updated the minimap for the Lobby."
-				],
-				[
-					"fix",
-					"Fixed an issue where the text for the Image IDs overlapped with the Streaks count."
-				],
-				[
-					"text",
-					"In future updates, we may add additional worlds and build new maps in collaboration with RelicMelody."
-				]
-			]
-		},
-		{
-			"id": 25011200,
-			"updateType": "update",
-			"title": "V3.29: Streaks and New Menu! (12 Jan 2025)",
-			"bannerImage": null,
-			"content": [
-				[
-					"fix",
-					"📃 Revamped the 2DIRP menu.",
-					"This redesign of the menu now includes your user ID (UID) and the streaks count, along with a new background.",
-					true
-				],
-				[
-					"add",
-					"🔥 Added the streaks system",
-					"This new system lets you see how many days you visited 2D Roleplay without missing a single day. It can be shown either in the menu, the people list or on your name tag.",
-					true
-				],
-				[
-					"fix",
-					"🏃‍♂️ Made loading experience data a bit more faster.", 
-					"Thanks to the improved loading system, waiting times are a bit shorter now."
-				],
-				[
-					"add",
-					"📇 Added Roleplay Rank, Mori and Streak counts to the people list item card."
-				],
-				[
-					"add",
-					"🏆 Added a leaderboard for Streaks and Mori to the Lobby."
-				],
-				[
-					"fix",
-					"Changed the placeholder banner for the Release Notes."
-				],
-				[
-					"fix",
-					"Changed the formatting of the version numbers."
-				],
-				[
-					"fix",
-					"Made some additional improvements and fixed issues."
-				]
-			]
-		},
-		{
-			"id": 24122900,
-			"updateType": "update",
-			"title": "V3.28: New Limited-Time Prop (29 Dec 2024)",
-			"bannerImage": null,
-			"content": [
-				[
-					"add",
-					"🎺 Added the <b>Toy Trumpet</b> prop for use in New Year’s Eve (Lobby only).",
-					"The item is typically used to make a loud noise during special occasions, including New Year’s Eve. This prop will be a limited-time item and is available until the end of New Year’s Day. Please note that this is not obtainable in Worlds other than the Lobby."
-				],
-				[
-					"fix",
-					"Improved drag scrolling for Desktop."
-				]
-			]
-		},
-		{
-			"id": 24122500,
-			"updateType": "update",
-			"title": "V3.27: Christmas Update (25 Dec 2024)",
-			"bannerImage": 94940302183896,
-			"content": [
-				[
-					"text",
-					"As 2024 comes to an end, we have made significant changes to the experience, including some changes to the lobby and some additional improvements in general. By the end of the month, a fireworks display will happen in the map itself, and you may not want to miss it! We hope that you all enjoy this astonishing experience in 2D Image Roleplay."
-				],
-				[
-					"fix",
-					"🎆 Updated the stage in the lobby.",
-					"This includes showing the countdown for New Year’s Day. You can manually set the time to midnight in Settings for the best experience when the day comes."
-				],
-				[
-					"add",
-					"🎆 Added a few items to the lobby in favour of New Year’s Day."
-				],
-				[
-					"add",
-					"🥖 Added the <b>Baguette</b> prop."
-				],
-				[
-					"add",
-					"⚙️ Added small descriptions under the items in Settings."
-				],
-				[
-					"fix",
-					"🎚️ Changed the icon for the Search Settings for better understanding."
-				],
-				[
-					"image",
-					"98166084344095"
-				],
-				[
-					"fix",
-					"Made an improvement to Amburn anti-cheat."
-				],
-				[
-					"fix",
-					"Made some improvements and fixed additional issues."
+					"Made a change to the readme text at experience startup."
 				]
 			]
 		},
@@ -607,8 +105,7 @@
 				],
 				[
 					"fix",
-					"🔍 Fixed an issue where the Image/Audio libraries become unavailable due to high demand.",
-					null, true
+					"🔍 <font color='#ffff80'>Fixed an issue where the Image/Audio libraries become unavailable due to high demand.</font>"
 				],
 				[
 					"fix",
@@ -745,9 +242,8 @@
 				],
 				[
 					"add",
-					"🎶 Songs by Nuskit is back!",
-					"Finally, after an agreement with the uploader for the library, Songs by Nuskit has been returned and can now be played on the Boombox.",
-					true
+					"🎶 <font color='#ffff80'>Songs by Nuskit is back!</font>",
+					"Finally, after an agreement with the uploader for the library, Songs by Nuskit has been returned and can now be played on the Boombox."
 				],
 				[
 					"add",
@@ -916,6 +412,33 @@
 				]
 			]
 		},
+		{
+			"id": 10000000,
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
+			]
+		}
+	],
+	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"archive": [
 		{
 			"id": 24062400,
 			"updateType": "update",
