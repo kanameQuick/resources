@@ -2,20 +2,10 @@
 	"basic": {
 		"fluffyMatch": [
 			["asscheeks", "vulgar"],
-			["nobody cares", "insult"],
-			["no one cares", "insult"],
 			["skill issue", "insult"],
 			["skil issue", "insult"],
 			["fatherless", "insult"],
-			["i dont care", "insult"],
-			["i don car", "insult"],
-			["adoll hitter", "vulgar"],
-			
-			["fanum tax", "skibidi"],
-			["maxxing", "skibidi"],
-			["rizzler", "skibidi"],
-			["skibidi", "skibidi"],
-			["hawk tuah", "skibidi"]
+			["adoll hitter", "vulgar"]
 		],
 		"exactMatch": [
 			["&lt;", "vulgar"],
@@ -24,28 +14,12 @@
 			["bish", "vulgar"],
 			["fujick", "vulgar"],
 			["negar", "vulgar"],
-			["idc", "insult"],
-			["dnc", "insult"],
-			["shut up", "insult"],
 			["bigot", "insult"],
-			["cring", "insult"],
-			["crign", "insult"],
-			["crin", "insult"],
-			["crn", "insult"],
-			["gay", "insult"],
-			["gey", "insult"],
 			["team terrific", "brand"],
 			["team terriffic", "brand"],
 			["eww genshin", "community"],
 			["ew genshin", "community"],
-			["cry about it", "insult"],
-			["ion car", "insult"],
-
-			["gyat", "skibidi"],
-			["gyatt", "skibidi"],
-			["rizz", "skibidi"],
-			["sigma", "skibidi"],
-			["mewing", "skibidi"]
+			["cry about it", "insult"]
 		]
 	},
 	"critical": {
