@@ -1,5 +1,5 @@
 {
-	"latest": 24121500,
+	"latest": 24070600,
 	"template": [
 		{
 			"id": 24,
@@ -43,6 +43,27 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 24070600,
+			"updateType": "update",
+			"title": "V3.38: School Full Release + New Safety Implementation (6 Jul 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"Added a school with editable chalkboards, along with other implementations, such as the parking lot, running track, and football field."
+				],
+				[
+					"add",
+					"Added ERPSearcher from RubenSim.",
+					"ERPSearcher is a system where if a player joins, it scans a database of known violators of existing experiences, and kicks them out if found."
+				],
+				[
+					"add",
+					"[New Lobby] Added a bigger baseplate and huge mountains at the edges of the map."
+				]
+			]
+		},
 		{
 			"id": 24121500,
 			"updateType": "update",
