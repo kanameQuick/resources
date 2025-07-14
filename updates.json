@@ -1,8 +1,8 @@
 {
-	"latest": 24070600,
+	"latest": 25071400,
 	"template": [
 		{
-			"id": 24,
+			"id": 25,
 			"updateType": "update",
 			"title": "V3.X: Untitled (D M Y)",
 			"bannerImage": null,
@@ -30,7 +30,7 @@
 			]
 		},
 		{
-			"id": 24,
+			"id": 25,
 			"updateType": "notice",
 			"title": "",
 			"bannerImage": 0,
@@ -44,7 +44,76 @@
 	],
 	"listing": [
 		{
-			"id": 24070600,
+			"id": 25071400,
+			"updateType": "update",
+			"title": "V3.39: New Lobby improvements + Revamped Boombox Beta (14 Jul 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"text",
+					"<i>I’m thinking Miku Miku oo ee oo</i>"
+				],
+				[
+					"fix",
+					"🏫 Made the bells in the School quieter."
+				],
+				[
+					"fix",
+					"🏫 Added more objects to the school (lights, trees, chairs, etc.)"
+				],
+				[
+					"fix",
+					"🗺️ Added a <b>School Field</b> zone."
+				],
+				[
+					"fix",
+					"📍 Added a teleport point to the school field."
+				],
+				[
+					"fix",
+					"⚽ Improved mechanics in the School’s football field."
+				],
+				[
+					"fix",
+					"➡️ Made the Skip button visible throughout the tutorial."
+				],
+				[
+					"fix",
+					"🛡️ [Amburn] Made an improvement to the anti-cheat."
+				],
+				[
+					"fix",
+					"🌲 Added a forest on the edges of the map.",
+					"The dedicated <b>Forest</b> map may be deprecated and removed in a future update."
+				],
+				[
+					"add",
+					"🚡 Added a cable car ride to the New Lobby",
+					"The internet’s “least used” emoji is now an actual ride in 2DIRP."
+				],
+				[
+					"add",
+					"📢 Added a cross-server notification system.",
+					"Admins can now send cross-server messages in the expeirence."
+				],
+				[
+					"fix",
+					"🚩 Decreased requirements for submitting reports to Roleplay Rank 5.",
+					"We have not received reports frequently, so we decided to lower the requirements to ensure that other people can help make 2DIRP a safer place."
+				],
+				[
+					"add",
+					"📻 Boombox Revamp released for public beta testing.",
+					"You may notice that we are 1 day off-schedule, because the new Boombox GUI takes a lot of time developing. You can also play/pause by pressing K, and rewind/fast-forward by pressing J and L respectedly (only works while the Boombox is equipped). This is currently in its beta phase, so it’s only availabe in the Main World for now."
+				],
+				[
+					"fix",
+					"Updated the logos in the interface."
+				]
+			]
+		},
+		{
+			"id": 25070600,
 			"updateType": "update",
 			"title": "V3.38: School Full Release + New Safety Implementation (6 Jul 2025)",
 			"bannerImage": null,
@@ -247,6 +316,33 @@
 			]
 		},
 		{
+			"id": 10000000,
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
+			]
+		}
+	],
+	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"archive": [
+		{
 			"id": 24101200,
 			"updateType": "update",
 			"title": "V3.24: Winter update + big changes and improvements (12 Oct 2024)",
@@ -433,33 +529,6 @@
 				]
 			]
 		},
-		{
-			"id": 10000000,
-			"updateType": "notice",
-			"title": "Beware of Imitators",
-			"bannerImage": 15478541056,
-			"content": [
-				[
-					"text",
-					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
-				],
-				[
-					"text",
-					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
-				],
-				[
-					"text",
-					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
-				],
-				[
-					"text",
-					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
-				]
-			]
-		}
-	],
-	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"archive": [
 		{
 			"id": 24062400,
 			"updateType": "update",
