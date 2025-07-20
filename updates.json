@@ -60,7 +60,7 @@
 				[
 					"fix",
 					"[Boombox] Fixed an issue where the slider range for the playback speed is too wide after disabling “Maintain pitch”.",
-					"You can still enter higher/lower speeds beyond this range depending on your Membership tier by typing it in the text field about the slider."
+					"You can still enter higher/lower speeds beyond this range depending on your Membership tier by typing it in the text field above the slider."
 				],
 				[
 					"fix",
