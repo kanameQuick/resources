@@ -1,5 +1,5 @@
 {
-	"latest": 25072000,
+	"latest": 25080300,
 	"template": [
 		{
 			"id": 25,
@@ -44,6 +44,51 @@
 	],
 	"listing": [
 		{
+			"id": 25080300,
+			"updateType": "update",
+			"title": "V3.41.0: Improved Audio Library + Feedback updates (3 Aug 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Made some improvements to Audio Library Beta interface.",
+					"This includes automatic cover images based on audio details, as well as automatic colour theming for the player bar."
+				],
+				[
+					"fix",
+					"Fixed an issue where the search button remains invisible when switching between libraries after navigating to a Special Library."
+				],
+				[
+					"add",
+					"Added new items to the Suggested list.",
+					"Hoshimachi Suisei, Miside, Kpop Demon Hunters, Uma Musume, and Frieren."
+				],
+				[
+					"fix",
+					"Fixed an issue when searching for recent items in the Audio Library."
+				],
+				[
+					"fix",
+					"Improved colour picking algorithm (PC only).",
+					"Our proprietary image colour-picking algorithm for UI theming has been enhanced to interpret colours more accurately. For performance reasons, mobile devices will continue to use the previous version."
+				],
+				[
+					"add",
+					"[Market] Added a search box to the Props items."
+				],
+				[
+					"add",
+					"Added the “Staff report” category to the feedback.",
+					"This lets you report if a staff member does something that is against our policies, such as admin abuse, etc. since reports are reserved for regular players."
+				],
+				[
+					"add",
+					"Added a star feedback popup.",
+					"This popup will show up 5 minutes during gameplay, and will only be shown once every 14 days."
+				]
+			]
+		},
+		{
 			"id": 25072000,
 			"updateType": "update",
 			"title": "V3.40: Boombox improvements (20 Jul 2025)",
@@ -60,7 +105,7 @@
 				[
 					"fix",
 					"[Boombox] Fixed an issue where the slider range for the playback speed is too wide after disabling “Maintain pitch”.",
-					"You can still enter higher/lower speeds beyond this range depending on your Membership tier by typing it in the text field above the slider."
+					"You can still enter higher/lower speeds beyond this range depending on your Membership tier by typing it in the text field about the slider."
 				],
 				[
 					"fix",
