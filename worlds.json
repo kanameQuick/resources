@@ -1,84 +1,2057 @@
 {
-	"Main World": {
-		"category": "2D Image Roleplay",
-		"description": "The starting place for 2D Image Roleplay. A great place to chill and hang out with your friends.",
-		"placeId": 7226813029,
-		"worldImageId": 17215019032,
-		"recommendedFps": 20,
-		"builders": [
-			"namireen", "et. al."
-		],
-		"inspiration": null,
-		"copyright": null,
-		"credits": {
-			"FNF cardboard stage (Chill Zone)": "Funky Friday",
-			"Emu Otori statue": "Project Sekai: Colorful Stage!",
-			"Pom-Pom plush": "Honkai: Star Rail",
-			"City Map": "Nicolas77rrr",
-			"Miko Borgar (V2 Lobby)": "Become Fumo, Funky Friday"
+	"latest": 25081000,
+	"template": [
+		{
+			"id": 25,
+			"updateType": "update",
+			"title": "V3.X: Untitled (D M Y)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					""
+				],
+				[
+					"add",
+					""
+				],
+				[
+					"remove",
+					""
+				],
+				[
+					"critical",
+					""
+				],
+				[
+					"text",
+					""
+				]
+			]
+		},
+		{
+			"id": 25,
+			"updateType": "notice",
+			"title": "",
+			"bannerImage": 0,
+			"content": [
+				[
+					"text",
+					""
+				]
+			]
 		}
-	},
-	"The Beach": {
-		"category": "UNDER CONSTRUCTION • 2D Image Roleplay",
-		"description": "A great place to hang out with your friends and chilling under the hot summer sun.",
-		"placeId": 15493876596,
-		"worldImageId": 15510435505,
-		"recommendedFps": 45,
-		"builders": [
-			"namireen"
-		],
-		"inspiration": null,
-		"copyright": null,
-		"credits": {
-			"Beach Umbrella with Sunchairs": "abisammy",
-			"Beach Umbrella": "NickLeBuilder",
-			"Beach Chair": "Planispheric",
-			"Beach Towels": "OneVeryRandomPerson",
-			"Beach Ball": "HGRIsSad",
-			"Patrick & Pineapple": "SpongeBob SquarePants",
-			"Working Boats": "KoromaruLlm",
-			"Dock with Boat": "rofamal",
-			"Volleyball Net": "Buddahflys",
-			"Wall Outlet": "camcool12354",
-			"Hanging Light Bulb": "DevGr8M8",
-			"Omori": "omocat",
-			"Public Bathroom": "Garrett52Moon",
-			"Coconut Palm Tree Set": "FutureKevHD",
-			"Ceiling Light": "Jordrius",
-			"Ice Cream Freezer": "EndorsedModel"
+	],
+	"listing": [
+		{
+			"id": 25081000,
+			"updateType": "update",
+			"title": "V3.42: More Props/Fonts + New enhancement systems (10 Aug 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"🔤 Added 10 fonts to the font selection dropdowns.",
+					"Prompt, Mukta, Fira Sans, Lora, Silkscreen, Tajawal, Hind, Rajdhani, Sono, and Kanit."
+				],
+				[
+					"add",
+					"👥 Added <b>Friend bonuses</b> where you can have multiplied rewards based on the number of friends you have in the game.",
+					"This multiplier only applies to playtime rewards, and Mori purchases."
+				],
+				[
+					"add",
+					"📅 Added <b>Double EXP Weekends</b>.",
+					"This allows you to earn <b>double</b> the amount of EXP earned while staying in the experience, or sending messages to the chat."
+				],
+				[
+					"add",
+					"🔧 Added 5 new props to the experience.",
+					"Fish, Carrot, Popcorn, Vegetable Juice, and Bento Box."
+				],
+				[
+					"fix",
+					"Fixed an issue where the star feedback prompt does not appear in front of other screens."
+				],
+				[
+					"fix",
+					"Fixed localisation for the star feedback prompt."
+				],
+				[
+					"fix",
+					"Changed the close icon for the selfie feature to the new logo."
+				],
+				[
+					"fix",
+					"Changed the text for the “Back” button in the star feedback prompt to “Go back”."
+				],
+				[
+					"fix",
+					"Prevented showing the star feedback prompt for 14 days upon closing it without rating."
+				],
+				[
+					"fix",
+					"[Boombox] Updated the album art system since Roblox now embeds covers to thumbnails for some songs."
+				],
+				[
+					"fix",
+					"Prevented showing automatic album arts to people under 13.",
+					"This does not regard album arts provided by Roblox."
+				],
+				[
+					"fix",
+					"Fixed an issue under certain circumstances with displaying the amount of Mori when purchasing from the Market."
+				],
+				[
+					"fix",
+					"Fixed an issue under certain circumstances where the Mori stat in the Profile displays abnormally."
+				]
+			]
+		},
+		{
+			"id": 25080300,
+			"updateType": "update",
+			"title": "V3.41: Improved Audio Library + Feedback updates (3 Aug 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Made some improvements to Audio Library Beta interface.",
+					"This includes automatic cover images based on audio details, as well as automatic colour theming for the player bar."
+				],
+				[
+					"fix",
+					"Fixed an issue where the search button remains invisible when switching between libraries after navigating to a Special Library."
+				],
+				[
+					"add",
+					"Added new items to the Suggested list.",
+					"Hoshimachi Suisei, Miside, Kpop Demon Hunters, Uma Musume, and Frieren."
+				],
+				[
+					"fix",
+					"Fixed an issue when searching for recent items in the Audio Library."
+				],
+				[
+					"fix",
+					"Improved colour picking algorithm (PC only).",
+					"Our proprietary image colour-picking algorithm for UI theming has been enhanced to interpret colours more accurately. For performance reasons, mobile devices will continue to use the previous version."
+				],
+				[
+					"add",
+					"[Market] Added a search box to the Props items."
+				],
+				[
+					"add",
+					"Added the “Staff report” category to the feedback.",
+					"This lets you report if a staff member does something that is against our policies, such as admin abuse, etc. since reports are reserved for regular players."
+				],
+				[
+					"add",
+					"Added a star feedback popup.",
+					"This popup will show up 5 minutes during gameplay, and will only be shown once every 14 days."
+				]
+			]
+		},
+		{
+			"id": 25072000,
+			"updateType": "update",
+			"title": "V3.40: Boombox improvements (20 Jul 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"🏫 Made some small changes to the school."
+				],
+				[
+					"fix",
+					"Fixed an issue where the skip button for the tutorial is clickable even if it’s not visible."
+				],
+				[
+					"fix",
+					"[Boombox] Fixed an issue where the slider range for the playback speed is too wide after disabling “Maintain pitch”.",
+					"You can still enter higher/lower speeds beyond this range depending on your Membership tier by typing it in the text field about the slider."
+				],
+				[
+					"fix",
+					"[Boombox] Fixed an issue where the sound gets repeated briefly when seeking due to client-server latency."
+				],
+				[
+					"fix",
+					"[Boombox] Changed the font style for the prop’s nametags."
+				],
+				[
+					"fix",
+					"Made the boombox sound a fairly quiter."
+				],
+				[
+					"fix",
+					"Added a loudness threshold to the Boombox.",
+					"When a certain loudness level when playing the Boombox has been reached, it will automatically pause itself to prevent disturbing other people. To avoid this, you may lower the volume of the sound by clicking on the <b>Settings</b> button on the menu panel."
+				],
+				[
+					"fix",
+					"Changed the default volume for the Boombox to 70."
+				]
+			]
+		},
+		{
+			"id": 25071400,
+			"updateType": "update",
+			"title": "V3.39: New Lobby improvements + Revamped Boombox Beta (14 Jul 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"text",
+					"<i>I’m thinking Miku Miku oo ee oo</i>"
+				],
+				[
+					"fix",
+					"🏫 Made the bells in the School quieter."
+				],
+				[
+					"fix",
+					"🏫 Added more objects to the school (lights, trees, chairs, etc.)"
+				],
+				[
+					"fix",
+					"🗺️ Added a <b>School Field</b> zone."
+				],
+				[
+					"fix",
+					"📍 Added a teleport point to the school field."
+				],
+				[
+					"fix",
+					"⚽ Improved mechanics in the School’s football field."
+				],
+				[
+					"fix",
+					"➡️ Made the Skip button visible throughout the tutorial."
+				],
+				[
+					"fix",
+					"🛡️ [Amburn] Made an improvement to the anti-cheat."
+				],
+				[
+					"fix",
+					"🌲 Added a forest on the edges of the map.",
+					"The dedicated <b>Forest</b> map may be deprecated and removed in a future update."
+				],
+				[
+					"add",
+					"🚡 Added a cable car ride to the New Lobby",
+					"The internet’s “least used” emoji is now an actual ride in 2DIRP."
+				],
+				[
+					"add",
+					"📢 Added a cross-server notification system.",
+					"Admins can now send cross-server messages in the expeirence."
+				],
+				[
+					"fix",
+					"🚩 Decreased requirements for submitting reports to Roleplay Rank 5.",
+					"We have not received reports frequently, so we decided to lower the requirements to ensure that other people can help make 2DIRP a safer place."
+				],
+				[
+					"add",
+					"📻 Boombox Revamp released for public beta testing.",
+					"You may notice that we are 1 day off-schedule, because the new Boombox GUI takes a lot of time developing. You can also play/pause by pressing K, and rewind/fast-forward by pressing J and L respectedly (only works while the Boombox is equipped). This is currently in its beta phase, so it’s only availabe in the Main World for now."
+				],
+				[
+					"fix",
+					"Updated the logos in the interface."
+				]
+			]
+		},
+		{
+			"id": 25070600,
+			"updateType": "update",
+			"title": "V3.38: School Full Release + New Safety Implementation (6 Jul 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"Added a school with editable chalkboards, along with other implementations, such as the parking lot, running track, and football field."
+				],
+				[
+					"add",
+					"Added ERPSearcher from RubenSim.",
+					"ERPSearcher is a system where if a player joins, it scans a database of known violators of existing experiences, and kicks them out if found."
+				],
+				[
+					"add",
+					"[New Lobby] Added a bigger baseplate and huge mountains at the edges of the map."
+				]
+			]
+		},
+		{
+			"id": 25062900,
+			"updateType": "update",
+			"title": "V3.37: A New Start (29 Jun 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Made some improvements to the Menu and Profile interface."
+				],
+				[
+					"fix",
+					"Made an improvement to the anti-cheat."
+				],
+				[
+					"add",
+					"Added new buildings to V4 Lobby."
+				],
+				[
+					"remove",
+					"Removed the V2 Lobby from the Main World."
+				],
+				[
+					"fix",
+					"Made some improvements to the tutorial.",
+					"The delay between each pop-up in the tutorial should be quicker now."
+				],
+				[
+					"add",
+					"Added a respawning screen upon character death."
+				],
+				[
+					"add",
+					"Added the <b>New Lobby</b> banner image."
+				],
+				[
+					"remove",
+					"Removed some words from the chat filter."
+				],
+				[
+					"fix",
+					"Made a change to the readme text at experience startup."
+				]
+			]
+		},
+		{
+			"id": 24121500,
+			"updateType": "update",
+			"title": "V3.26: Prop Qualities and Library Improvements (15 Dec 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"🌟 Added a quality indication to props.",
+					"This information for the props is here for aesthetics."
+				],
+				[
+					"fix",
+					"🔊 Made the speakers on the countdown screen affect by the Props volume."
+				],
+				[
+					"fix",
+					"🔍 <font color='#ffff80'>Fixed an issue where the Image/Audio libraries become unavailable due to high demand.</font>"
+				],
+				[
+					"fix",
+					"🛡 Made a fix to Amburn anti-cheat."
+				],
+				[
+					"fix",
+					"Fixed an issue where the icon for Admin/Head Admin shows the Community Manager’s instead."
+				],
+				[
+					"fix",
+					"Renamed Featured Images to <b>Suggested</b> in the Image Library."
+				],
+				[
+					"fix",
+					"Made improvements to the chat filter.",
+					"We have decided to decrease the ban duration for repeated chat filter violations to <b>1 day</b>, as well as increasing the threshold of filtered messages before a ban to <b>10 messages</b>."
+				],
+				[
+					"add",
+					"Added a safety measure where messages containing certain symbols will get blocked.",
+					"This may be removed if Roblox fixes the issue of bypassing inappropriate words using these symbols."
+				],
+				[
+					"fix",
+					"Made an improvement to the drag scroll for desktop."
+				],
+				[
+					"fix",
+					"Prevented the showing of filtered (“tagged”) chat messages to other people to reduce mess.",
+					"When you send a message that was entirely filtered by Roblox, a note will show up in your message saying that your message was not shown to other people."
+				],
+				[
+					"fix",
+					"Fixed an issue where the graphics settings do not load upon rejoining."
+				]
+			]
+		},
+		{
+			"id": 24112400,
+			"updateType": "update",
+			"title": "V3.25: A big change to the Image and Audio libraries (24 Nov 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"text",
+					"Greetings everyone! As you all might know at this time, we have made a significant improvement to our image and audio libraries in 2D Image Roleplay. Here are some things that you might notice after the change:"
+				],
+				[
+					"fix",
+					"More search results",
+					"Searching will now return <b>100</b> results instead of 30. This makes looking for images more convenient rather than spending time clicking the Next Page button and waiting for the results to load again."
+				],
+				[
+					"fix",
+					"Search from more users",
+					"You can now search for images from some users that were initially not available in the old system. Useful if you want to search for an image from your friend whose images are not visible in the normal libraries."
+				],
+				[
+					"fix",
+					"No more junk results",
+					"Searching for names of characters that are not usual or commonly known does not return irrelevant results anymore (e.g., ‘Luo Tianyi’). Because of this, searching for images is now accurate and concise."
+				],
+				[
+					"text",
+					"All these changes help ensure a better search experience for everyone. Note that this is just one update; expect additional changes and improvements in a future update."
+				]
+			]
+		},
+		{
+			"id": 24111600,
+			"updateType": "update",
+			"title": "V3.24.3: Additional hotfixes (16 Nov 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"critical",
+					"Fixed an issue where the Amburn anti-cheat randomly bans some people (again).",
+					"We are currently monitoring the activity of the anti-cheat right now, and we will fix it when the issue persists."
+				],
+				[
+					"fix",
+					"Fixed an issue where the menu is not scrollable on mobile."
+				]
+			]
+		},
+		{
+			"id": 24103000,
+			"updateType": "update",
+			"title": "V3.24.2: Amburn hotfix (30 Oct 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"critical",
+					"Fixed an issue where the Amburn anti-cheat randomly bans some people due to a technical error."
+				]
+			]
+		},
+		{
+			"id": 24101300,
+			"updateType": "update",
+			"title": "V3.24.1: Winter update hotfix (13 Oct 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed issue where the purchasing prompt in the Market refuses to open in other worlds when trying to purchase a consumable or a new item."
+				],
+				[
+					"fix",
+					"Fixed an issue where the Morph screen does not open in other worlds."
+				],
+				[
+					"fix",
+					"Made some changes to the Special Thanks section in the Settings.",
+					"These include removing “deej_lan” and “QiQiEr”, as well as adding “Nadoshy12” to the section."
+				]
+			]
+		},
+		{
+			"id": 10000000,
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
+			]
 		}
-	},
-	"The Backrooms": {
-		"category": "Famous Maps",
-		"description": "The Backrooms is a popular online fiction born from a creepypasta, exemplifies the internet aesthetic of liminal spaces.",
-		"placeId": 15479881470,
-		"worldImageId": 15480313251,
-		"recommendedFps": 25,
-		"builders": [
-			"stormvader2006"
-		],
-		"inspiration": "The Backrooms",
-		"copyright": "Anonymous",
-		"credits": {
-			"Concept by": "Anonymous",
-			"Modified by": "namireen"
+	],
+	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"archive": [
+		{
+			"id": 24101200,
+			"updateType": "update",
+			"title": "V3.24: Winter update + big changes and improvements (12 Oct 2024)",
+			"bannerImage": 136314942231858,
+			"content": [
+				[
+					"text",
+					"It has been a while since we've made any updates to 2D Image Roleplay, until now. After this month-long hiatus, we have decided to go ahead and make some big changes to improve the user experience."
+				],
+				[
+					"fix",
+					"❄ Changed the Lobby's theme to winter.",
+					"As Christmas is right around the corner, we have decided that we add decorations and other objects to the Lobby as part of this upcoming season."
+				],
+				[
+					"add",
+					"🎶 <font color='#ffff80'>Songs by Nuskit is back!</font>",
+					"Finally, after an agreement with the uploader for the library, Songs by Nuskit has been returned and can now be played on the Boombox."
+				],
+				[
+					"add",
+					"🥤 Added a <b>Soda</b> prop.",
+					"A new prop to pair with your mouldy Bread Slice prop."
+				],
+				[
+					"add",
+					"🗣 Added the Feedback feature.",
+					"This feature allows players to submit feedback about the experience, report issues, and more. Although it is recommended to join our community servers to get a response from moderators and the development team."
+				],
+				[
+					"add",
+					"🔍 Added a zoom function to the Morph preview.",
+					"Useful if you want to see a closer look at your character before proceeding to morph."
+				],
+				[
+					"fix",
+					"Made some improvements to the user interface.",
+					"These include adding drop shadows to the prompts, as well as a blurred background effect for the Rules screen to let users focus on the rules first."
+				],
+				[
+					"fix",
+					"Fixed an issue where some background music is loud in other Worlds."
+				],
+				[
+					"fix",
+					"Made some improvements to the Updates window.",
+					"Dates are now shown below the titles and have a smaller text size."
+				],
+				[
+					"fix",
+					"Made some improvements to the Lobby map.",
+					"Lounges now have umbrellas to protect the tables from rain and especially snowfall, as well as adding speakers to the stage as it was missing since the new Lobby was released."
+				],
+				[
+					"fix",
+					"Made improvements to Amburn anti-cheat.",
+					"The anti-cheat now has a less chance of falsely kicking a person for exploiting, especially after resetting their character."
+				],
+				[
+					"add",
+					"Added an indicator for when a message has been filtered",
+					"Messages that you are trying to send that got filtered will now have a strikethrough and be highlighted in red, indicating your message has not been sent."
+				],
+				[
+					"add",
+					"Added some Generation Alpha (aka “brainrot”) words to the chat filter.",
+					"This is currently experimental and will be removed if enough complaints are sent via the Feedback feature."
+				],
+				[
+					"fix",
+					"Made some improvements to the chat filter."
+				],
+				[
+					"fix",
+					"Made some updates to the statues at the Infomation Centre.",
+					"The statue for @TwistedLen has now been replaced with @Nadoshy12, and added a statue for @douwantsus."
+				]
+			]
+		},
+		{
+			"id": 24080100,
+			"updateType": "update",
+			"title": "V3.23.1: Urgent hotfix for v3.23 (1 Aug 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where the user interface does not set up properly.",
+					"This only affects to people who were not eligible for beta testing. People who were eligible wasn't affected."
+				]
+			]
+		},
+		{
+			"id": 24073000,
+			"updateType": "update",
+			"title": "V3.23: More customisation + Improvements (30 Jul 2024)",
+			"bannerImage": 18719673944,
+			"content": [
+				[
+					"add",
+					"👤🔎 Added a 'quick search by creator' function.",
+					"This allows you to quickly search for images from the creator of the image you are viewing by clicking on the username in the Details panel. A feature that has been added back in V2."
+				],
+				[
+					"add",
+					"🖼🔧 Added vertical offset and rotation options to the image morph properties.",
+					"You can also invert the rotation for the back side if you have set a backwards-facing version of your character to the back side of your image to morph. However, image rotation is currently not supported for cropped images."
+				],
+				["image", 18719441952],
+				[
+					"fix",
+					"💾 Privacy and advanced options are now saved upon morphing or saving to Favourites."
+				],
+				[
+					"fix",
+					"🔎✨ Made improvements to the Image Search system.",
+					"We have fixed an issue where any keywords searched in the Image Library returned no results."
+				],
+				[
+					"fix",
+					"🧪 Made early-access to Beta Feature available to all Silver Members (except in Canada, Kuwait, and Sigapore)."
+				],
+				[
+					"add",
+					"🎨🔤 [BETA] Added a feature that lets you change the theme and the font for the user interface.",
+					"This lets you change how 2D Image Roleplay looks however you like. Note that only buttons and other UI elements are able to change colour. Available to eligible beta testers only. Check the Memberships page in the Market to learn more."
+				],
+				["image", 18719445789],
+				[
+					"fix",
+					"Improved animation for loading results to the Image Library."
+				],
+				[
+					"fix",
+					"Changed the text that shows up when searching for images containing blacklisted keywords.",
+					"Before: <i>You are not allowed to search for <b>[blacklisted keyword]</b>.</i>\nAfter: <i>Results for <b>[blacklisted keyword]</b> are blocked as they violate the experience rules.</i>"
+				],
+				["image", 18719444322],
+				[
+					"fix",
+					"Prevented searching for images created by groups as there is currently no possible method for it."
+				],
+				[
+					"fix",
+					"Made improvements to the Image Library panel."
+				]
+			]
+		},
+		{
+			"id": 24071400,
+			"updateType": "update",
+			"title": "V3.22: Improved Anti-Cheat and Additional Fixes (14 Jul 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"🛡 Made some improvements to Amburn anti-cheat."
+				],
+				[
+					"add",
+					"🚩 Added a new report reason: 'Spreading misinformation'.",
+					"Use this if you believe that the person is sharing false or non-factual information about an individual, a group of people, or an organisation, whether it's in the chat, a text sign, an image sign, or a morphed image. If we believe that the report submitted with this reason is true, we will take enforcement steps against the perpetrator, such as a 30-day up to a permanent ban."
+				],
+				[
+					"fix",
+					"Prevented toggle to walk when equipping some props.",
+					"This now prevents characters from walking if they are equipped with a prop that requires them to not walk in the first place."
+				],
+				[
+					"fix",
+					"Fixed an issue where a prop's HUD doesn't disappear when removed from the inventory while equipped."
+				],
+				[
+					"fix",
+					"Ensured that consumables do not get re-added to the inventory upon respawning once they are removed."
+				],
+				[
+					"fix",
+					"Fixed an issue regarding saving of data containing invalid Unicode characters."
+				],
+				[
+					"fix",
+					"Fixed some additional issues."
+				]
+			]
+		},
+		{
+			"id": 24062400,
+			"updateType": "update",
+			"title": "V3.21: Prop and Inventory updates (24 Jun 2024)",
+			"bannerImage": 18186766146,
+			"content": [
+				[
+					"add",
+					"🔧🗑️ Added a way to remove Props from the Inventory.",
+					"To remove a Prop, just hold down the item you want to remove on the hotbar or the Inventory panel and click on the 'REMOVE' button located in the options bar above the hotbar. Note that starter props cannot be permanently removed and will be re-added upon rejoining."
+				],
+				["image", 18158974311, 696, 137],
+				[
+					"add",
+					"💨 Added a <b>Portable Fan</b> prop.",
+					"As requested by a fellow visitor in 2D Image Roleplay."
+				],
+				[
+					"fix",
+					"Fixed an issue where a non-existing prop prevents users from obtaining new or purchased Props.",
+					"This issue only affects people who once purchased the 'Bread Loaf' prop, now known as 'Bread Slice'. The renaming caused the Inventory system to have problems, resulting in an 'Inventory is being loaded' error. This issue has now been resolved."
+				],
+				[
+					"fix",
+					"Made some minor fixes to the Memberships screen of the Market."
+				],
+				[
+					"fix",
+					"Fixed some additional issues."
+				]
+			]
+		},
+		{
+			"id": 24061700,
+			"updateType": "update",
+			"title": "V3.20: Toggle Walk and Markdowns (17 Jun 2024)",
+			"bannerImage": 17891086618,
+			"content": [
+				[
+					"fix",
+					"💬🚀 Optimised chat filter",
+					"We have made changes to the toxicity filter for all Worlds, which helped increase server performance by around 70 percent."
+				],
+				[
+					"fix",
+					"🍞 Renamed the 'Bread Loaf' prop to 'Bread Slice'."
+				],
+				[
+					"fix",
+					"✨ Made some small changes to the Membership benefits section in the Market."
+				],
+				[
+					"add",
+					"✨ Added a comparison table to the Memberships page in the Market."
+				],
+				[
+					"fix",
+					"🛡️⚠️ Fixed an issue where people occasionally get banned by Amburn due to a Roblox error.",
+					"For those who were affected by the ban, we sincerely apologise and unban the accounts as needed."
+				],
+				[
+					"fix",
+					"🖥️ Made some improvements to the UI system."
+				],
+				[
+					"add",
+					"🚶 Added 'Toggle Walk' functionality.",
+					"This lets your character slow down and walk by pressing the <b>Left Ctrl</b> key on your keyboard. Mobile users can also walk by dragging the thumbstick a few pixels away from the origin point."
+				],
+				[
+					"fix",
+					"🖱️🔒 Rebound 'Mouse Lock' action to the <b>Right Ctrl</b> key in favour of utilising the 'Toggle Walk' function."
+				],
+				[
+					"add",
+					"🔠🖌️ Added <b>Markdown Formatting</b> to the chat!",
+					"This allows you to make your text <b>**bold**</b>, <i>*italic*</i>, <u>__underline__</u>, <s>~~striketrough~~</s>, and more in the chat, just like you would on other chat platforms. As a bonus, you can also <font color='#FFFF80'>==highlight==</font> your text to make it appear yellow, which is useful for pointing things out, for example."
+				]
+			]
+		},
+		{
+			"id": 24052700,
+			"updateType": "update",
+			"title": "V3.19: New prop + additional fixes (27 May 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Updated the loading indicators for the user interface."
+				],
+				[
+					"fix",
+					"Fixed an issue where Amburn sometimes kicks people out for suspicious activity.",
+					"If you were affected by this, we sincerely apologise and will continue monitoring for any further issues that are happening with the anti-cheat."
+				],
+				[
+					"fix",
+					"Replaced the plants at the Lobby Fountain with flowers."
+				],
+				[
+					"fix",
+					"Made some changes with the 'Special Thanks' section in the Settings."
+				],
+				[
+					"fix",
+					"Updated one of the credits statues in the Infomation Centre."
+				],
+				[
+					"fix",
+					"Done some additional security updates."
+				],
+				[
+					"add",
+					"Added the <b>Bread Loaf</b> prop to the Market."
+				],
+				[
+					"fix",
+					"Made some changes to the Beach map."
+				],
+				[
+					"add",
+					"Added 'Wuthering Waves' to the Featured Searches list."
+				]
+			]
+		},
+		{
+			"id": 24052100,
+			"updateType": "notice",
+			"title": "Important: About the recent 2DIRP takedown",
+			"bannerImage": 17565016451,
+			"content": [
+				[
+					"text",
+					"There was recently an Intellectual Property (IP) takedown that happened in this experience."
+				],
+				[
+					"text",
+					"We've found out that it was <b>Nuskiterra/Nora who</b> submitted the requests according to the notice provided to us by Roblox."
+				],
+				[
+					"text",
+					"She has been actively sending false IP takedown requests to Roblox to gain an unfair advantage and potentially lose this Experience's daily active users, assuming that she has a dark past such as manipulating the Owner and gaining unauthorised developer access to this experience in its entirety."
+				],
+				[
+					"text",
+					"As a consequence, we have removed 'Songs by Nuskit' from the Audio Library indefinitely, as well as crediting her for the 'Friday Night Maps' world, despite her dark past."
+				],
+				[
+					"text",
+					"We are currently finding ways to stop these false requests from happening, for those who want to request audio from a specific game/show, feel free to provide one at the '#🎼〉song-request' channel in our Discord server."
+				],
+				[
+					"text",
+					"We will also be updating the exposure document about Nora, mentioning this scenario along with others not already mentioned."
+				],
+				[
+					"text",
+					"If there are any questions or feedback, feel free to send a message on the Discord server."
+				]
+			]
+		},
+		{
+			"id": 24051900,
+			"updateType": "update",
+			"title": "V3.18: Serious problem fixes (19 May 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Made falling into the void in the Lobby causes the character to teleport back to the spawn area instead of killing and then respawning."
+				],
+				[
+					"fix",
+					"Fixed an issue where the Map screen refuses to open."
+				],
+				[
+					"fix",
+					"Fixed a problem where starter Props and purchased consumables did not load at spawn."
+				],
+				[
+					"critical",
+					"Fixed some critical issues with Amburn anti-cheat."
+				],
+				[
+					"fix",
+					"Fixed a problem where the clouds in the lobby have a red tint at the bottom."
+				],
+				[
+					"fix",
+					"Fixed an issue under certain circumstances where the player falls off the map while teleporting.",
+					"This issue occurs when the 'Gameplay Paused' screen finishes showing too early, causing the character to let go while some parts of the map are still being streamed in."
+				],
+				[
+					"fix",
+					"Done some more fixes to the Advanced Image search system."
+				],
+				[
+					"fix",
+					"Fixed an issue where having a set Morph Transparency caused the morphed image to go completely invisible regardless of the amount of transparency or zoom distance."
+				]
+			]
+		},
+		{
+			"id": 24042000,
+			"updateType": "update",
+			"title": "V3.16: Introducing the New Lobby + Additional Changes (20 Apr 2024)",
+			"bannerImage": 17215312366,
+			"content": [
+				["text","Greetings, everyone!"],
+				["text","We are so happy to announce that we have updated the Lobby map for 2D Image Roleplay."],
+				["text","The new Lobby is built purely from imagination and inspiration from other derivative works in mind."],
+				["text","It now features new areas to explore, hang out, entertain, learn about this experience, and more. Not to mention, we have also increased the number of maximum people per server for this World so that more people can hang out and enjoy in this bigger and better Lobby. Here are the key things that have been added:"],
+				["text", "<b>Fountain</b> - We have added a fountain to the new Lobby like in V2 (the previous major release for 2DIRP). It is uniquely designed to be futuristic to fit with the modern world and it features a holographic display showing information, tips, ads, etc. It also has two benches to sit down on and glass panels around the fountain to make it more modern. (Don't worry, those glass panels won't shatter anytime soon.)"],
+				["text", "<b>Lounges</b> - The tables and couches near the Spawn are a great place for people to sit down, relax and chat, with plenty of room for up to 21 people."],
+				["text", "<b>Stage</b> - Perfect for people who want to show their talent to (almost) everyone in the server, or roleplay as one of those people who do <i>rap battles</i>, dancing, and other stage-related activities."],
+				["text", "<b>Redesigned Portals</b> - We have reimagined how the portals for other worlds should look like. It now resembles what is actually inside the portals (aka inside the Worlds associated), and the fonts for the names have now been redesigned to fit the theme of the World way more accurately."],
+				["text","<b>Information Centre</b> - You can learn more about 2D Image Roleplay, and its history, plus get to know about the people behind the experience, get live stats about how many moderation actions we have made and the number of subscribers for the WonderStars YouTube Channel, and more in the Information Centre located south of the Lobby map."],
+				["text","If you encounter issues with the new Lobby, feel free to talk in one of our community servers, or hit us up by sending a Message to @TwisteedRin* in Roblox."],
+				["text","*username may be subject to change."],
+				["text"," "],
+				["text","And now, here are the other updates as usual:"],
+
+				[
+					"fix",
+					"Made the Mori count only show a whole number.",
+					"This prevents making the Mori count in the Status Bar and Market display values such as '3,141.5', especially with an active Membership that multiplies received Mori by a decimal value (1.25x, 1.5x, etc.)"
+				],
+				[
+					"fix",
+					"Fixed an error where the minimap fails to work when the character falls into the void."
+				],
+				[
+					"fix",
+					"Made the 'Cursor Locked' popup only appear when Mouse Lock is on.",
+					"This is due to in certain circumstances, users who are sprinting while in first-person mode makes the popup appear randomly."
+				],
+				[
+					"fix",
+					"Fixed an issue with the Redeem section in the Market."
+				],
+				[
+					"fix",
+					"Made the Current and Total Playtime stats show the number of days."
+				],
+				[
+					"add",
+					"Added more fonts to the font dropdowns.",
+					"This includes "
+				],
+				[
+					"fix",
+					"Added 3 new Props.",
+					"Ruler, Calculator, and Lantern."
+				]
+			]
+		},
+		{
+			"id": 24031000,
+			"updateType": "notice",
+			"title": "Special: Minty/Nora Exposure Document",
+			"bannerImage": 16679330529,
+			"content": [
+				[
+					"text",
+					"<i>This entry has been made for people who can't use Discord.</i>"
+				],
+				[
+					"text",
+					"Good Morning/Evening Galaxiidae Games Fans. We have made this document due to certain events that have transpired about her."
+				],
+				[
+					"text",
+					"Evidence has been submitted to me, Nami, through a private group chat with former staff members of “Galaxiidae Games”. We shall not disclose any of the persons who were involved."
+				],
+				[
+					"text",
+					"Minty/Nora, The owner of “Galaxiidae Games”, has used WonderStars to gain intelligence about the owner, the staff team and future plans for updates of 2D Image Roleplay, as well as <b>obtaining a local copy of the game without authorisation.</b>"
+				],
+				[
+					"text",
+					"<h1>Evidence</h1>"
+				],
+				[
+					"text",
+					"Here are some evidence submitted to me as follows:"
+				],
+				[
+					"text",
+					"<i>Due to Roblox moderation, all censor bars in <font color='#ff00dc'>magenta</font> refers to <b>Nami</b>, the owner himself, and <font color='#0094FF'>blue</font> refers to <b>Minty/Nora</b>, the perpetrator behind the story.</i>"
+				],
+				[
+					"text",
+					"<h2>Gathering information about me</h2>"
+				],
+				[
+					"text",
+					"These evidences show that Minty/Nora is in fact, using me for her personal gain. This includes gathering as much info from me as much as possible, and she admitted that she’s the type of person to do so."
+				],
+				[
+					"image",
+					16695792211,
+					864, 556
+				],
+				[
+					"image",
+					16695828818,
+					381, 244
+				],
+				[
+					"image",
+					16695843911,
+					846, 112
+				],
+				[
+					"text",
+					"<h2>Having a downloaded copy of 2DIRP</h2>"
+				],
+				[
+					"text",
+					"The next one right here shows that Minty/Nora is <b>copying 2D Image Roleplay</b> and its source code, and <b>she does this while I am away or offline</b>. She is not authorised to obtain or download any of the game’s files, and <u>I only gave her Developer perms to make changes to her maps and make her audios playable in 2DIRP.</u>"
+				],
+				[
+					"text",
+					"This shows that Minty/Nora has given the files for 2DIRP to certain people she knows."
+				],
+				[
+					"image",
+					16695880330,
+					578, 85
+				],
+				[
+					"image",
+					16695939536,
+					575, 376
+				],
+				[
+					"text",
+					"The following message below is in Japanese but will have a translation under it."
+				],
+				[
+					"image",
+					16695955618,
+					792, 271
+				],
+				[
+					"text",
+					"<i><b>Anonymous:</b> Yes. You can find more evidence if you wish. I put this in Japanese so you can understand me better. I don't know on which server she posted the v3 file, but I remember him saying that, and she said, \"I accidentally opened it. \"I lost it,\" he said.</i>"
+				],
+				[
+					"text",
+					"<i><b>Nami:</b> Yes, please.</i>"
+				],
+				[
+					"text",
+					"Here are some more evidence that she has a copy of 2DIRP:"
+				],
+				[
+					"image",
+					16696064492,
+					541, 695
+				],
+				[
+					"text",
+					"This image shows that the file has been opened just recently."
+				],
+				[
+					"image",
+					16696087120,
+					919, 540
+				],
+				[
+					"image",
+					16696106090,
+					615, 126
+				],
+				[
+					"image",
+					16696126792,
+					750, 253
+				],
+				[
+					"text",
+					"<i>Side note: The version of 2DIRP she downloaded is 3.11.1, which was released on February 18, 2024.</i>"
+				],
+				[
+					"text",
+					"<h1>Document about her plans</h1>"
+				],
+				[
+					"text",
+					"This image shows a document she made about her plans to manipulate me"
+				],
+				[
+					"image",
+					16696199992,
+					740, 381
+				],
+				[
+					"text",
+					"<h1>Conclusion</h1>"
+				],
+				[
+					"text",
+					"Overall, Minty/Nora is in fact a <b>manipulative</b> person, and I regret being partners with her. We suggest blocking communications with her and any members who are on her server are advised to <b>leave</b> immediately."
+				],
+				[
+					"text",
+					"Also, players of \"Universal Interactions RP\" are advised to <b>stop playing</b> the game, and leave the group."
+				],
+				[
+					"text",
+					"That's all what I have in the document as of this moment. If you want to know more, please join our community server (13+ only)."
+				]
+			]
+		},
+		{
+			"id": 23120100,
+			"updateType": "event",
+			"title": "Introducing 2D Image Roleplay V3",
+			"bannerImage": 15479322104,
+			"content": [
+				[
+					"text",
+					"We have finally released the new major update of 2D Image Roleplay: Version 3. Now with a new look, new features, and a lot yet to come!"
+				],
+				[
+					"text",
+					"Here are some things that we've done in this major release:"
+				],
+				[
+					"add",
+					"Added Back Image",
+					"This feature allows you to set an image on the back side of your morph. Simply go to the Morph screen, click the arrow beside the 'Back' field, and select an image from the Library. You can also type it in manually if you want."
+				],
+				[
+					"add",
+					"Added Mori and an EXP system",
+					"We have added a feature that lets you earn Mori (a virtual currency) and EXP by visiting this experience. This will also help combat against abuse which means if people use an alt, they won't use intrusive props such as Boomboxes and Signs once they newly join."
+				],
+				[
+					"add",
+					"Added a custom Inventory feature",
+					"It allows you to show or hide the hotbar, move props by holding down their respective button and clicking to somewhere in the hotbar or hide it in the Inventory window, and search for props using the search bar at the top right corner."
+				],
+				[
+					"add",
+					"Added Worlds",
+					"To improve performance, we have split certain maps into 'Worlds'. This feature allows you to go to certain Worlds by entering one of the portals (in the Lobby), or by clicking on the 'Worlds' button on the menu."
+				],
+				[
+					"critical",
+					"Added some new safety features",
+					"This includes custom chat filtering, which blocks certain words that some people might find offensive, and improvements with Amburn, our proprietary anti-cheat engine built specifically for 2D Image Roleplay."
+				],
+				[
+					"fix",
+					"Quality of life improvements",
+					"We improved how everything in the interface behaves when being interacted. This includes collapsible panels in the Morph screen on mobile to fit more items more easily."
+				],
+				[
+					"fix",
+					"Improvements in performance",
+					"We have managed to optimise this experience to make it more accessible on lower-end devices, including devices before 2018."
+				],
+				[
+					"add",
+					"Added Emu Otori to the Lobby",
+					"Say 'Wonderhoy'."
+				],
+				[
+					"remove",
+					"Removed Herobrine"
+				],
+				[
+					"text",
+					"More features are yet to come in the near future!"
+				]
+			]
+		},
+		{
+			"id": 23112700,
+			"updateType": "notice",
+			"title": "Information regarding to V2 shutdown",
+			"bannerImage": 15478849594,
+			"content": [
+				[
+					"text",
+					"People are waiting to get 2D Image Roleplay to be publicly available again, and some are catching up on the progress of V3. It's been a while since the experience has been closed, so here are the reasons why we have to shut down the old 2D Image Roleplay V2."
+				],
+				[
+					"text",
+					"The first is to maintain the safety of other people as this major update includes a new safety system and a couple of security updates. Second, we will use the public release to assess certain features such as teleporting to other Worlds. And third, we had to shut it down because of an issue with the anti-cheat."
+				],
+				[
+					"text",
+					"Do not worry, as all your data from V2 which includes your Favourites, Recent Morphs, etc. are moved over to the new V3, and people who were banned by the anti-cheat due to an issue have now been unbanned."
+				]
+			]
+		},
+		{
+			"id": 24030900,
+			"updateType": "notice",
+			"title": "Important Information Regarding to Former Developer",
+			"bannerImage": 16679330529,
+			"content": [
+				[
+					"text",
+					"To those who may be concerned, we had temporarily shut down 2D Image Roleplay regarding a recent unexpected scenario that occurred during this time."
+				],
+				[
+					"text",
+					"As it turns out, a now-former Developer of WonderStars, <b>@nora_univers3</b>, has been suspected of manipulating the owner to gather intelligence, as well as downloading a copy of 2D Image Roleplay (version 3.11.1) without proper authorisation."
+				],
+				[
+					"text",
+					"A document about this incident has been made and posted on the WonderStars Discord server with all the submitted evidence. If you want to learn more about this, you can read it yourself."
+				],
+				[
+					"text",
+					"This experience has now been reinstated after certain security patches have been made to ensure the safety of our users."
+				],
+				[
+					"text",
+					"<i>Notice: You must be at least 13 years old to use Discord.</i>"
+				]
+			]
+		},
+		{
+			"id": 24051300,
+			"updateType": "update",
+			"title": "V3.17.1: Anti-cheat hotfix (13 May 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"critical",
+					"Fixed an issue where people most often got kicked by Amburn anti-cheat in other Worlds."
+				]
+			]
+		},
+		{
+			"id": 24051200,
+			"updateType": "update",
+			"title": "V3.17: Lobby improvements and optimisations (12 May 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"<b>Made additional optimisation changes to the Lobby.</b>",
+					"Because of this, changes to texture/mesh settings now require rejoining because of objects not loaded from far away, leading to only the pre-loaded ones to apply changes."
+				],
+				[
+					"fix",
+					"Updated the Image Library search keyword blacklist."
+				],
+				[
+					"fix",
+					"Made improvements to Amburn anti-cheat."
+				],
+				[
+					"fix",
+					"Made searching for Images even better.",
+					"What this means is that searching for names of certain characters that are innocent (which are typically filtered by Roblox for some reason) can now show results in the Image Library. This does not guarantee that ALL names of characters aren't going to be filtered, and it may still return no results."
+				],
+				[
+					"fix",
+					"Fixed an issue where, in some Worlds, the layout for the items in the 'Redeem' section is not in order."
+				],
+				[
+					"add",
+					"Added icons beside the text for Membership benifits in the Market."
+				],
+				[
+					"add",
+					"Added a minimap image for the Chill Zone."
+				],
+				[
+					"fix",
+					"Recovered the Emu Otori model in the Lobby."
+				],
+				[
+					"fix",
+					"Made sure that the Calculator prop wasn't checking for user inputs while unequipped."
+				],
+				[
+					"fix",
+					"Fixed an issue where certain numpad keys don't respond to the Calculator prop."
+				],
+				[
+					"add",
+					"Added a new decoration to the Lobby."
+				],
+				[
+					"fix",
+					"Made some fixes to the chat filter."
+				],
+				[
+					"add",
+					"Fixed the Lobby fountain banners not showing up."
+				],
+				[
+					"fix",
+					"Fixed an issue where the minimap incorrectly shows the character's position on mobile phones."
+				],
+				[
+					"fix",
+					"Fixed an issue under certain circumstances where Membership data fails to load, causing certain features to misbehave."
+				],
+				[
+					"fix",
+					"Fixed an issue where graphics options don't save upon closing the Settings screen.",
+					"This is what causes the graphics settings to undo changes when rejoining the experience."
+				],
+				[
+					"fix",
+					"Fixed the Backrooms wallpaper texture not being loaded."
+				]
+			]
+		},
+		{
+			"id": 24040200,
+			"updateType": "update",
+			"title": "V3.15: Revived Songs by Nuskit (2 Apr 24)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"<font color='#ffff80'>Successfully revived the Songs by Nuskit audio library.</font>",
+					"You can now play your favourite video game music/OSTs uploaded by Nuskit on your Boombox, thanks to a simple technique that we should rather not disclose how it works. Currently, only audios before 8 March 2024 are available to play in 2D Image Roleplay."
+				],
+				[
+					"fix",
+					"Fixed an issue with user bans."
+				],
+				[
+					"fix",
+					"Fixed an issue with the Portals system."
+				],
+				[
+					"fix",
+					"Made the toast notification for Props being added to your Inventory show the icon for the Prop itself.",
+					"Also added toast notification icons for Mori and Memberships being purchased as well."
+				],
+				[
+					"fix",
+					"Fixed an issue where the icon for Friends or Props toast notifications are tinted."
+				],
+				[
+					"add",
+					"Added Roblox's 'Builder' family to the font selection dropdowns."
+				],
+				[
+					"fix",
+					"Prevented people from earning playtime rewards during Idle/AFK."
+				],
+				[
+					"fix",
+					"Made the mouse cursor free in first-person mode by holding the Left Alt key (or Option for Mac users)."
+				],
+				[
+					"add",
+					"Made the cursor switch to a crosshair while in first-person or with shift-lock on.",
+					"It is useful for users who don't want to get distracted by the default cursor while in first-person."
+				],
+				[
+					"fix",
+					"Made some changes to the instructions on how to get Gift Codes in the Market."
+				],
+				[
+					"add",
+					"Added warnings for sending specific types of filtered words in the chat.",
+					"Do not even try this or you may get yourself banned from this experience. Do this at your own risk. Here are some examples:"
+				],
+				[
+					"image",
+					16980622415
+				],
+				[
+					"add",
+					"Added new badges to the experience."
+				],
+				[
+					"add",
+					"Added a notification for when the mouse cursor is locked."
+				],
+				[
+					"fix",
+					"Fixed an issue where equipping the Robux prop in the City causes a permanent ban by the anti-cheat."
+				]
+			]
+		},
+		{
+			"id": 24031700,
+			"updateType": "update",
+			"title": "2D Image Roleplay: Version π (17 Mar 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Made the chat box larger on mobile phones."
+				],
+				[
+					"fix",
+					"Made improvements to the Worlds select screen."
+				],
+				[
+					"fix",
+					"Made the dot for the Menu button will now disappear if <b>all</b> items in the Menu also have their dots disappeared."
+				],
+				[
+					"add",
+					"Added a notice dot to the Worlds button in the Menu.",
+					"This points visitors to the World select screen before they can start roleplaying."
+				],
+				[
+					"fix",
+					"Prevented the Server Location from showing fictional locations (or placeholders), when possible.",
+					"This does not guarantee that the Server Location won't as one of the placeholders due to certain errors on that cannot be fixed in the experience-side."
+				],
+				[
+					"add",
+					"<font color='#ffff80'>Added the Pie prop.</font>",
+					"To celebrate an event that happened 3 days ago, we have added a new consumable, which is the 'Pie'. It is available to all users regardless of Roleplay rank."
+				],
+				[
+					"fix",
+					"Made improvements to the chat filter."
+				],
+				[
+					"fix",
+					"Made the images for the Updates have different scaling insteadead of having just one.",
+					"This makes the some text more readable, especially if the size is small."
+				],
+				[
+					"fix",
+					"Prevented people from morphing while not in normal state (e.g. Swimming, Climbing, etc.)"
+				],
+				[
+					"add",
+					"Added the number of people who are inside the World on portals."
+				],
+				[
+					"critical",
+					"Made members of the 'Galaxiidae Games' Roblox group get automatically kicked from this experience.",
+					"In response to a recent boycott situation happening in their Discord server, we have made a decision to permanently <b>block</b> any members of their Roblox group from joining 2D Image Roleplay."
+				],
+				[
+					"add",
+					"Added Portal text for the V2 Lobby."
+				],
+				[
+					"add",
+					"Added more zones to the Beach map."
+				]
+			]
+		},
+		{
+			"id": 24030200,
+			"updateType": "update",
+			"title": "V3.13: New Settings and World People Counts (3 Mar 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Updated thumbnail for the Lobby map in Map Selector."
+				],
+				[
+					"fix",
+					"Made changes to the credits in Settings."
+				],
+				[
+					"fix",
+					"Updated the Report prompt.",
+					"We have changed the size of the Report prompt, and this also fixes the issue where sometimes the contents of the window don't appear as it opens."
+				],
+				[
+					"add",
+					"Added info text showing location information.",
+					"This shows your current location on the map, based on the zone you last visited. You can turn this off in the Settings."
+				],
+				[
+					"fix",
+					"Improved the Roleplay Name filter whitelist.",
+					"This list will now get frequent updates without updating the entire experience."
+				],
+				[
+					"add",
+					"Added settings to hide or change the behaviour of the Minimap.",
+					"For new users, the minimap rotation behaviour will be set to 'Fixed' by default but can be changed to rotate automatically with the camera in Settings."
+				],
+				[
+					"add",
+					"Added options to toggle the visibility of specific information in the status bar.",
+					"These settings can be found in the Miscellaneous category."
+				],
+				[
+					"fix",
+					"Improved drag-scrolling for desktop."
+				],
+				[
+					"fix",
+					"Fixed issue where some keywords return no results."
+				],
+				[
+					"add",
+					"Added a player count to the Worlds list."
+				]
+			]
+		},
+		{
+			"id": 24022400,
+			"updateType": "update",
+			"title": "V3.12: AFK Tag, Improved Icons, etc. (25 Feb 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where in other maps, the text for the Map Select button shows as 'Lobby' by default."
+				],
+				[
+					"fix",
+					"Made sure that the icon for the Map Select button uses the thumbnail for the maps."
+				],
+				[
+					"critical",
+					"Ensured that characters won't be colliding each other again.",
+					"This caused numerous exploit attempts such as flinging people. This also affects other features and easter eggs, such as claiming the 'Shout of Wonder' and the 'Pro Gamer' badge."
+				],
+				[
+					"fix",
+					"Fixed an issue where users cannot submit a report relating to sending messages in chat."
+				],
+				[
+					"fix",
+					"Changed capitalisation for 'Crop position' and 'Crop size'."
+				],
+				[
+					"fix",
+					"Made additional fixes user interface issues."
+				],
+				[
+					"fix",
+					"Made the Menu not drag-scrollable while the Rules window is open."
+				],
+				[
+					"add",
+					"Added the names of TADC characters to the filter whitelist.",
+					"Setting your RP Name to one of the mentioned characters is guaranteed to not be filtered anymore as long as it's in a proper format."
+				],
+				[
+					"fix",
+					"Changed colour for the notification dot to make it more noticeable."
+				],
+				[
+					"fix",
+					"Fixed Nametag blocking part of the chat bubble."
+				],
+				[
+					"fix",
+					"Made some improvements to the chat filter.",
+					"This makes servers run a little bit faster now, especially with multiple messages being sent at a time thanks to caching."
+				],
+				[
+					"fix",
+					"Improved icons for the Menu, Inventory and Rules."
+				],
+				[
+					"add",
+					"Added an 'Idle/AFK' tag that appears if no input has been detected from the user for at least 1 minute."
+				],
+				[
+					"fix",
+					"Fixed an issue where dropped Dice sometimes remains if its owner has left the server."
+				],
+				[
+					"fix",
+					"Made sure that the sides of the D20 Dice when equipped does not clip through images.",
+					"For technical reasons, The dice now appear as a black colour when equipped, but it'll appear as pink when dropped."
+				],
+				[
+					"fix",
+					"Made some changes to the Laptop prop."
+				],
+				[
+					"fix",
+					"Moved the Menu button to the side of the minimap.",
+					"This was done due to a Roblox UI update that causes its buttons on the left side to block the Menu button."
+				],
+				[
+					"fix",
+					"Fixed an issue with the structure in V2 Lobby.",
+					"This shows that if a character spawns in the middle of the Lobby Park, they teleport to the top of the structure."
+				],
+				[
+					"fix",
+					"Made some fixes to the Friday Night Maps world."
+				],
+				[
+					"fix",
+					"Fixed an issue with the thumbnail for the 'Friday Night Maps' World as being low-quality."
+				],
+				[
+					"fix",
+					"Renamed the map from 'Sonic EXE' to 'Sonic.EXE'."
+				]
+			]
+		},
+		{
+			"id": 24021600,
+			"updateType": "update",
+			"title": "V3.11: New props, new maps! (18 Feb 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where an error mostly occurs when selecting a saved item from the Morph library.",
+					"This happens to both the Favourites and the Recents. This issue has been fixed and most images can be used now."
+				],
+				[
+					"add",
+					"Added a new system where people can now be banned for 3 days after sending too many filtered messages."
+				],
+				[
+					"add",
+					"Fixed an issue where people get banned by the anti-cheat unexpectedly due to localisation problems."
+				],
+				[
+					"add",
+					"Added 2 new props to the experience.",
+					"This includes <b>Dice</b> and <b>Dice D20</b>."
+				],
+				[
+					"fix",
+					"Improved the thumbnail for some maps in the Map selector.",
+					"The thumbnail for some maps now shows an image of one specific place instead of showing the entire map, making it clear what is actually inside."
+				],
+				[
+					"add",
+					"Added new maps to the experience!",
+					"We have added new maps based on the popular action rhythm game, \"Friday Night Funkin'\". These maps are based on the top 3 popular mods: <b>Vs. Kapi</b>, <b>Mid-fight masses</b>, and <b>Sonic.EXE</b>. To access the World containing these maps, go to Menu > Worlds, and select 'Friday Night Maps'."
+				]
+			]
+		},
+		{
+			"id": 24020201,
+			"updateType": "notice",
+			"title": "Information regarding to February 2024 shutdown",
+			"bannerImage": 14797490206,
+			"content": [
+				[
+					"text",
+					"It's been a while since the last shutdown of 2D Image Roleplay, but we did it again for the first time ever this year. Here is a story as to what happened and why the experience has shut down in the first place."
+				],
+				[
+					"text",
+					"There has been a recent admin abuse that happened a few days ago in which a now-blacklisted former staff member gave almost every person flying, causing the anti-cheat to ban them in an instant. Because of this tragic scenario, we have no choice but to unrank the person who is potentially responsible and shut down the experience to prevent further damage."
+				],
+				[
+					"text",
+					"If you have seen another (probably undercover) staff member who does this kind of behaviour, don't hesitate to report to us immediately by sending a message to @namireen via Roblox's Message feature, or on our official Discord server."
+				]
+			]
+		},
+		{
+			"id": 24020200,
+			"updateType": "update",
+			"title": "V3.10 Release Notes (2 Feb 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where people can't send messages when the chat fonts are set to italic ones (e.g. Source Sans Italic)."
+				],
+				[
+					"fix",
+					"Fixed the issue where Graphics settings for Computer has most lighting settings turned off by default."
+				],
+				[
+					"fix",
+					"Renamed shader settings to 'Lighting'."
+				],
+				[
+					"fix",
+					"Fixed the intensity of sun rays as it was too bright when looked directly at the sun."
+				],
+				[
+					"critical",
+					"Fixed an issue where certain props outside the Market falsely triggers the anti-cheat."
+				],
+				[
+					"fix",
+					"Fixed additional issues."
+				]
+			]
+		},
+		{
+			"id": 24012100,
+			"updateType": "update",
+			"title": "V3.9 Release Notes (21 Jan 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed a problem where people get banned by the anti-cheat for having certain props that are outside the Market."
+				],
+				[
+					"fix",
+					"Fixed an issue where two of the same character sounds were playing simultaneously."
+				],
+				[
+					"fix",
+					"[Market] Made the Props items section not scrollable while the 'Confirm purchase' dialogue is open."
+				],
+				[
+					"fix",
+					"Fixed an issue where people did not claim the 'Met the Creator' badge immediately when joining a server with the creator already in it."
+				],
+				[
+					"add",
+					"Added a badge for playing the game for 30 minutes straight.",
+					"Because why not? :trollface:"
+				],
+				[
+					"fix",
+					"Fixed Bottle prop clipping through images."
+				],
+				[
+					"add",
+					"[Morph] Added size and position fields for the Image Crop screen."
+				],
+				[
+					"add",
+					"Added Graphics settings.",
+					"These new settings allow you to enable or disable textures or meshes, as well as lighting such as atmosphere, bloom, and shadows."
+				],
+				[
+					"fix",
+					"Made most props affect loudness when changing the Props Volume."
+				],
+				[
+					"fix",
+					"Fixed additional issues."
+				]
+			]
+		},
+		{
+			"id": 24011400,
+			"updateType": "update",
+			"title": "V3.8 Release Notes (14 Jan 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where the anti-cheat sometimes kicks players when jumping off of a seat."
+				],
+				[
+					"fix",
+					"Added some improvements to the anti-cheat."
+				],
+				[
+					"fix",
+					"Fixed an issue where tapping and holding certain elements (like a prop item) doesn't work properly on mobile.",
+					"We have this issue since the release of V3. We tried fixing this issue once, but failed."
+				],
+				[
+					"fix",
+					"Made improvements for the Report feature."
+				],
+				[
+					"fix",
+					"Made sure that the loading screen is skipped immediately when clicking on 'Skip loading'."
+				],
+				[
+					"add",
+					"Added more teleport points in V2 Lobby."
+				],
+				[
+					"add",
+					"Added a minimap for the Beach."
+				],
+				[
+					"fix",
+					"Fixed additional issues."
+				]
+			]
+		},
+		{
+			"id": 24010600,
+			"updateType": "update",
+			"title": "V3.7 Release Notes (6 Jan 2024)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue regarding the sound for the Airhorn prop.",
+					"Sounds coming from the Airhorn prop cannot be heard from farther away anymore."
+				],
+				[
+					"fix",
+					"Fixed sound distance for the Drums prop."
+				],
+				[
+					"fix",
+					"Made sure that cropping resets when restoring defaults for the scaling in the Morph screen."
+				],
+				[
+					"remove",
+					"Removed 'amongusred3223' from the Special Thanks section in the Settings.",
+					"This is due to a breach of contract with the mentioned user, and other reasons that we should rather not disclose."
+				],
+				[
+					"add",
+					"Added an option to use the system time as the time of day in the Settings."
+				],
+				[
+					"critical",
+					"Added improvements to Amburn anti-cheat."
+				],
+				[
+					"fix",
+					"Fixed issues with the chat filter."
+				],
+				[
+					"fix",
+					"Updated role icon for people whose chatting features are disabled."
+				],
+				[
+					"fix",
+					"Fixed additional issues."
+				]
+			]
+		},
+		{
+			"id": 23123000,
+			"updateType": "update",
+			"title": "V3.6 Release Notes (30 Dec 2023)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed the sound distance for the Piano in the Lobby."
+				],
+				[
+					"fix",
+					"Fixed writing issue in the About section of the Settings."
+				],
+				[
+					"add",
+					"Added buttons that allows you to restore certain properties to their defaults on the Morph customisation."
+				],
+				[
+					"fix",
+					"Fixed additional issues."
+				]
+			]
+		},
+		{
+			"id": 23122300,
+			"updateType": "update",
+			"title": "V3.5 Release Notes (23 Dec 2023)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where Special group members don't have Gold Membership automatically."
+				],
+				[
+					"fix",
+					"Done some rewording on the Selfie screen and Favourites removal messages."
+				],
+				[
+					"fix",
+					"Updated search keyword blacklist for the Audio Library."
+				],
+				[
+					"fix",
+					"Fixed an issue where characters start colliding with each other."
+				],
+				[
+					"add",
+					"Added a sign beside the Portal Ad in the Lobby."
+				],
+				[
+					"fix",
+					"Prevent new items from getting added to the people list when searching for a person."
+				],
+				[
+					"fix",
+					"Fixed an issue with the in-experience chat system."
+				],
+				[
+					"fix",
+					"Fixed an issue with saving purchased props."
+				],
+				[
+					"fix",
+					"Fixed issues with the custom chat filter."
+				],
+				[
+					"fix",
+					"Updated the icon for Owner and Co-owner.",
+					"Some people think that the cloud icon (which refers to the Team Teriffic logo back then), does not mean anything to them, so we have changed it."
+				],
+				[
+					"image",
+					15721215066
+				],
+				[
+					"fix",
+					"Made some improvements to the chat filter."
+				],
+				[
+					"add",
+					"Added Christmas decorations to the Lobby."
+				]
+			]
+		},
+		{
+			"id": 23121600,
+			"updateType": "update",
+			"title": "V3.4 Release Notes (17 Dec 2023)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Fixed an issue where the Market sometimes doesn't load indefinitely."
+				],
+				[
+					"fix",
+					"Added text labels to the expand/collapse buttons of the Morph panels for easy access."
+				],
+				[
+					"fix",
+					"Fixed scaling issues with the Updates dialogue."
+				],
+				[
+					"fix",
+					"Fixed an issue where the screenshot sound effect does not play.",
+					"Pressing the 'Print Screen' key on your keyboard when inside certain screens does not play a sound. This issue has now been resolved."
+				],
+				[
+					"add",
+					"Added a Portal Advertisement to the lobby."
+				],
+				[
+					"add",
+					"Added system message for when a person has been banned by Amburn."
+				],
+				[
+					"fix",
+					"Fixed an issue where when a character dies, the corresponding people list item doesn't reset."
+				],
+				[
+					"remove",
+					"Removed the automatic removal of Layered Clothing.",
+					"Since exploits regarding Layered Clothing are infrequent nowadays, we have decided that we now removed a safety feature that has been added since V2 as we found that some people are complaining and showing their frustrations about the mentioned safety feature."
+				],
+				[
+					"critical",
+					"Fixed an issue where consumable props could be duped by resetting the character before they are loaded into the backpack."
+				],
+				[
+					"add",
+					"Added a piano to the Lobby."
+				],
+				[
+					"add",
+					"Added the Harp prop.",
+					"To avoid the possibility of being banned, ensure that you either create an original piece or possess the appropriate rights to use the soundtrack you intend to play on the Harp."
+				],
+				[
+					"fix",
+					"Fixed additional issues."
+				]
+			]
+		},
+		{
+			"id": 23121300,
+			"updateType": "update",
+			"title": "V3.3 Release Notes (13 Dec 2023)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Updated the Audio Search keyword blacklist."
+				],
+				[
+					"add",
+					"Added 'TADC' to the Featured Searches in the Image Library."
+				],
+				[
+					"fix",
+					"Made the 'Development Build' text not visible on release builds."
+				],
+				[
+					"add",
+					"Added custom text filtering to roleplay names, bios, and Text Signs."
+				],
+				[
+					"fix",
+					"Fixed some formatting issues with the people list."
+				],
+				[
+					"fix",
+					"Fixed an issue where the Menu can still be drag-scrolled with a mouse while the Updates dialogue is open."
+				],
+				[
+					"critical",
+					"Fixed a serious issue where Amburn refuses to work.",
+					"We didn't see this issue happening until we realised that a person who's not a staff member can fly without triggering the anti-cheat."
+				],
+				[
+					"add",
+					"Made use of the keyword blacklist when selecting an image that's not from the Marketplace."
+				],
+				[
+					"fix",
+					"Fixed some issues about searching for people whose roleplay name is changed after joining."
+				],
+				[
+					"fix",
+					"Improved the custom chat filter.",
+					"It may not block words that the chat filter thinks it's offensive anymore, but that doesn't guarantee that it'll not block certain non-blacklisted words."
+				],
+				[
+					"add",
+					"Added the V2 Lobby map as a World.",
+					"You can now visit the lobby from the previous major release of 2D Image Roleplay. To visit it, go to Menu > Worlds > V2 Lobby and click 'Teleport'."
+				],
+				[
+					"fix",
+					"Fixed other miscellaneous issues."
+				]
+			]
+		},
+		{
+			"id": 23120600,
+			"updateType": "update",
+			"title": "V3.2 Release Notes (6 Dec 2023)",
+			"bannerImage": null,
+			"content": [
+				[
+					"fix",
+					"Done some changes to group blacklist."
+				],
+				[
+					"fix",
+					"Fixed an issue where some words were unintentionally blocked in the chat by the filter."
+				],
+				[
+					"fix",
+					"Fixed some issues with validating images.",
+					"There was an issue where some images in the Image Library failed to validate, especially ones made by Roblox groups."
+				],
+				[
+					"fix",
+					"Fixed an issue where staff members and Special people can be reported.",
+					"We saw that staff members and Special people were shown in the dropdown when opening the Report prompt. That issue has now been resolved."
+				],
+				[
+					"fix",
+					"Fixed issues with the banning system."
+				],
+				[
+					"fix",
+					"Fixed an issue where the World Teleport prompt and the Worlds selection screen can be scrolled simultaneously by dragging with a mouse."
+				],
+				[
+					"add",
+					"Added a safety component to The Beach."
+				]
+			]
 		}
-	},
-	"Friday Night Roleplayin’": {
-		"category": "Video Game Maps",
-		"description": "This World contains maps based on the top 3 mods from the hit rhythm game 'FNF': \"Vs. Kapi\", \"Mid-fight Masses\", and \"Sonic.EXE\".",
-		"placeId": 16402236072,
-		"worldImageId": 16518576993,
-		"recommendedFps": 20,
-		"builders": [
-			"namireen", "Nuskiterra"
-		],
-		"inspiration": "Friday Night Funkin'",
-		"copyright": null,
-		"credits": {
-			"Vs. Kapi": "paperkitty",
-			"Mid-fight Masses": "Mike Geno",
-			"Sonic.EXE": "RightBurstUltra"
-		}
-	}
+	]
 }
