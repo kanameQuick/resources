@@ -1,5 +1,5 @@
 {
-	"latest": 25080300,
+	"latest": 25081000,
 	"template": [
 		{
 			"id": 25,
@@ -43,6 +43,71 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25081000,
+			"updateType": "update",
+			"title": "V3.X: Untitled (D M Y)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"🔤 Added 10 fonts to the font selection dropdowns.",
+					"Prompt, Mukta, Fira Sans, Lora, Silkscreen, Tajawal, Hind, Rajdhani, Sono, and Kanit."
+				],
+				[
+					"add",
+					"👥 Added <b>Friend bonuses</b>where you can have multiplied rewards based on the number of friends you have in the game.",
+					"This multiplier only applies to playtime rewards, and Mori purchases."
+				],
+				[
+					"add",
+					"📅 Added <b>Double EXP Weekends</b>.",
+					"This allows you to earn <b>double</b> the amount of EXP earned while staying in the experience, or sending messages to the chat."
+				],
+				[
+					"add",
+					"🔧 Added 5 new props to the experience.",
+					"Fish, Carrot, Popcorn, Vegetable Juice, and Bento Box."
+				],
+				[
+					"fix",
+					"Fixed an issue where the star feedback prompt does not appear in front of other screens."
+				],
+				[
+					"fix",
+					"Fixed localisation for the star feedback prompt."
+				],
+				[
+					"fix",
+					"Changed the close icon for the selfie feature to the new logo."
+				],
+				[
+					"fix",
+					"Changed the text for the “Back” button in the star feedback prompt to “Go back”."
+				],
+				[
+					"fix",
+					"Prevented showing the star feedback prompt for 14 days upon closing it without rating."
+				],
+				[
+					"fix",
+					"[Boombox] Updated the album art system since Roblox now embeds covers to thumbnails for some songs."
+				],
+				[
+					"fix",
+					"Prevented showing automatic album arts to people under 13.",
+					"This does not regard album arts provided by Roblox."
+				],
+				[
+					"fix",
+					"Fixed an issue under certain circumstances with displaying the amount of Mori when purchasing from the Market."
+				],
+				[
+					"fix",
+					"Fixed an issue under certain circumstances where the Mori stat in the Profile displays abnormally."
+				]
+			]
+		},
 		{
 			"id": 25080300,
 			"updateType": "update",
