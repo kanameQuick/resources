@@ -46,7 +46,7 @@
 		{
 			"id": 25081000,
 			"updateType": "update",
-			"title": "V3.X: Untitled (D M Y)",
+			"title": "V3.42: More Props/Fonts + New enhancement systems (10 Aug 2025)",
 			"bannerImage": null,
 			"content": [
 				[
@@ -56,7 +56,7 @@
 				],
 				[
 					"add",
-					"👥 Added <b>Friend bonuses</b>where you can have multiplied rewards based on the number of friends you have in the game.",
+					"👥 Added <b>Friend bonuses</b> where you can have multiplied rewards based on the number of friends you have in the game.",
 					"This multiplier only applies to playtime rewards, and Mori purchases."
 				],
 				[
@@ -111,7 +111,7 @@
 		{
 			"id": 25080300,
 			"updateType": "update",
-			"title": "V3.41.0: Improved Audio Library + Feedback updates (3 Aug 2025)",
+			"title": "V3.41: Improved Audio Library + Feedback updates (3 Aug 2025)",
 			"bannerImage": null,
 			"content": [
 				[
