@@ -25,7 +25,7 @@
     },
     "71934965392436": {
         "albumArt": 17822453192,
-        "hasLyrics": true,
+        "hasLyrics": false,
         "artist": "JustSomeClown"
     },
     "113799458460184": {
@@ -34,4 +34,5 @@
         "artist": "Sān-Z, HOYO-MiX"
     }
 }
+
 
