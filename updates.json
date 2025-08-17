@@ -1,5 +1,5 @@
 {
-	"latest": 25081000,
+	"latest": 25081700,
 	"template": [
 		{
 			"id": 25,
@@ -26,6 +26,10 @@
 				[
 					"text",
 					""
+				],
+				[
+					"yoimiya",
+					""
 				]
 			]
 		},
@@ -43,6 +47,44 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25081700,
+			"updateType": "update",
+			"title": "V3.43: UI Improvements + New Scaling Settings (17 Aug 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"add",
+					"🖼️ [Morph] Added <b>Size Presets</b> and the <b>Lock aspect ratio</b> setting.",
+					"This give you a more quicker control on the scaling of your character."
+				],
+				[
+					"add",
+					"👁️ Added the ability to show/hide the top buttons and the minimap.",
+					"This allows you to have a cleaner and mess-free experience on small screens."
+				],
+				[
+					"fix",
+					"Changed the position of the top buttons because of Roblox’s HUD update."
+				],
+				[
+					"fix",
+					"[Morph] Reordered the customisation properties section to prioritise the <b>Information</b> section ­— making it more visible on smaller screens."
+				],
+				[
+					"fix",
+					"Made some improvements to the user interface."
+				],
+				[
+					"fix",
+					"Fixed an issue regarding text localisation for song titles — expecially ones from <b>Yifka’s Song Library</b>."
+				],
+				[
+					"fix",
+					"Fixed an abnormal horizontal drag scrolling behaviour on PC."
+				]
+			]
+		},
 		{
 			"id": 25081000,
 			"updateType": "update",
@@ -331,6 +373,33 @@
 			]
 		},
 		{
+			"id": 10000000,
+			"updateType": "notice",
+			"title": "Beware of Imitators",
+			"bannerImage": 15478541056,
+			"content": [
+				[
+					"text",
+					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
+				],
+				[
+					"text",
+					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
+				],
+				[
+					"text",
+					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
+				],
+				[
+					"text",
+					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
+				]
+			]
+		}
+	],
+	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+	"archive": [
+		{
 			"id": 24121500,
 			"updateType": "update",
 			"title": "V3.26: Prop Qualities and Library Improvements (15 Dec 2024)",
@@ -467,33 +536,6 @@
 				]
 			]
 		},
-		{
-			"id": 10000000,
-			"updateType": "notice",
-			"title": "Beware of Imitators",
-			"bannerImage": 15478541056,
-			"content": [
-				[
-					"text",
-					"Experiences can be copied, decompiled, and saved entirely by bad actors using exploits, and a developer with malicious intent will also re-publish it and claim it as theirs."
-				],
-				[
-					"text",
-					"If you ever see an exact or slightly modified replica of 2D Image Roleplay, we recommend that you immediately report it to us on our community server."
-				],
-				[
-					"text",
-					"Imitations of this experience shall be removed under copyright law, so if we ever see one, we may file a DMCA takedown request against it."
-				],
-				[
-					"text",
-					"A person (which we will not disclose the name for safety reasons) had attempted to copy the entire 2D Image Roleplay V2 and its assets, but that isn't much of a big deal anymore because it's the previous version of this experience. You can learn more about this situation in the document posted on our community server (13+ only)."
-				]
-			]
-		}
-	],
-	"----------------------------------------------------": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
-	"archive": [
 		{
 			"id": 24101200,
 			"updateType": "update",
