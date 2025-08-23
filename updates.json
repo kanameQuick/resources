@@ -1,5 +1,5 @@
 {
-	"latest": 25081700,
+	"latest": 25082300,
 	"template": [
 		{
 			"id": 25,
@@ -47,6 +47,34 @@
 		}
 	],
 	"listing": [
+		{
+			"id": 25082300,
+			"updateType": "update",
+			"title": "V3.43.1: Small map updates + improvements (23 Aug 2025)",
+			"bannerImage": null,
+			"content": [
+				[
+					"text",
+					"Due to health reasons, I will be temporarily pausing development on 2D Image Roleplay. I appreciate your patience and understanding during this time. Development will resume once I have fully recovered. Thank you for your continued support."
+				],
+				[
+					"fix",
+					"🗺️ Updated the map for the Main World."
+				],
+				[
+					"add",
+					"⛽ Added a <b>Gas Station</b> to the Main World."
+				],
+				[
+					"fix",
+					"[Market] Fixed an issue with displaying the amount of Mori required and after purchase."
+				],
+				[
+					"fix",
+					"[Inventory] Made the items change colour depending on the prop’s rarity."
+				]
+			]
+		},
 		{
 			"id": 25081700,
 			"updateType": "update",
