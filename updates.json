@@ -83,6 +83,16 @@
 					"Added a <b>Theme Park</b> to the main world, located north-west from the lobby."
 				],
 				[
+					"add",
+					"Added Mori pickups.",
+					"Mori pickups are scattered across the main world, and when touched, it gives the person a certain amount of Mori."
+				],
+				[
+					"add",
+					"Added Mori pickup trucks.",
+					"These trucks will open after 30 minutes of server uptime. They are located in front of the lobby, and right beside the bank."
+				],
+				[
 					"fix",
 					"Made some additional improvements."
 				]
